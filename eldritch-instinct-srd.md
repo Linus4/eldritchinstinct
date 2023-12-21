@@ -337,7 +337,7 @@ Roll on the following table to determine the four most significant things that t
 
 ## Rules
 
-### Abilities & Saves
+### Abilities & Resistances
 
 Each of the six **abilities** and **resistances** are used in different circumstances.
 
@@ -351,7 +351,7 @@ Each of the six **abilities** and **resistances** are used in different circumst
 
 **Constitution (CON)**: Used to resist injury and to determine the rate at which you heal.
 
-**Luck**: Used to resist mishaps and misfortune.
+**Luck**: Used to resist misfortune, and to determine if you notice little details and warning signs.
 
 As a PC's WIL or CON change, adjust their HP, MP and Fortitude according to the rules in character creation.
 
@@ -367,7 +367,7 @@ When a player makes a roll and the PC has a situational **advantage**, roll twic
 
 ### Luck
 
-You may spend 5 Luck to re-roll one of your saves except Fortitude saves and when the result was a critical fail. After each session, make a Luck save and regain 1d10 Luck if you fail, but you cannot have more than 90 Luck.
+You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restaore 1d10 Luck if you fail, but you cannot have more than 90 Luck.
 
 ### Armor
 
@@ -397,7 +397,7 @@ However, if you are wounded, make a CON save after every week. On a success, rec
 
 #### First Aid
 
-A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, *stabilize* a dying character for one hour, stop *bleeding* and save a character with a *lethal injury* from rolling a Death Save. Takes 1 round and can be attempted again *once* in the following round.
+A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, stop *bleeding* and save a character with a *lethal injury* from rolling a Death Save. Takes 1 round and can be attempted again *once* in the following round.
 
 **Lethal Injury**: Receive first aid within 1d10 rounds or make a Death Save.
 
@@ -731,7 +731,7 @@ Roll equal to or under ability score to avoid consequences. 91-99 is always a fa
 
 ### Luck
 
-You may spend 5 Luck to re-roll one of your saves except Fortitude saves and when the result was a critical fail. After each session, make a Luck save and restore 1d10 Luck on a fail.
+You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restore 1d10 Luck on a fail.
 
 ### Actions
 
