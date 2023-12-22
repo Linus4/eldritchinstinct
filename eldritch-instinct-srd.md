@@ -439,7 +439,7 @@ When you do or witness something that goes against Humanity, roll 1d20. If the r
 
 **Fight**: you must destroy the stimulus.\
 **Flight**: you must run away from the stimulus.\
-**Freeze**: you must either freeze or hide from the stimulus.\
+**Freeze**: you must either freeze or hide from the stimulus.
 
 The options do not have to be taken literally, but there is a lot of room for interpretation. Sometimes, the player may roll the save later when their PC has a chance to reflect upon their actions.
 
@@ -517,7 +517,7 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 **Stakes**: do the PCs ask for a lot or just a small favor?\
 **Motivation**: does the PC's proposition align with what the NPC wants?\
 **Respect**: does the NPC personally respect the PCs based on their behavior and reputation?\
-**Leverage**: do the PCs present anything that forces the NPC's hand?\
+**Leverage**: do the PCs present anything that forces the NPC's hand?
 
 Most social encounters can be resolved by roleplay alone. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. If the result is 'curious' (6-8), the NPC wants something to sweeten the deal, and if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
 
