@@ -10,7 +10,7 @@ nav_order: 2
 **Eldritch Instinct** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
 Download the game in other formats (including Markdown, OpenDocument Text) and character sheets from [here](https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing).
 
-**Eldritch Instinct** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+**Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
 This game is inspired by other tabletop roleplaying games like Mothership by Tuesday Knight Games, Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing, Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc., Into the Odd by Chris McDowall, Blades in the Dark by John Harper and Rats in the Walls by Kobayashi. Eldritch Instinct was designed to run longer Call of Cthulhu scenarios and campaigns using streamlined rules with great mechanics adapted from all kinds of roleplaying games while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha.
