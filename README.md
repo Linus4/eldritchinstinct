@@ -17,6 +17,8 @@ Apocrypha. Written by Linus Weber.
 
 Download the PDF with images and practical layout from
 [here](https://drive.google.com/file/d/1LwJnYOLhiDtaLIK4KTcaRg-FhSVIx8Dj/view?usp=sharing).
+Print the PDF using the 'booklet' setting and staple-bind the pages to craft your 
+own digest or A5 sized booklet as shown in [this video](https://www.youtube.com/watch?v=gFbk3Ypb5CY).
 The source files are available in other formats (including Markdown,
 OpenDocument Text)
 [here](https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing).
