@@ -74,7 +74,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 
 ### Rolls
-- Is what the players describe and how they leverage the situation sensible? Let it happen. Is it impossible? Tell them so.
+- Is what the players describe and how they leverage the situation sensible? Let it happen.
 - Reward clever ideas and creative use of equipment or the environment. 
 - Only ask for saves in very intense situations when the characters act under pressure.
 - Consider the margins of success or failure. Failure could mean that the situation gets much worse, or that success comes at a cost (time, resources, harm, situational disadvantage).
@@ -90,7 +90,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Questions
 - Make sure that there is room for roleplay between characters and allow players to inject details into the fictional world.
-- Ask a lot of questions like: what is going on in your head? How does that make you feel? How do you respond? What are you doing? What do you think about this?
+- Ask a lot of questions like: what is going on in your head? How does that make you feel? How do you respond? What are you doing?
 - Employ Jason Cordova's [Paint The Scene](https://www.gauntlet-rpg.com/blog/paint-the-scene) technique: "if there is an idea, theme, or visual motif that is particularly important for an encounter or scene, ask the players what their characters observe in the scene that reinforces that idea, theme, or motif."
 
 ### Pacing
@@ -100,7 +100,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Expectations
 - Before playing, establish shared expectations with your players. Show them these principles and use something like Patrick O'Leary’s [CATS method](https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html) (Concept, Aim, Tone, Subject Matter).
-- Prepare a strong introduction for your session in order to create the right mood, pull your players into the fictional world and serve as an example for your players.
+- Prepare a strong introduction for your session in order to create the right mood, pull your players into the fictional world and serve as an example for the players.
 
 ### The Trajectory of Fear
 - Your goal is not to explicitly scare your players, but to create an immersive, eerie atmosphere and to build tension.
