@@ -647,7 +647,7 @@ If a PC has 3 or more points at the start of the third obstacle, they may help a
 
 | d20 | STR | d20 | SPE | d20 | INT |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Something is in the way (crates, furniture). | 8 | Get past people in time. | 15 | Find a place to hide. |
+| 1 | Something is in the way (crates, furniture). | 8 | Get past something in time. | 15 | Find a place to hide. |
 | 2 | You are being slowed down (thicket, people). | 9 | Get down a slope. | 16 | A deep puddle. |
 | 3 | Climb a wall. | 10 | Run across open field. | 17 | Cross a busy road. |
 | 4 | Jump across a gap. | 11 | A fallen tree. | 18 | Fog or darkness. |
