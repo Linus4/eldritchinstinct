@@ -256,7 +256,7 @@ All PCs begin with:
 
 #### Bonus Item
 
-| 1-10 | 11-15 | 16-17 | 20 |
+| 1-10 | 11-15 | 16-19 | 20 |
 | :---: | :---: | :---: | :---: |
 | Item from Equipment Table | Melee Weapon | Pistol | Rifle or Shotgun |
 
