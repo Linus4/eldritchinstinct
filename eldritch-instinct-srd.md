@@ -519,7 +519,7 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 **Respect**: does the NPC personally respect the PCs based on their behavior and reputation?\
 **Leverage**: do the PCs present anything that forces the NPC's hand?
 
-Most social encounters can be resolved by roleplay alone. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. If the result is 'curious' (6-8), the NPC wants something to sweeten the deal, and if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
+Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
 
 ### Research
 
@@ -626,7 +626,7 @@ During a chase, the PCs have to overcome *three* critical obstacles which requir
 
 #### Difficulty
 
-If the chase is particularly easy or difficult, the PCs must roll with [-] or [+] on some of the saves. The Warden announces at the start of the chase how many [-] or [+] must be applied, but the players may choose which saves they want to roll with [-] or [+].
+If the chase is particularly easy or difficult, the PCs must roll with [-] or [+] on some of the saves. The Warden announces at the start of the chase how many [-] or [+] must be applied, but the players may choose which saves they want to roll with [-] or [+] as they come up.
 
 | very hard | hard | normal | easy | very easy |
 | --- | --- | --- | --- | --- |
