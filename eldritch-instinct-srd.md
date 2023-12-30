@@ -662,9 +662,9 @@ Ideally, the obstacles the PCs have to overcome should be what is in the path ea
 
 ### Stealth & Deception
 
-If the PCs do not have to stay unnoticed or unrecognized for very long, it is sufficient to have everyone make a Luck save. PCs are exposed on a critical fail.
+If the PCs do not have to stay unnoticed or unrecognized for very long, it is sufficient to have everyone make a Luck save. PCs are exposed on a critical fail. For example: *hiding in the bushes waiting for the cultist to pass by.*
 
-However, if the PCs' scheme is more complex, make a clock by drawing a circle in dividing it into a number of sections: 4 for moderate complexity like breaking into a house, or 6-8 for more complex ones. As time passes, or when the PCs are loud, fill in a section.
+However, if the PCs' scheme is more complex, make a clock by drawing a circle and dividing it into a number of sections: 4 for moderate complexity like breaking into a house, or 6-8 for more complex ones. As time passes, or when the PCs are loud, fill in a section.
 
 The Warden should throw in a few critical situations when the PCs quickly have to find a hiding spot or find an excuse for why they should be allowed to be there. They should usually require a save. Fill in another section on a fail, and two on a critical fail. A great device is to give PC choices. For example: *hiding under a desk has a 70 % chance of success, while hiding in a closet has a 90 % chance of success, but the PC must drop bulky items.*
 
