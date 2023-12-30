@@ -645,6 +645,8 @@ If a PC has 3 or more points at the start of the third obstacle, they may help a
 
 ### Chase Obstacles
 
+Ideally, the obstacles the PCs have to overcome should be what is in the path each PC chooses in the fictional world. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works. You can use the following table for inspiration.
+
 | d20 | STR | d20 | SPE | d20 | INT |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Something is in the way (crates, furniture). | 8 | Get past something in time. | 15 | Find a place to hide. |
