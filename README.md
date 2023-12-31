@@ -9,9 +9,8 @@ In **Eldritch Instinct**, players act as curious investigators of the strange
 and unexplained. They will run from delusional cultists, hide from stalking
 shadows and face terrifying monstrosities. And they will change - through
 encounters with the unnatural forces of the Mythos and the limits of their own
-Humanity. The game was designed to run longer Call of Cthulhu scenarios and
-campaigns using streamlined rules with great mechanics adapted from all kinds
-of roleplaying games while following the axioms of the old school style as
+Humanity. The game was designed to run longer scenarios and campaigns using
+streamlined rules while following the axioms of the old school style as
 described by Ben Milton, Steven Lumpkin and David Perry in the Principia
 Apocrypha. Written by Linus Weber.
 
