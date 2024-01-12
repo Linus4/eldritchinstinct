@@ -436,7 +436,7 @@ When you experience something mind-shatteringly dreadful or when your Sanity hit
 
 #### Notches
 
-**Hardened**: for every three Hardened notches you lose one of your bonds.\
+**Hardened**: for every three Hardened notches you lose one of your bonds. You cannot have more Mythos knowledge than 10 times your number of Hardened notches.\
 **Failed**: for every three Failed notches you develop one undesirable condition. You might feel compelled to do something or behave in a certain way, fear something, develop an unhealthy coping mechanism or suffer from delusions. When you lose the third notch, the condition improves, but kicks back in when you get back to the third notch. You and Warden may also corrupt the PC’s personality and bonds, excluding the PC’s key connection.
 
 ### Getting Better
@@ -737,7 +737,7 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) takes twice the amou
 ### Healing
 
 A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal a wound on a critical success, or when you recover to more than half of your maximum HP.
-A PC deprived of a crucial need (such as food or rest) is unable to recover HP.
+A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
 ### Combat
 
@@ -751,9 +751,13 @@ First, the Warden determines all PCs who are being attacked in melee. These PCs 
 
 If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious. If you have 0 HP, fall unconscious and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
+### Sanity Save
+
+Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+
 ### Fortitude Save
 
-When you do or witness something that goes against Humanity, roll 1d20. If the result is smaller than or equal to your Fortitude minus the Intensity of the stimulus, fill in a Hardened notch on the appropriate gauge. Otherwise, fill in a Failed notch on the appropriate gauge and follow one of three options until you have a chance to calm down: **Fight**: you must destroy the stimulus. **Flight**: you must run away from the stimulus. **Freeze**: you must either freeze or hide from the stimulus.
+Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 ### Getting Better
 
