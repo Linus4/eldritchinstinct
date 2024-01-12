@@ -424,41 +424,28 @@ A PC can make an appropriate save to tend to someone's wound. When you attempt t
 
 ## Mythos
 
-### Gauges of Humanity
+### Sanity Save
 
-PCs change when they are confronted with horrors and endure hardship.
+When you witnesses something wholly unnatural and awful, roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude Save and set your Sanity back to 2.
 
-**Violence**: being shot at, witnessing a brutal murder, seeing a mutilated body.\
-**Unnatural**: seeing things that cannot be, encountering an otherworldly monster for the first time, gaining insight into things the human mind cannot comprehend.\
-**Guilt**: lying to a loved one, causing harm to innocents, abandoning friends.\
-**Self-Abandonment**: neglecting your needs, feeling helpless, overexerting yourself, knowing that you will die soon.
+After 8 hours of uninterrupted rest, reset your Sanity to 4.
 
-### Fortitude Save
+### Fortitude save
 
-When you do or witness something that goes against Humanity, roll 1d20. If the result is smaller than or equal to your Fortitude minus the **Intensity** (1-10) of the stimulus, fill in a Hardened notch on the appropriate gauge. Otherwise, fill in a Failed notch on the appropriate gauge and follow one of three options until you have a chance to calm down:
-
-**Fight**: you must destroy the stimulus.\
-**Flight**: you must run away from the stimulus.\
-**Freeze**: you must either freeze or hide from the stimulus.
-
-The options do not have to be taken literally, but there is a lot of room for interpretation. Sometimes, the player may roll the save later when their PC has a chance to reflect upon their actions.
-
-#### Example
-
-*Arthur left a close friend behind trying to flee from a cultist ritual. Later that day, when he settles down in a safe space, he fails his Fortitude save. Therefore, he might drown his guilt in alcohol (fight), talk himself into believing that there was no other way (flight), or lie awake for the whole night (freeze).*
+When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL Save. On a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 #### Notches
 
-**Hardened**: you do not have to make a Fortitude save if you have a number of Hardened notches equal to or larger than the intensity of the stimulus in the appropriate gauge.\
-**Failed**: for every 5 Failed notches that your PC has *in total* they develop one undesirable condition. They might feel compelled to do something, fear something, develop an unhealthy coping mechanism or suffer from delusions. When the PC loses the fifth notch, the condition improves, but kicks back in when the PC gets back to the fifth notch. The player and Warden may also corrupt the PC's personality and bonds, excluding the PC's key connection.
+**Hardened**: for every three Hardened notches you lose one of your bonds.\
+**Failed**: for every three Failed notches you develop one undesirable condition. You might feel compelled to do something or behave in a certain way, fear something, develop an unhealthy coping mechanism or suffer from delusions. When you lose the third notch, the condition improves, but kicks back in when you get back to the third notch. You and Warden may also corrupt the PC’s personality and bonds, excluding the PC’s key connection.
 
 ### Getting Better
 
-There are a number of possibilities to remove Failed notches from a PC's gauges of Humanity.
+There are a number of possibilities to remove Failed notches. Every time you successfully get rid of one Failed notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, they roll 1d20. If the result is smaller than or equal to their Fortitude, they can remove a Failed notch. Otherwise, they have to revise their bond and can no longer use it for self-help. If they spend time with their key connection, they roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, they make this bond their new key connection.\
-**Sanatorium**: A PC may commit themselves to a sanatorium for one month and roll 1d20. If the result is smaller than or equal to their Fortitude, they can remove a Failed notch. If they roll a 20, they make a Fortitude save.\
-**Cover traces**: Once per session, if a PC suppresses knowledge of the Unnatural (e.g. burning tomes or dealing with witnesses), they roll 1d20. If the result is smaller than or equal to their Fortitude, they can remove a Failed notch. Severe trauma might require more drastic measures.\
+**Self-help**: When a PC spends time with one of their bonds, make a WIL Save. On a success, remove a Failed notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
+**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL Save, remove a Failed notch. If you roll a Critical Fail, make a Fortitude save.\
+**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL Save. On a success, remove a Failed notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Failed notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
