@@ -377,7 +377,7 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 
 When you have 0 HP, roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another Death Save.
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
 
 Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
 
@@ -397,9 +397,9 @@ However, if you are wounded, make a CON save after every week. On a success, rec
 
 #### First Aid
 
-A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, stop *bleeding* and save a character with a *lethal injury* from rolling a Death Save. Takes 1 round and can be attempted again *once* in the following round.
+A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, stop *bleeding* and save a character with a *lethal injury* from rolling a death save. Takes 1 round and can be attempted again *once* in the following round.
 
-**Lethal Injury**: Receive first aid within 1d10 rounds or make a Death Save.
+**Lethal Injury**: Receive first aid within 1d10 rounds or make a death save.
 
 ### Wounds Table
 
@@ -414,7 +414,7 @@ A PC can make an appropriate save to tend to someone's wound. When you attempt t
 | 60 | [-] on saves of one ability or resistance until cured. | 6 | Stomach |
 | 70 | Lethal Injury. | 7 | Chest |
 | 80 | Lethal Injury and Bleeding or Burning. | 8 | Neck |
-| 90 | Death Save. | 9 | Head |
+| 90 | Death save. | 9 | Head |
 
 **Bleeding**: You lose 1 HP per turn until First Aid is applied.\
 **Burning**: You lose 1 HP per turn until the fire is put out.
@@ -426,13 +426,13 @@ A PC can make an appropriate save to tend to someone's wound. When you attempt t
 
 ### Sanity Save
 
-When you witnesses something wholly unnatural and awful, roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude Save and set your Sanity back to 2.
+When you witnesses something wholly unnatural and awful, roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude save and set your Sanity back to 2.
 
 After 8 hours of uninterrupted rest, reset your Sanity to 4.
 
-### Fortitude save
+### Fortitude Save
 
-When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL Save. On a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 #### Notches
 
@@ -443,9 +443,9 @@ When you experience something mind-shatteringly dreadful or when your Sanity hit
 
 There are a number of possibilities to remove Failed notches. Every time you successfully get rid of one Failed notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, make a WIL Save. On a success, remove a Failed notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
-**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL Save, remove a Failed notch. If you roll a Critical Fail, make a Fortitude save.\
-**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL Save. On a success, remove a Failed notch. Severe trauma might require more drastic measures.\
+**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Failed notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
+**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL save, remove a Failed notch. If you roll a Critical Fail, make a Fortitude save.\
+**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL save. On a success, remove a Failed notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Failed notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
@@ -453,11 +453,11 @@ There are a number of possibilities to remove Failed notches. Every time you suc
 
 ### Mythos Knowledge
 
-Players may try to roll under their PC's Mythos Knowledge to see if their character knows *anything* about a creature, artifact, organization or something else Mythos-related. A PC cannot have more Mythos knowledge than 10 times the amount of Hardened or Failed notches in the Unnatural gauge - whichever is higher.
+Players may try to roll under their PC’s Mythos Knowledge to see if their character knows *anything* about a creature, artifact, organization or something else Mythos-related. A PC cannot have more Mythos knowledge than 10 times their number of Hardened notches.
 
 ### Tomes
 
-PCs can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader must make a Fortitude save with an intensity equal to the tome's **Mythos Rating** and may then increase their Mythos knowledge by half of the tome's Mythos rating.
+PCs can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader must make a Fortitude save and may then increase their Mythos knowledge by half of the tome's **Mythos Rating**.
 
 Further **study** of the tome takes 2d6 days, and after another Fortitude save, the PC increases their Mythos knowledge by the tome's full Mythos rating. A PC may study each tome at most 4 times.
 
@@ -467,7 +467,7 @@ Some tomes might contain instructions for casting spells, which take 2d6 days to
 
 For the **First Evocation**, the PC must make a Mythos knowledge save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
-Casting a spell can cost MP, WIL or require a Fortitude save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
+Casting a spell can cost MP, WIL or require a Sanity or Fortitude save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
 
 Some spells require you to win an **opposed** WIL save against your target. Whoever rolls the *highest* number under or equal to their WIL wins the save. If both sides fail, the *lowest* result wins. Add any WIL above 100 to your result.
 
@@ -477,7 +477,7 @@ If you successfully cast a spell that was opposed by someone's WIL, increase you
 
 | d8 | Lesser spells | Greater spells |
 | --- | --- | --- |
-| 1 | Small or weak life forms wither and die. | Mind shattering visions. Gain 2 Failed notches in each gauge. |
+| 1 | Small or weak life forms wither and die. | Mind shattering visions. Gain 6 Failed notches. |
 | 2 | Unbearable stench. | Your body and face contort permanently. |
 | 3 | Moon and stars vanish. Or total solar eclipse. | Devastating thunderstorm and tides. |
 | 4 | Gusts of wind, rumbling, strange lights in the sky. | Your eyes change as you are possessed. |
@@ -514,9 +514,9 @@ A PC can do research by talking to strangers in bars, studying books in a librar
 
 When these conditions are met, the PC only needs time in order to get answers. The default scale used here is shifts (1 shift = 8 hours), but the Warden should adapt it to whatever makes sense in the scenario. The Warden announces the scale and rolls 2d6 in secret, or 1d6 if the PC is particularly knowledgeable in the field.
 
-The PC declares how much time they want to spend, and if that is longer than or equal to the result of the roll, they get everything. Otherwise, they get *nothing or only some part* of what can be learned. They may then spend more time on research, but that might leave them **deprived** (Self-Abandonment), or strain relationships with their loved ones (Guilt).
+The PC declares how much time they want to spend, and if that is longer than or equal to the result of the roll, they get everything. Otherwise, they get *nothing or only some part* of what can be learned. They may then spend more time on research, but working through the night leaves PCs **deprived**..
 
-**Deprived**: A PC deprived of a crucial need (such as food or rest) is unable to recover HP.\
+**Deprived**: A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.\
 **Shift**: Lasts for 8 hours. PCs must rest for roughly one shift per day and can work for two shifts without any problems.\
 **Turn**: Lasts for 10 minutes.
 
@@ -749,7 +749,7 @@ First, the Warden determines all PCs who are being attacked in melee. These PCs 
 
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious. If you have 0 HP, fall unconscious and make a Death Save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
+If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious. If you have 0 HP, fall unconscious and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
 ### Fortitude Save
 
