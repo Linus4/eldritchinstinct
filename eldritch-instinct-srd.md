@@ -432,21 +432,21 @@ After 8 hours of uninterrupted rest, reset your Sanity to 4.
 
 ### Fortitude Save
 
-When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 #### Notches
 
 **Hardened**: for every three Hardened notches you lose one of your bonds. You cannot have more Mythos knowledge than 10 times your number of Hardened notches.\
-**Failed**: for every three Failed notches you develop one undesirable condition. You might feel compelled to do something or behave in a certain way, fear something, develop an unhealthy coping mechanism or suffer from delusions. When you lose the third notch, the condition improves, but kicks back in when you get back to the third notch. You and Warden may also corrupt the PC’s personality and bonds, excluding the PC’s key connection.
+**Broken**: for every three Broken notches you develop one undesirable condition. You might feel compelled to do something or behave in a certain way, fear something, develop an unhealthy coping mechanism or suffer from delusions. When you lose the third notch, the condition improves, but kicks back in when you get back to the third notch. You and Warden may also corrupt the PC’s personality and bonds, excluding the PC’s key connection.
 
 ### Getting Better
 
-There are a number of possibilities to remove Failed notches. Every time you successfully get rid of one Failed notch, increase your WIL by 1d10.
+There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Failed notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
-**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL save, remove a Failed notch. If you roll a Critical Fail, make a Fortitude save.\
-**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL save. On a success, remove a Failed notch. Severe trauma might require more drastic measures.\
-**Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Failed notch they got this day. Give the talk first, then reveal the factor and value.
+**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
+**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL save, remove a Broken notch. If you roll a Critical Fail, make a Fortitude save.\
+**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL save. On a success, remove a Broken notch. Severe trauma might require more drastic measures.\
+**Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
 <p></p>
@@ -477,7 +477,7 @@ If you successfully cast a spell that was opposed by someone's WIL, increase you
 
 | d8 | Lesser spells | Greater spells |
 | --- | --- | --- |
-| 1 | Small or weak life forms wither and die. | Mind shattering visions. Gain 6 Failed notches. |
+| 1 | Small or weak life forms wither and die. | Mind shattering visions. Gain 6 Broken notches. |
 | 2 | Unbearable stench. | Your body and face contort permanently. |
 | 3 | Moon and stars vanish. Or total solar eclipse. | Devastating thunderstorm and tides. |
 | 4 | Gusts of wind, rumbling, strange lights in the sky. | Your eyes change as you are possessed. |
@@ -753,15 +753,15 @@ If an attack takes a PC’s HP below half of the maximum, the PC is wounded and 
 
 ### Sanity Save
 
-Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 ### Fortitude Save
 
-Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Failed notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 ### Getting Better
 
-There are a number of possibilities to remove Failed notches from a PC’s gauges of Humanity: Self-help, commitment to a sanatorium, covering traces and conversation with other PCs.
+There are a number of possibilities to remove Broken notches from a PC’s gauges of Humanity: Self-help, commitment to a sanatorium, covering traces and conversation with other PCs.
 
 
 [back to index](#index)
