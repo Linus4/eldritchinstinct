@@ -669,7 +669,7 @@ These are just some suggestions, and the Warden should determine the effects and
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X Intensity, X WIL, Weapon (dX, special items, qualities)
+X HP, X Armor, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or consequence when wounding a PC
@@ -690,7 +690,7 @@ Language, Mythos Rating
 Use the following template to model a spell:
 
 **Name**
-X MP, X WIL, X Intensity, (opposed), X Casting Time
+X MP, X WIL, (SAN), (Fortitude), (opposed), X Casting Time
 - Engaging descriptor of effects
 
 [back to index](#index)
