@@ -38,7 +38,7 @@ Written by Linus Weber. Images from [oldbookillustrations.com](https://www.oldbo
 Players interact with the fictional world directly through questions and descriptions, instead of mechanics. Questions are gameplay.
 
 ### Roll-Play
-Mechanics should create tense situations and offer tough choices for players. They are not a simulation.
+Mechanics should create tense situations and force players to make tough choices. They are not a simulation.
 
 ### Immersion
 The rules, or the absence thereof, and the principles help players immerse themselves in the fictional world and create verisimilitude where it matters.
@@ -53,7 +53,7 @@ The Warden's role is to portray the rules, situations, NPCs, and narrative clear
 Characters are ordinary people faced with incomprehensible horrors. Death is always around the corner, but it is never random or without warning.
 
 ### Character Development
-Characters are changed through encounters with the Unnatural and their fight against the Mythos.
+Characters are changed by encounters with the Mythos and gain new skills, contacts and knowledge through in-world efforts.
 
 ### Principles
 The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
