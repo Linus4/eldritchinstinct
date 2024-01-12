@@ -385,8 +385,8 @@ Professional medical treatment requires at least one 1 hour, a doctor and proper
 
 | d10 | Result |
 | --- | --- |
-| 0 | **You are unconscious** for 2d10 minutes. Reduce your CON by 1d10. |
-| 1-6 | **You are unconscious and dying.** You will die in 1d4 rounds without First Aid. |
+| 0 | You are **unconscious** for 2d10 minutes. Reduce your CON by 1d10. |
+| 1-6 | You are **unconscious** and **dying**. Unless you receive First Aid, you will die in 1d4 rounds. |
 | 7-9 | **You have died.** Create a new PC or take over a contact or NPC. |
 
 ### Healing
@@ -526,7 +526,7 @@ Consider three [kinds of information](https://diyanddragons.blogspot.com/2019/10
 
 **Landmark** information is everything that is immediately visible when you enter a room. The Warden gives this kind of information to the players for *free*.\
 **Hidden** information can only be learned if players specifically ask for it and directly interact with the fiction. It often comes at a cost: first, you probably have to spend some *time* to examine the object. Looking in the right place yields immediate results, but a general search of a room takes 1 turn (10 minutes). Second, you expose your PC to *risk* as you have to be close enough to touch the object you want to investigate.\
-**Secret** information always comes at a cost and there is a *chance for failure*. Information that the PCs absolutely *have* to get should not be secret, unless there are other ways to obtain it. In general, information should almost *never* be secret. If players interact with the fictional world, they will get answers.
+**Secret** information always comes at a cost and there is a *chance for failure*. In general, information should almost *never* be secret. If players interact with the fictional world, they will get answers.
 
 Finding clues should not present a challenge to players, and there are no mechanics for exploration in Eldritch Instinct. Rather, it is a conversation between the players and the Warden: when describing a location, the Warden begins by setting the mood and presenting landmark information, which often functions as threads, that the players can pull for more information. The players may then ask questions and describe their PC’s actions in order to uncover hidden information. The Warden answers truthfully, but should make sure that characters receive information that is appropriate to their occupation. The Warden should encourage the players to state what they want to know and what their characters do to figure it out.
 
@@ -571,7 +571,7 @@ If shooting two or three times with a pistol, roll damage for each shot and keep
 
 - Take Cover: If you are in cover and spend your action to take cover, enemies shooting at you roll with [-].
 - Aiming: You can spend your turn aiming in order to roll with [+] on your shot in the next round.
-- Diving for Cover: once per round as a reaction to being shot at, you may spend your action and make a SPE save. If you succeed, enemies roll damage on you with [-].
+- Diving for Cover: once per round as a reaction to being shot at, you may spend your action and make a SPE save. If you succeed, enemies roll with [-].
 - Fast Moving: roll with [-] when you or your target is moving fast.
 
 #### Blast
