@@ -353,7 +353,7 @@ Each of the six **abilities** and **resistances** are used in different circumst
 
 **Luck**: Used to resist misfortune, and to determine if you notice little details and warning signs.
 
-As a PC's WIL or CON change, adjust their HP, MP and Fortitude according to the rules in character creation.
+As a PC's WIL or CON change, adjust their HP and MP according to the rules in character creation.
 
 ### Saves
 
