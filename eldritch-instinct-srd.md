@@ -180,9 +180,9 @@ If an attack takes a PC's HP below half of the maximum, the PC is **wounded** an
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
 
-#### Fortitude
+#### Sanity
 
-Divide your PC's WIL by 5 to determine your PC's starting **Fortitude**, which influences how their mind is affected by Violence, the Unnatural, Guilt and Self-Abandonment - the Four Gauges of Humanity.
+You Sanity (SAN) starts at 4. It is the mental construct that protects your mind from the awful reality of the Mythos.
 
 #### Magic Points
 
@@ -761,7 +761,7 @@ Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Br
 
 ### Getting Better
 
-There are a number of possibilities to remove Broken notches from a PC’s gauges of Humanity: Self-help, commitment to a sanatorium, covering traces and conversation with other PCs.
+There are a number of possibilities to remove Broken notches: Self-help, commitment to a sanatorium, covering traces and conversation with other PCs. Each time you get rid of one Broken notch, increase your WIL by 1d10.
 
 
 [back to index](#index)
