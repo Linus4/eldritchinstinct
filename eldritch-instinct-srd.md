@@ -363,7 +363,7 @@ When a PC does something related to their occupation, they may add 20 points to 
 
 When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or failure, respectively.
 
-When a player makes a roll and the PC has a situational **advantage**, roll twice and take the better result (short form: [+]). Conversely, if the PC has a **disadvantage**, roll twice and take the worse result (short form: [-]).
+When the rules specify that a roll should be made with **advantage** (short form: [+]), roll twice and take the better result. Conversely, if they call for a roll with **disadvantage** (short form: [-]), roll twice and take the worse result.
 
 ### Luck
 
@@ -514,7 +514,7 @@ A PC can do research by talking to strangers in bars, studying books in a librar
 
 When these conditions are met, the PC only needs time in order to get answers. The default scale used here is shifts (1 shift = 8 hours), but the Warden should adapt it to whatever makes sense in the scenario. The Warden announces the scale and rolls 2d6 in secret, or 1d6 if the PC is particularly knowledgeable in the field.
 
-The PC declares how much time they want to spend, and if that is longer than or equal to the result of the roll, they get everything. Otherwise, they get *nothing or only some part* of what can be learned. They may then spend more time on research, but working through the night leaves PCs **deprived**..
+The PC declares how much time they want to spend, and if that is longer than or equal to the result of the roll, they get everything. Otherwise, they get *nothing or only some part* of what can be learned. They may then spend more time on research, but working through the night leaves PCs **deprived**.
 
 **Deprived**: A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.\
 **Shift**: Lasts for 8 hours. PCs must rest for roughly one shift per day and can work for two shifts without any problems.\
@@ -753,7 +753,7 @@ If an attack takes a PC’s HP below half of the maximum, the PC is wounded and 
 
 ### Sanity Save
 
-Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+Roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude save and set your Sanity back to 2. After 8 hours of uninterrupted rest, reset your Sanity to 4.
 
 ### Fortitude Save
 
