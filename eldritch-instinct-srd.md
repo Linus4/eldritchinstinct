@@ -50,7 +50,6 @@ Players roll saves to avoid negative consequences when performing an action. Don
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Timeline
-
 The amount of time until there is a change in the environment, or that required by an NPC to accomplish their goals unhindered is determined in advance.
 
 ### Death
@@ -379,9 +378,7 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 
 ### Death Save
 
-When you have 0 HP, roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
-
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
+When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
 Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
 
@@ -389,9 +386,11 @@ Professional medical treatment requires at least one 1 hour, a doctor and proper
 
 | d10 | Result |
 | --- | --- |
-| 0 | You are **unconscious** for 2d10 minutes. Reduce your CON by 1d10. |
-| 1-6 | You are **unconscious** and **dying**. Unless you receive First Aid, you will die in 1d4 rounds. |
+| 0 | **You are heavily wounded**. Reduce your CON by 1d10 and roll on the wounds table. |
+| 1-6 | **You are dying**. Unless you receive First Aid, you will die in 1d4 rounds. Roll on the wounds table. |
 | 7-9 | **You have died.** Create a new PC or take over a contact or NPC. |
+
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
 
 ### Healing
 
@@ -414,14 +413,14 @@ A PC can make an appropriate save to tend to someone's wound. When you attempt t
 | 20 | [-] on next save. | 2 | Hands |
 | 30 | [-] on saves of one ability or resistance until First Aid. | 3 | Shoulders |
 | 40 | Bleeding or Burning. | 4 | Waist |
-| 50 | -1d10 on one ability or resistance. | 5 | Back |
+| 50 | Drop the items you are holding. They land somewhere Close. | 5 | Back |
 | 60 | [-] on saves of one ability or resistance until cured. | 6 | Stomach |
-| 70 | Lethal Injury. | 7 | Chest |
-| 80 | Lethal Injury and Bleeding or Burning. | 8 | Neck |
+| 70 | Permanently lose 1d10 on one ability or resistance. | 7 | Chest |
+| 80 | Lethal Injury. | 8 | Neck |
 | 90 | Death save. | 9 | Head |
 
-**Bleeding**: You lose 1 HP per turn until First Aid is applied.\
-**Burning**: You lose 1 HP per turn until the fire is put out.
+**Bleeding**: You lose 1 HP per round until First Aid is applied.\
+**Burning**: You lose 1 HP per round until the fire is put out.
 
 [back to index](#index)
 <p></p>
@@ -753,7 +752,7 @@ First, the Warden determines all PCs who are being attacked in melee. These PCs 
 
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious. If you have 0 HP, fall unconscious and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
+If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious for 2d10 minutes. If you have 0 HP, fall unconscious and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
 ### Sanity Save
 
