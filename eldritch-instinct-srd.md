@@ -382,6 +382,8 @@ When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without look
 
 Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
 
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
+
 #### Death Table
 
 | d10 | Result |
@@ -389,8 +391,6 @@ Professional medical treatment requires at least one 1 hour, a doctor and proper
 | 0 | **You are heavily wounded**. Reduce your CON by 1d10 and roll on the wounds table. |
 | 1-6 | **You are dying**. Unless you receive First Aid, you will die in 1d4 rounds. Roll on the wounds table. |
 | 7-9 | **You have died.** Create a new PC or take over a contact or NPC. |
-
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
 
 ### Healing
 
