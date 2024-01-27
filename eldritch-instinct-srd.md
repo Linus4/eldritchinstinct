@@ -161,7 +161,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 #### Name, Background & Traits
 
-First, choose or roll a **name** for your character, then their **occupation**, which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power.
+First, choose or roll a **name** for your character, then their **occupation** and **speciality**, which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power.
 
 Next, roll for your character's **personality** (five factors) and think of one detail about your PC's face and clothes, each.
 
