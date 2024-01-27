@@ -49,6 +49,9 @@ Players roll saves to avoid negative consequences when performing an action. Don
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
+### Impact
+Players are faced with difficult decisions, and their choices substantially affect the fictional world.
+
 ### Timeline
 The amount of time until there is a change in the environment, or that required by an NPC to accomplish their goals unhindered is determined in advance.
 
