@@ -438,7 +438,7 @@ After 8 hours of uninterrupted rest, reset your Sanity to 4.
 
 ### Fortitude Save
 
-When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+When you experience something mind-shatteringly dreadful or when your Sanity hits 1, make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and freak out. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 #### Notches
 
@@ -763,7 +763,7 @@ Roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce 
 
 ### Fortitude Save
 
-Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and panic: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and freak out: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
 
 ### Getting Better
 
