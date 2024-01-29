@@ -566,7 +566,7 @@ If the PCs are surprised, they only get to act in the first round if they make a
 
 #### Actions
 
-In one round, a character may move somewhere close (15 m) and take up to one action. This may be checking someone's vitals, attacking, reloading a gun, making a second move, or some other reasonable action.
+In one round, a character may move somewhere close (15 m) and take up to one action. This may be checking someone's vitals, attacking, reloading a gun, making a second move, dragging someone to the ground or some other reasonable action.
 
 #### Range
 
