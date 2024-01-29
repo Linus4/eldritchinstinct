@@ -22,7 +22,7 @@ The source files are available in other formats (including Markdown,
 OpenDocument Text)
 [here](https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing).
 
-**Eldritch Instinct** is licensed under [CC-BY-SA
+The **Eldritch Instinct SRD** is licensed under [CC-BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from
 Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
 
