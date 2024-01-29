@@ -369,7 +369,7 @@ When a PC does something related to their occupation, they may add 20 points to 
 
 When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or failure, respectively.
 
-When the rules specify that a roll should be made with **advantage** (short form: [+]), roll twice and take the better result. Conversely, if they call for a roll with **disadvantage** (short form: [-]), roll twice and take the worse result.
+When the rules specify that a roll should be made with **advantage** (short form: [+]), roll twice and take the better result. Conversely, if they call for a roll with **disadvantage** (short form: [-]), roll twice and take the worse result. *A Critical Fail with 55 is worse than a Fail with 90, even though the number is lower.*
 
 ### Luck
 
