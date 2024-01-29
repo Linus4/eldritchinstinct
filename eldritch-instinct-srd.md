@@ -582,9 +582,9 @@ If shooting two or three times with a pistol, roll damage for each shot and keep
 
 #### Firearm Attack Modifiers
 
-- Take Cover: If you are in cover and spend your action to take cover, enemies shooting at you roll with [-].
-- Aiming: You can spend your turn aiming in order to roll with [+] on your shot in the next round.
-- Diving for Cover: once per round as a reaction to being shot at, you may spend your action and make a SPE save. If you succeed, enemies roll with [-].
+- Hunker Down: if you are in cover and stay there without engaging the enemy, anyone shooting at you rolls with [-].
+- Aiming: you can spend your action to aim in order to roll with [+] on your shot in the next round.
+- Diving for Cover: once per round as a reaction to being shot at, you may spend your action and movement and make a SPE save. If you succeed, enemies roll with [-].
 - Fast Moving: roll with [-] when you or your target is moving fast.
 
 #### Blast
