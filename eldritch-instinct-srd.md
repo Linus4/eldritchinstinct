@@ -661,11 +661,27 @@ However, if the PCs' scheme is more complex, make a clock by drawing a circle an
 
 The Warden should throw in a few critical situations when the PCs quickly have to find a hiding spot or find an excuse for why they should be allowed to be there. They should usually require a save. Fill in another section on a fail, and two on a critical fail. A great device is to give PCs choices. For example: *hiding under a desk has a 70 % chance of success, while hiding in a closet has a 90 % chance of success, but the PC must drop bulky items.*
 
+[back to index](#index)
+<p></p>
+
 ## Downtime
 
 In the background, players can do a number of things that advance their PCs, but are only summarized at the table. They could read tomes, spend time with their bonds, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
 
 These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, but the Warden should adjust the time to their needs.
+
+## Pulp
+
+If your group decides to run a more action-oriented adventure, consider these changes:
+
+- You can spend all Luck (min 30) to avoid certain death.
+- Regain 1d6 Hit Protection for 20 Luck if you are not wounded.
+- You have 25-100 % more Hit Protection.
+- Avoid unconsciousness by spending 2 Luck per minute.
+- When regenerating Luck, you regain 2d10+10 on a fail and 1d10+5 on a success.
+- You may spend Luck to re-roll Fortitude saves.
+- You regenerate 2 MP per hour.
+- Magazines do to occupy inventory slots.
 
 [back to index](#index)
 <p></p>
@@ -698,22 +714,6 @@ Use the following template to model a spell:
 **Name**
 X MP, X WIL, (SAN), (Fortitude), (opposed), X Casting Time
 - Engaging descriptor of effects
-
-[back to index](#index)
-<p></p>
-
-## Pulp
-
-If your group decides to run a more action-oriented adventure, consider these changes:
-
-- You can spend all Luck (min 30) to avoid certain death.
-- Regain 1d6 Hit Protection for 20 Luck if you are not wounded.
-- You have 25-100 % more Hit Protection.
-- Avoid unconsciousness by spending 2 Luck per minute.
-- When regenerating Luck, you regain 2d10+10 on a fail and 1d10+5 on a success.
-- You may spend Luck to re-roll Fortitude saves.
-- You regenerate 2 MP per hour.
-- Magazines do to occupy inventory slots.
 
 [back to index](#index)
 <p></p>
