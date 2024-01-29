@@ -7,9 +7,6 @@ nav_order: 2
 # Eldritch Instinct System Reference Document (v.0.1)
 {: .no_toc }
 
-**Eldritch Instinct** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
-Download the game in other formats (including Markdown, OpenDocument Text) and character sheets from [here](https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing).
-
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
@@ -18,6 +15,9 @@ Eldritch Instinct was designed to run scenarios and campaigns using streamlined 
 The names and equipment tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
 
 For the purposes of this game, the Mythos is a collection of stories, entities, characters and places conceived by Howard Phillips Lovecraft with contributions from his contemporary authors such as Clark Ashton Smith, Robert E. Howard and Robert Bloch. Since then, many authors, directors, artists and scenario designers have contributed their, often contradictory, ideas to the Mythos. The Warden may choose freely which elements of the Mythos to include in their game.
+
+The Eldritch Instinct SRD is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
+Download the game in other formats (including Markdown, OpenDocument Text) and character sheets from [here](https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing).
 
 Written by Linus Weber. Images from [oldbookillustrations.com](https://www.oldbookillustrations.com/). Featuring public domain art by: Oswaldo Tofani, Frederick Catherwood, Peter Newell, James Davis Cooper, Gordon Browne, Arthur Rackham, William John Hennessy, Jules Férat, Tony Johannot and Alphonse de Neuville.
 
