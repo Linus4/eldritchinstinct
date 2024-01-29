@@ -4,7 +4,7 @@ title: SRD
 nav_order: 2
 ---
 
-# Eldritch Instinct System Reference Document (v.0.1)
+# Eldritch Instinct System Reference Document (v0.2)
 {: .no_toc }
 
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
