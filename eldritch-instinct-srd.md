@@ -181,7 +181,7 @@ The player may then distribute 20 additional points among their PC's ability sco
 
 Divide your PC's CON by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table), fall **prone** and make a CON save or fall **unconscious**. If you lose more than you maximum HP in one blow, you die immediately. If you have 0 HP, fall unconscious and make a **Death Save**.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table), fall **prone** and make a CON save or fall **unconscious**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall unconscious and make a **Death Save**.
 
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
