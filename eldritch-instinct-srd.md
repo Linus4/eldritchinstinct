@@ -181,7 +181,7 @@ The player may then distribute 20 additional points among their PC's ability sco
 
 Divide your PC's CON by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table), fall **prone** and make a CON save or fall **unconscious**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall unconscious and make a **Death Save**.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
 
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
@@ -378,6 +378,13 @@ You may spend 5 Luck to re-roll an ability or resistance save, except when the r
 ### Armor
 
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is wounded.
+
+### Damage
+
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
+
+**Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
+**Unconscious**: Character wakes up in 2d10 minutes.
 
 ### Death Save
 
@@ -763,7 +770,7 @@ First, the Warden determines all PCs who are being attacked in melee. These PCs 
 
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table, fall prone and make a CON save or fall unconscious for 2d10 minutes. If you have 0 HP, fall unconscious and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
+If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
 ### Sanity Save
 
