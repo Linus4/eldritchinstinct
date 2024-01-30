@@ -5,11 +5,13 @@ nav_order: 3
 parent: Scenarios
 ---
 
-# Originals
+# Submissions
+
+## Originals
 
 Send me a message on Discord (linus7017) with a link where your scenario can be accessed. I'll be happy to include it in the list.
 
-# Conversions
+## Conversions
 
 - Copy the following template when submitting an adventure to the Eldritch Instinct website.
 - The file should be written in Markdown. The filename should be lowercase, and use the *.md suffix (example: cool-scenario.md).
@@ -18,7 +20,7 @@ Send me a message on Discord (linus7017) with a link where your scenario can be 
 - Please link to the author, as well as the adventure and (if you're comfortable with it) your own website or contact. 
 - If possible, ask for the author's permission. If not, that's OK! We don't generally need it, but it's great to have.
 
-## Submission Template
+## Conversion Template
 
 ```
 ---
