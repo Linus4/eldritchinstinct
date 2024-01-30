@@ -15,7 +15,7 @@ Send me a message on Discord (linus7017) with a link where your scenario can be 
 
 - Copy the following template when submitting an adventure to the Eldritch Instinct website.
 - The file should be written in Markdown. The filename should be lowercase, and use the *.md suffix (example: cool-scenario.md).
-- Make sure the add the "front matter" at the top of the file (the parts starting with the `---` at the beginning) or the submission won't work. For an example, see [here](/scenarios/conversions/roadhouse-feast/) (raw text [here](https://github.com/Linus4/eldritchinstinct/blob/main/scenarios/conversions.md?plain=1)).
+- Make sure the add the "front matter" at the top of the file (the parts starting with the `---` at the beginning) or the submission won't work. For an example, see [here](/scenarios/conversions/roadhouse-feast/) (raw text [here](https://github.com/Linus4/eldritchinstinct/blob/main/scenarios/conversions/roadhouse-feast.md?plain=1)).
 - Scenario submissions should _always_ credit the author of the work _as well_ as the name of the person converting the work. 
 - Please link to the author, as well as the adventure and (if you're comfortable with it) your own website or contact. 
 - If possible, ask for the author's permission. If not, that's OK! We don't generally need it, but it's great to have.
