@@ -664,7 +664,7 @@ Ideally, the obstacles the PCs have to overcome should be what is in the path ea
 
 PCs can generally remain hidden and unrecognized, up until the critical moment when there is a risk of detection. At this point, the Warden assesses the Task and the PCs’ Approach and calls for an appropriate save (including Luck) which is resolved according to the table below.
 
-**Task.** Goal: *What are the PCs tryng to do?* iAre they just trying to hide, do they try to move past an opponent or do they have to sneak up to someone to steal from them or attack them? Alertness: *Are the opponents actively looking for the PCs?* Are they calm, suspicious or on alert? The task can be Dicey, Daring or Perilous.
+**Task.** Goal: *What are the PCs trying to do?* Are they just trying to hide, do they try to move past an opponent or do they have to sneak up to someone to steal from them or attack them? Alertness: *Are the opponents actively looking for the PCs?* Are they calm, suspicious or on alert? The task can be Dicey, Daring or Perilous.
 
 **Approach.** Environment: *What is the situation?* Are the PCs the only people around or is this place crowded? Is there a lot of noise or is it rather quiet? Method: *How are the PCs doing it?* Is it appropriate considering the situation? Do they leverage the environment and their in-world knowledge? The approach can be Flawed, Reasonable or Sound.
 
