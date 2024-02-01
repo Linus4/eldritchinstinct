@@ -363,11 +363,11 @@ As a PC's WIL or CON change, adjust their HP and MP according to the rules in ch
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll 1d100 for an appropriate ability score or resistance. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. 91-99 is always a failure.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll 1d100 for an appropriate ability score or resistance. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. 91-99 is always a fail.
 
 When a PC does something related to their occupation, they may add 20 points to their ability score for that save.
 
-When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or failure, respectively.
+When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or fail, respectively.
 
 When the rules specify that a roll should be made with **advantage** (short form: [+]), roll twice and take the better result. Conversely, if they call for a roll with **disadvantage** (short form: [-]), roll twice and take the worse result. *A Critical Fail with 55 is worse than a Fail with 90, even though the number is lower.*
 
@@ -672,9 +672,9 @@ During this critical moment, you “zoom in”, and the players are encouraged t
 
 |  | Perilous | Daring | Dicey |
 | --- | --- | --- | --- |
-| **Flawed** | Automatic failure. | Failure → Spotted, cannot use Luck. | Failure → Spotted or major compromise. |
-| **Reasonable** | Failure → Spotted, cannot use Luck. | Failure → Spotted or major compromise. | Critical Fail → Spotted or major compromise. |
-| **Sound** | Failure → Spotted or major compromise. | Critical Fail → Spotted or major compromise. | Automatic success. |
+| **Flawed** | Automatic Fail. | Fail → Spotted, cannot use Luck. | Fail → Spotted or major compromise. |
+| **Reasonable** | Fail → Spotted, cannot use Luck. | Fail → Spotted or major compromise. | Critical Fail → Spotted or major compromise. |
+| **Sound** | Fail → Spotted or major compromise. | Critical Fail → Spotted or major compromise. | Automatic success. |
 
 [back to index](#index)
 <p></p>
@@ -737,7 +737,7 @@ X MP, X WIL, (SAN), (Fortitude), (opposed), X Casting Time
 
 ### Saves
 
-Roll equal to or under ability score to avoid consequences. 91-99 is always a failure. Add 20 to your ability score when doing something related to your occupation. Doubles are Criticals (e.g. 00, 44).
+Roll equal to or under ability score to avoid consequences. 91-99 is always a fail. Add 20 to your ability score when doing something related to your occupation. Doubles are Criticals (e.g. 00, 44).
 
 ### Luck
 
