@@ -412,7 +412,7 @@ However, if you are wounded, make a CON save after every week. On a success, rec
 
 A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, stop *bleeding* and save a character with a *lethal injury* from rolling a death save. Takes 1 round and can be attempted again *once* in the following round.
 
-**Lethal Injury**: Receive first aid within 1d10 rounds or make a death save.
+**Lethal Injury**: Receive first aid within 1d6 rounds or make a death save.
 
 ### Wounds Table
 
