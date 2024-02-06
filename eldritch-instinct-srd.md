@@ -399,8 +399,8 @@ Professional medical treatment requires at least one 1 hour, a doctor and proper
 | d10 | Result |
 | --- | --- |
 | 0 | **You are heavily wounded**. Reduce your CON by 1d10 and roll on the wounds table. |
-| 1-6 | **You are dying**. Unless you receive First Aid, you will die in 1d4 rounds. Roll on the wounds table. |
-| 7-9 | **You have died.** Create a new PC or take over a contact or NPC. |
+| 1-4 | **You are dying**. Unless you receive First Aid, you will die in 1d4 rounds. Roll on the wounds table. |
+| 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
 
 ### Healing
 
