@@ -181,7 +181,7 @@ The player may then distribute 20 additional points among their PC's ability sco
 
 Divide your PC's CON by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
 
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
@@ -291,10 +291,10 @@ All PCs begin with:
 |---|---|---|---|---|
 | Unarmed | Adjacent | 1d4 | n/a | |
 | Pocket Knife | Adjacent | 1d6 | n/a | Can be hidden. |
-| Kitchen Knife | Adjacent | 1d8 | n/a | [+] on wounds table. |
+| Kitchen Knife | Adjacent | 1d8 | n/a | [+] on Wounds Table. |
 | Machete | Adjacent | 1d8+1 | n/a | |
 | Fire Axe | Adjacent | 1d12 | n/a | Bulky. |
-| Baseball Bat | Adjacent | 1d6+1 | n/a | [+] on wounds table. |
+| Baseball Bat | Adjacent | 1d6+1 | n/a | [+] on Wounds Table. |
 | Crowbar | Adjacent | 1d6 | n/a | |
 | Spear | Adjacent | 1d8 | n/a | Can be thrown. |
 
@@ -306,14 +306,14 @@ All PCs begin with:
 | .38 Revolver | Close | 1d10 | 6 | Max three shots. |
 | .45 Revolver | Close | 1d10+2 | 6 | Max one shot. |
 | .32 Automatic | Close | 1d8 | 8 | Max three shots. |
-| Bolt Action Rifle | Long | 2d6 | 6 | [-] at adjacent range. Bulky. |
-| Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at long range, [+] on wounds table. Bulky. |
-| Thompson | Close | 1d4 + 1d6 + 1d12 | 4 | 1d4+1d6 at long range. Bulky. |
+| Bolt Action Rifle | Long | 2d6 | 6 | [-] at Adjacent range. Bulky. |
+| Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at Long range, [+] on Wounds Table. Bulky. |
+| Thompson | Close | 1d4 + 1d6 + 1d12 | 4 | 1d4+1d6 at Long range. Bulky. |
 | .30 Browning Machine Gun | Long | 1d4 + 1d8 + 1d12 | 5 | Must brace when firing. May split damage between multiple targets. Bulky. |
 | Frag Grenade | Long | 3d10 | 1 | SPE save to dodge. |
 | Molotov Cocktail | Long | 1d6 + Burning | 1 |  |
 | Dynamite Stick | Long | 2d10 | 1 | Explodes at least one round after being lit. |
-| Flamethrower | Close | 2d8 + Burning | 4 | If liquid fuel tank is destroyed, 6 DMG to all close. [+] on wounds table. Bulky. |
+| Flamethrower | Close | 2d8 + Burning | 4 | If liquid fuel tank is destroyed, 6 DMG to all close. [+] on Wounds Table. Bulky. |
 
 [back to index](#index)
 <p></p>
@@ -381,7 +381,7 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 
 ### Damage
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [wounds table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
 
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
@@ -390,29 +390,23 @@ If an attack takes a PC's HP below half of the maximum, the PC is **wounded** an
 
 When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
-Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
-
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another death save.
-
 #### Death Table
 
 | d10 | Result |
 | --- | --- |
-| 0 | **You are heavily wounded**. Reduce your CON by 1d10 and roll on the wounds table. |
-| 1-4 | **You are dying**. Unless you receive First Aid, you will die in 1d4 rounds. Roll on the wounds table. |
+| 0 | You are **heavily wounded**. Roll 1d10 on the Wounds Table and reduce one ability or resistance by 1d10. |
+| 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
 | 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
+
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another Death Save.
+
+Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
 
 ### Healing
 
 If you are *not* wounded, resting for a few moments and having a drink of water restores lost HP.
 
-However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wound on a critical success, or when you recover to more than half of your maximum HP. Every week in hospital gives [+] to your weekly CON save.
-
-#### First Aid
-
-A PC can make an appropriate save to tend to someone's wound. When you attempt to treat yourself, roll with [-]. On a success, stop *bleeding* and save a character with a *lethal injury* from rolling a death save. Takes 1 round and can be attempted again *once* in the following round.
-
-**Lethal Injury**: Receive first aid within 1d6 rounds or make a death save.
+However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to more than half of your maximum HP. Every week in hospital gives [+] to your weekly CON save.
 
 ### Wounds Table
 
@@ -421,15 +415,15 @@ A PC can make an appropriate save to tend to someone's wound. When you attempt t
 | 00 | Flesh Wound. | 0 | Legs |
 | 10 | Knocked back hard. | 1 | Arms |
 | 20 | [-] on next save. | 2 | Hands |
-| 30 | [-] on saves of one ability or resistance until First Aid. | 3 | Shoulders |
+| 30 | [-] on saves of one ability or resistance until first aid. | 3 | Shoulders |
 | 40 | Bleeding or Burning. | 4 | Waist |
 | 50 | Drop the items you are holding. They land somewhere Close. | 5 | Back |
 | 60 | [-] on saves of one ability or resistance until cured. | 6 | Stomach |
 | 70 | Permanently lose 1d10 on one ability or resistance. | 7 | Chest |
-| 80 | Lethal Injury. | 8 | Neck |
-| 90 | Death save. | 9 | Head |
+| 80 | Lethal Injury. Receive first aid within 1d6 rounds or make a Death Save. | 8 | Neck |
+| 90 | Death Save. | 9 | Head |
 
-**Bleeding**: You lose 1 HP per round until First Aid is applied.\
+**Bleeding**: You lose 1 HP per round until first aid is applied.\
 **Burning**: You lose 1 HP per round until the fire is put out.
 
 [back to index](#index)
@@ -757,7 +751,7 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) takes twice the amou
 
 ### Healing
 
-A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal a wound on a critical success, or when you recover to more than half of your maximum HP.
+A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to more than half of your maximum HP.
 A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
 ### Combat
@@ -770,7 +764,7 @@ First, the Warden determines all PCs who are being attacked in melee. These PCs 
 
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the wounds table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a death save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
+If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the Wounds Table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a Death Save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
 
 ### Sanity Save
 
