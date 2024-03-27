@@ -44,7 +44,7 @@ Mechanics should create tense situations and force players to make tough choices
 The rules, or the absence thereof, and the principles help players immerse themselves in the fictional world and create verisimilitude where it matters.
 
 ### Fail Forward
-Players roll saves to avoid negative consequences when performing an action. Don’t think of success and failure as binary options.
+Players roll saves to avoid complications in risky situations. Don’t think of success and failure as binary options.
 
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
@@ -80,9 +80,8 @@ Players trust one another to engage with the shared setting, character goals, an
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 
 ### Rolls
-- Is what the players describe and how they leverage the situation sensible? Let it happen.
-- Reward clever ideas and creative use of equipment or the environment. 
-- Only ask for saves in very intense situations when the characters act under pressure.
+- Is what the players describe and how they leverage the situation sensible? Let it happen. Reward clever ideas and creative use of equipment or the environment.
+- Ask for saves to introduce interesting complications in very intense situations; not to see whether an investigator is able to do something.
 - Consider the margins of success or failure. Failure could mean that the situation gets much worse, or that success comes at a cost (time, resources, harm, situational disadvantage).
 
 ### Motivations
