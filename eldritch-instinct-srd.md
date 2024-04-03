@@ -651,19 +651,17 @@ Ideally, the obstacles the PCs have to overcome should be what is in the path ea
 
 ### Stealth & Deception
 
-PCs can generally remain hidden and unrecognized, up until the critical moment when there is a risk of detection. At this point, the Warden assesses the Task and the PCs’ Approach and calls for an appropriate save (including Luck) which is resolved according to the table below.
+If the situation is simple, for example when the investigators try to hide from a group of patrolling cultists, it is sufficient for the players to come up with a reasonable approach and make a save, each. On a critical fail, that player is detected or there is a major compromise.
 
-**Task.** Goal: *What are the PCs trying to do?* Are they just trying to hide, do they try to move past an opponent or do they have to sneak up to someone to steal from them or attack them? Alertness: *Are the opponents actively looking for the PCs?* Are they calm, suspicious or on alert? The task can be Dicey, Daring or Perilous.
+However, if the situation is complex and remaining undetected is the player’s goal for an extended amount of time, consider using a procedure akin to [The Angry DM’s Tension Pool](https://theangrygm.com/definitive-tension-pool/).
 
-**Approach.** Environment: *What is the situation?* Are the PCs the only people around or is this place crowded? Is there a lot of noise or is it rather quiet? Method: *How are the PCs doing it?* Is it appropriate considering the situation? Do they leverage the environment and their in-world knowledge? The approach can be Flawed, Reasonable or Sound.
+You will need a container (the Tension Pool) and six d6 (Tension Dice). The Tension Pool usually starts out empty, but if the opposition is already suspicious or on alert, the Warden may decide to start with any number of Tension Dice.
 
-During this critical moment, you “zoom in”, and the players are encouraged to ask questions within a reasonable time-frame to establish additional details and to help them to make an informed choice.
+When an investigator does something that takes a lot of **time**, like observing patrolling patterns, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task. If a player makes creative use of their environment or their gear, they accomplish their task and remain undetected.
 
-|  | Perilous | Daring | Dicey |
-| --- | --- | --- | --- |
-| **Flawed** | Automatic Fail. | Fail → Spotted, cannot use Luck. | Fail → Spotted or major compromise. |
-| **Reasonable** | Fail → Spotted, cannot use Luck. | Fail → Spotted or major compromise. | Critical Fail → Spotted or major compromise. |
-| **Sound** | Fail → Spotted or major compromise. | Critical Fail → Spotted or major compromise. | Automatic success. |
+There are, however, tasks that are particularly **reckless**. In that case, the player rolls all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence. If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Dice and then roll all dice in the Tension Pool.
+
+As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
 
 [back to index](#index)
 <p></p>
