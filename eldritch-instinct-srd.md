@@ -619,15 +619,11 @@ During a chase, the PCs have to overcome *three* critical obstacles which requir
 
 #### Difficulty
 
-If the chase is particularly easy or difficult, the PCs must roll with [-] or [+] on some of the saves. The Warden announces at the start of the chase how many [-] or [+] must be applied, but the players may choose which saves they want to roll with [-] or [+] as they come up.
-
-| very hard | hard | normal | easy | very easy |
-| --- | --- | --- | --- | --- |
-| 2 x [-] | [-] | / | [+] | 2 x [+] |
+If the chase is particularly easy or difficult, the PCs must roll with [+] or [-] on some of the saves. The Warden announces at the start of the chase how many [+] or [-] must be applied, but the players may choose which saves they want to roll with [+] or [-] as they come up.
 
 #### Approximate chances for failure
 
-| Group size | very hard | hard | normal | easy | very easy |
+| Group size | 2 x [-] | [-] | normal | [+] | 2 x [+] |
 | --- | --- | --- | --- | --- | --- |
 | 1 PC | 47 % | 36 % | 27 % | 16 % | 9 % |
 | 4 PCs, at least 1 fails | 92 % | 83 % | 72 % | 50 % | 31 % |
