@@ -449,9 +449,9 @@ When you experience something mind-shatteringly dreadful or when your Sanity hit
 
 There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, revise their bond, and you can no longer use it for self-help. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
-**Sanatorium**: A PC may commit themselves to a sanatorium for one month. On a successful WIL save, remove a Broken notch. If you roll a Critical Fail, make a Fortitude save.\
-**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), make a WIL save. On a success, remove a Broken notch. Severe trauma might require more drastic measures.\
+**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, they lose their bond. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
+**Sanatorium**: A PC may commit themselves to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, make a Fortitude save. Otherwise, remove a Broken notch.\
+**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
