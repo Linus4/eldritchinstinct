@@ -380,7 +380,7 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 
 ### Damage
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**. You cannot have less than 0 HP.
 
 **Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
