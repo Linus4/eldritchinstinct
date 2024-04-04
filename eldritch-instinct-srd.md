@@ -393,7 +393,7 @@ When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without look
 
 | d10 | Result |
 | --- | --- |
-| 0 | You are **heavily wounded**. Roll 1d10 on the Wounds Table and reduce one ability or resistance by 1d10. |
+| 0 | You are **heavily wounded**. Gain 1 HP, roll 1d10 on the Wounds Table and reduce one ability or resistance by 1d10. |
 | 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
 | 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
 
