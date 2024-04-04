@@ -405,7 +405,7 @@ Professional medical treatment requires at least one 1 hour, a doctor and proper
 
 If you are *not* wounded, resting for a few moments and having a drink of water restores lost HP.
 
-However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to more than half of your maximum HP. Every week in hospital gives [+] to your weekly CON save.
+However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP. Every week in hospital gives [+] to your weekly CON save.
 
 ### Wounds Table
 
@@ -744,7 +744,7 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) takes twice the amou
 
 ### Healing
 
-A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to more than half of your maximum HP.
+A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
 A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
 ### Combat
