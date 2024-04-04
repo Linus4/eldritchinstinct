@@ -397,7 +397,7 @@ When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without look
 | 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
 | 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
 
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another Death Save.
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another Death Save. When you are dying, any amount of damage will kill you instantly.
 
 Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
 
