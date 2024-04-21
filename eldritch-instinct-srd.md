@@ -10,7 +10,7 @@ nav_order: 2
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
-Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by games like Mothership by Tuesday Knight Games, Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing, Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc., Into the Odd by Chris McDowall, Blades in the Dark by John Harper and Rats in the Walls by Kobayashi.
+Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Death Save, Wounds), Cthulhu Dark by Graham Walmsley (Sanity Save), Nemesis by Arc Dream Publishing (Fortitude Save, Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Wounds, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper and Rats in the Walls by Kobayashi (Research).
 
 The names and equipment tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
 
@@ -167,22 +167,15 @@ Next, roll for your character's **personality** (five factors) and think of one 
 #### Ability Scores
 
 Player Characters (PCs) have three attributes:
-**Strength (STR)**, **Speed (SPE)**, and **Intellect (INT)**. When creating a PC, the player should roll 2d10+25 for each of their character's ability scores.
-
-#### Resistances
-
-PCs have three resistances:
-**Willpower (WIL)**, **Constitution (CON)** and **Luck**. When creating a PC, the player should roll 2d20+30 for each of their character's resistances.
-
-The player may then distribute 20 additional points among their PC's ability scores and resistances.
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d20+20 for each of their character's ability scores. They may then swap any two of the results.
 
 #### Hit Protection
 
-Divide your PC's CON by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
+Divide your PC's STR by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
 
 If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
 
-**Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
+**Prone**: You can barely move. It takes one action to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
 
 #### Sanity
@@ -201,7 +194,7 @@ A PC's Mythos Knowledge (MK) starts at 0. It represents how much a character has
 
 Characters have a total of 7 inventory slots. Most items such as a magazine or a flashlight take up one slot, and small items can be bundled together.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 7 slots) takes twice the amount of damage and makes SPE saves with [-]. A PC cannot carry more items than their inventory allows.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wounds Table and fall prone when they are hit. A PC cannot carry more items than their inventory allows.
 
 As carrying bulky weapons would raise suspicion, it is generally assumed that PCs keep their bulky weapons hidden in their car or at home, unless the players say otherwise.
 
@@ -290,10 +283,10 @@ All PCs begin with:
 |---|---|---|---|---|
 | Unarmed | Adjacent | 1d4 | n/a | |
 | Pocket Knife | Adjacent | 1d6 | n/a | Can be hidden. |
-| Kitchen Knife | Adjacent | 1d8 | n/a | [+] on Wounds Table. |
+| Kitchen Knife | Adjacent | 1d8 | n/a | +10 on Wounds Table. |
 | Machete | Adjacent | 1d8+1 | n/a | |
 | Fire Axe | Adjacent | 1d12 | n/a | Bulky. |
-| Baseball Bat | Adjacent | 1d6+1 | n/a | [+] on Wounds Table. |
+| Baseball Bat | Adjacent | 1d6+1 | n/a | +10 on Wounds Table. |
 | Crowbar | Adjacent | 1d6 | n/a | |
 | Spear | Adjacent | 1d8 | n/a | Can be thrown. |
 
@@ -305,14 +298,14 @@ All PCs begin with:
 | .38 Revolver | Close | 1d10 | 6 | Max three shots. |
 | .45 Revolver | Close | 1d10+2 | 6 | Max one shot. |
 | .32 Automatic | Close | 1d8 | 8 | Max three shots. |
-| Bolt Action Rifle | Long | 2d6 | 6 | [-] at Adjacent range. Bulky. |
-| Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at Long range, [+] on Wounds Table. Bulky. |
+| Bolt Action Rifle | Long | 2d6 | 6 | 1d6 at Adjacent range. Bulky. |
+| Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at Long range, +10 on Wounds Table. Bulky. |
 | Thompson | Close | 1d4 + 1d6 + 1d12 | 4 | 1d4+1d6 at Long range. Bulky. |
 | .30 Browning Machine Gun | Long | 1d4 + 1d8 + 1d12 | 5 | Must brace when firing. May split damage between multiple targets. Bulky. |
-| Frag Grenade | Long | 3d10 | 1 | SPE save to dodge. |
-| Molotov Cocktail | Long | 1d6 + Burning | 1 |  |
-| Dynamite Stick | Long | 2d10 | 1 | Explodes at least one round after being lit. |
-| Flamethrower | Close | 2d8 + Burning | 4 | If liquid fuel tank is destroyed, 6 DMG to all close. [+] on Wounds Table. Bulky. |
+| Frag Grenade | Long | 3d10 | 1 | DEX save to dodge. Blast Close. |
+| Molotov Cocktail | Long | 1d6 + Burning | 1 | Blast Adjacent. |
+| Dynamite Stick | Long | 2d10 | 1 | Explodes at least one round after being lit. Blast Adjacent. |
+| Flamethrower | Close | 2d8 + Burning | 4 | If liquid fuel tank is destroyed, 6 DMG to all close. +10 on Wounds Table. Bulky. Blast Close. |
 
 [back to index](#index)
 <p></p>
@@ -342,88 +335,33 @@ Roll on the following table to determine the four most significant things that t
 
 ## Rules
 
-### Abilities & Resistances
+### Abilities
 
-Each of the six **abilities** and **resistances** are used in different circumstances.
+Each of the three abilities are used in different circumstances.
 
-**Strength (STR**): Used for saves requiring physical power, like lifting gates, bending bars, climbing, restraining a person, etc.
+**Strength (STR)**: Used for saves requiring physical power, like lifting gates, climbing, restraining a person, etc.\
+**Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, sneaking, balancing, etc.\
+**Willpower (WIL)**: Used for saves to recall training, resist manipulation of your thoughts, deceive, etc.
 
-**Speed (SPE):** Used for saves requiring poise, speed, and reflexes like dodging, navigating, sneaking, balancing, etc.
-
-**Intellect (INT)**: Used for saves to solve a problem, recall training, rely on experience, etc.
-
-**Willpower (WIL)**: Used to resist horrors and manipulation of your thoughts.
-
-**Constitution (CON)**: Used to resist injury and to determine the rate at which you heal.
-
-**Luck**: Used to resist misfortune, and to determine if you notice little details and warning signs.
-
-As a PC's WIL or CON change, adjust their HP and MP according to the rules in character creation.
+As a PC’s STR and WIL change, adjust their HP and MP according to the rules in character creation.
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll 1d100 for an appropriate ability score or resistance. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. 91-99 is always a fail.
-
-When a PC does something related to their occupation, they may add 20 points to their ability score for that save.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll 1d100 for an appropriate ability score. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. 91-99 is always a fail.
 
 When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or fail, respectively.
 
-When the rules specify that a roll should be made with **advantage** (short form: [+]), roll twice and take the better result. Conversely, if they call for a roll with **disadvantage** (short form: [-]), roll twice and take the worse result. *A Critical Fail with 55 is worse than a Fail with 90, even though the number is lower.*
-
-### Luck
-
-You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restaore 1d10 Luck if you fail, but you cannot have more than 90 Luck.
+For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 100 to your result.
 
 ### Armor
 
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is wounded.
 
-### Damage
-
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**. You cannot have less than 0 HP.
-
-**Prone**: SPE saves are rolled with [-]. It takes one action or movement to stand back up.\
-**Unconscious**: Character wakes up in 2d10 minutes.
-
-### Death Save
-
-When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
-
-#### Death Table
-
-| d10 | Result |
-| --- | --- |
-| 0 | You are **heavily wounded**. Gain 1 HP, roll 1d10 on the Wounds Table and reduce one ability or resistance by 1d10. |
-| 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
-| 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
-
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a CON save. If you fail, make another Death Save. When you are dying, any amount of damage will kill you instantly.
-
-Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
-
 ### Healing
 
 If you are *not* wounded, resting for a few moments and having a drink of water restores lost HP.
 
-However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP. Every week in hospital gives [+] to your weekly CON save.
-
-### Wounds Table
-
-| d100 | Effect | d10 | Area |
-| --- | --- | --- | --- |
-| 00 | Flesh Wound. | 0 | Legs |
-| 10 | Knocked back hard. | 1 | Arms |
-| 20 | [-] on next save. | 2 | Hands |
-| 30 | [-] on saves of one ability or resistance until first aid. | 3 | Shoulders |
-| 40 | Bleeding or Burning. | 4 | Waist |
-| 50 | Drop the items you are holding. They land somewhere Close. | 5 | Back |
-| 60 | [-] on saves of one ability or resistance until cured. | 6 | Stomach |
-| 70 | Permanently lose 1d10 on one ability or resistance. | 7 | Chest |
-| 80 | Lethal Injury. Receive first aid within 1d6 rounds or make a Death Save. | 8 | Neck |
-| 90 | Death Save. | 9 | Head |
-
-**Bleeding**: You lose 1 HP per round until first aid is applied.\
-**Burning**: You lose 1 HP per round until the fire is put out.
+However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
 
 [back to index](#index)
 <p></p>
@@ -449,7 +387,7 @@ When you experience something mind-shatteringly dreadful or when your Sanity hit
 
 There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, they lose their bond. If they spend time with their key connection, roll with [+], but on a fail, this bond is no longer their key connection. If a PC successfully uses self-help, but does not have a key connection, make this bond their new key connection.\
+**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, they lose their bond. If they spend time with their key connection and roll a Critical Fail, they lose their bond and gain a Broken notch.\
 **Sanatorium**: A PC may commit themselves to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, make a Fortitude save. Otherwise, remove a Broken notch.\
 **Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
@@ -475,9 +413,7 @@ For the **First Evocation**, the PC must make a Mythos knowledge save. On a fail
 
 Casting a spell can cost MP, WIL or require a Sanity or Fortitude save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
 
-Some spells require you to win an **opposed** WIL save against your target. Whoever rolls the *highest* number under or equal to their WIL wins the save. If both sides fail, the *lowest* result wins. Add any WIL above 100 to your result.
-
-If you successfully cast a spell that was opposed by someone's WIL, increase your WIL by 1d6.
+Some spells require you to win an **opposed** WIL save against your target. If you successfully cast a spell that was opposed by someone's WIL, increase your WIL by 1d6.
 
 ### Miscast Table
 
@@ -536,10 +472,6 @@ Consider three [kinds of information](https://diyanddragons.blogspot.com/2019/10
 
 Finding clues should not present a challenge to players, and there are no mechanics for exploration in Eldritch Instinct. Rather, it is a conversation between the players and the Warden: when describing a location, the Warden begins by setting the mood and presenting landmark information, which often functions as threads, that the players can pull for more information. The players may then ask questions and describe their PC’s actions in order to uncover hidden information. The Warden answers truthfully, but should make sure that characters receive information that is appropriate to their occupation. The Warden should encourage the players to state what they want to know and what their characters do to figure it out.
 
-#### Noticing something
-
-Although the Warden should not rely on it too much, it can be a great addition to reveal threads, little details or early warning signs after asking a single PC for a Luck save. It helps to raise the tension and reminds players that they might want to spend their Luck sparingly.
-
 [back to index](#index)
 <p></p>
 
@@ -551,92 +483,102 @@ Combat, chases and stealth are extremely tense situations for both the PCs and t
 
 #### Rounds
 
-A **round** is roughly ten seconds of in-game time. 
-
-#### Surprise
-
-If the PCs are surprised, they only get to act in the first round if they make a successful Luck save.
+The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time.
 
 #### Actions
 
 In one round, a character may move somewhere close (15 m) and take up to one action. This may be checking someone's vitals, attacking, reloading a gun, making a second move, dragging someone to the ground or some other reasonable action.
 
-#### Range
+Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
 
-There are four range bands: **Adjacent**: less than 1 m. **Close**: less than 15 m. **Long** : less than 100 m. **Extreme**: more than 100 m.
+#### Round Order
 
-#### Attacking & Damage
+The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
-The attacker rolls their weapon damage and subtracts the target's armor, then deals the remaining total to their opponent's HP. If the attacker used a weapon with a magazine, they mark off the appropriate number of shots from their magazine.
+#### Attacking
 
-#### Multiple shots from a pistol
+The attacker rolls their weapon damage and subtracts the target's armor, then deals the remaining total to their opponent's HP. If the attacker used a weapon with a magazine, they mark off the appropriate number of shots from their magazine. Unarmed attacks do 1d4 damage.
+
+#### Multiple Shots from a Pistol
 
 If shooting two or three times with a pistol, roll damage for each shot and keep the single highest result.
 
-#### Firearm Attack Modifiers
+#### Range
 
-- Hunker Down: if you already are in cover and stay there without engaging the enemy, you cannot be hit.
-- Aiming: you can spend your action to aim in order to roll with [+] on your shot in the next round.
-- Diving for Cover: once per round as a reaction to being shot at, you may spend your action and movement and make a SPE save. If you succeed, enemies roll with [-].
-- Fast Moving: roll with [-] when you or your target is moving fast.
+There are four range bands: **Adjacent**: less than 1 m. **Close**: less than 15 m. **Long**: less than 100 m. **Extreme**: more than 100 m.
 
 #### Blast
 
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 
-#### Firing into melee
+#### Firing into Melee
 
 When an attacker shoots into a melee fight, they hit their *ally* if at least one of the damage dice shows a 1.
 
-#### Dodge
+#### Retreat
 
-A PC may avoid all melee attacks in one round if they spend their turn to dodge and make a successful SPE save. They may then spend their movement to retreat. If the opponent decides to pursue, proceed with a chase.
+Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to. If the opponent decides to pursue, proceed with a chase. A PC may attempt to retreat before the opponents act even if they failed their DEX save at the start of combat.
 
 [back to index](#index)
 <p></p>
 
-#### Round Order
+### Damage
 
-At the start of each round, the Warden will telegraph the most likely actions taken by NPCs or monsters, then the PCs declare what they are doing in response.
+If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose substantially more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**. You cannot have less than 0 HP.
 
-First, the Warden determines all PCs who are being attacked in *melee*. These PCs are in a **duel** with the monsters attacking them. In each duel, the player acts first, then the monsters. Duels where a PC attacks a monster in another duel are resolved last. Repeat this process for *ranged* duels, and finally resolve all remaining actions.
+**Prone**: You can barely move. It takes one action to stand back up.\
+**Unconscious**: Character wakes up in 2d10 minutes.
 
-If a monster can attack more than once per round, all attacks after its first are resolved at the end of the round.
+### Death Save
 
-#### Example
+When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without looking at the result. Reveal the die when someone checks your vitals and find the corresponding entry in the Death Table.
 
-*Lillian is being attacked by a cultist with a knife and will fight back. There is also a shadowy figure who will shoot their pistol at her. Robert is being attacked by a corrupt cop with a baton, but will attack the cultist. Ethel tries to shoot the shadowy figure with her rifle.*
+#### Death Table
 
-1. *Lillian and Robert are in a melee duel, but Lillian's duel will be resolved first because Robert is attacking a monster in another duel.*
+| d10 | Result |
+| --- | --- |
+| 0 | You are **heavily wounded**. Gain 1 HP, roll 1d10 on the Wounds Table and reduce one ability score by 1d10. |
+| 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
+| 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
 
-2. *Lillian is also in a ranged duel, but as she has already spent her action this round she does not react to the shadowy figure shooting at her.*
+**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a STR save. If you fail, make another Death Save. When you are dying, any amount of damage will kill you instantly.
 
-3. *Ethel's action is resolved last because she is not in a duel.*
+Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
+
+### Wounds Table
+
+| d100 | Effect | d10 | Area |
+| --- | --- | --- | --- |
+| 00 | Flesh Wound. | 0 | Legs |
+| 10 | Knocked back hard. | 1 | Arms |
+| 20 | Unconscious for 2d10 minutes. | 2 | Hands |
+| 30 | Your actions are impaired until you receive first aid. | 3 | Shoulders |
+| 40 | Bleeding or Burning. | 4 | Waist |
+| 50 | Drop the items you are holding. They land somewhere Close. | 5 | Back |
+| 60 | Your actions are impaired until your wound is cured. | 6 | Stomach |
+| 70 | Permanently lose 1d10 of one ability score. | 7 | Chest |
+| 80 | Lethal Injury. Receive first aid within 1d6 rounds or make a Death Save. | 8 | Neck |
+| 90 | Death Save. | 9 | Head |
+
+**Bleeding**: You lose 1 HP per round until first aid is applied.\
+**Burning**: You lose 1 HP per round until the fire is put out.
+
+[back to index](#index)
+<p></p>
 
 ### Chases
 
-During a chase, the PCs have to overcome *three* critical obstacles which require a save each. Rolling a critical fail yields -1 point, a fail yields 0 points, a success yields 1 point and a critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or catch their opponent.
-
-#### Difficulty
-
-If the chase is particularly easy or difficult, the PCs must roll with [+] or [-] on some of the saves. The Warden announces at the start of the chase how many [+] or [-] must be applied, but the players may choose which saves they want to roll with [+] or [-] as they come up.
-
-#### Approximate chances for failure
-
-| Group size | 2 x [-] | [-] | normal | [+] | 2 x [+] |
-| --- | --- | --- | --- | --- | --- |
-| 1 PC | 47 % | 36 % | 27 % | 16 % | 9 % |
-| 4 PCs, at least 1 fails | 92 % | 83 % | 72 % | 50 % | 31 % |
+During a chase, the PCs have to overcome *three* critical obstacles which require an *opposed* save each. Rolling a critical fail yields -1 point, a fail yields 0 points, a success yields 1 point and a critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or catch their opponent.
 
 #### Helping others
 
-If a PC has 3 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have at least 1 point at the end, both PCs are caught.
+If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have at least 1 point at the end, both PCs are caught.
 
 ### Chase Obstacles
 
-Ideally, the obstacles the PCs have to overcome should be what is in the path each PC chooses in the fictional world. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works. You can use the following table for inspiration.
+The obstacles that must be overcome should be what is in the path each fugitive chooses in the fictional world. Alternatively, the Warden may put one or two obstacles in the players’ way. Whether fugitives and pursuers roll using the same ability scores depends on the situation. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works. You can use the following table for inspiration.
 
-| d20 | STR | d20 | SPE | d20 | INT |
+| d20 | STR | d20 | DEX | d20 | WIL |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Something is in the way (crates, furniture). | 8 | Get past something in time. | 15 | Find a place to hide. |
 | 2 | You are being slowed down (thicket, people). | 9 | Get down a slope. | 16 | A deep puddle. |
@@ -672,28 +614,15 @@ In the background, players can do a number of things that advance their PCs, but
 
 These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, but the Warden should adjust the time to their needs.
 
-## Pulp
-
-If your group decides to run a more action-oriented adventure, consider these changes:
-
-- You can spend all Luck (min 30) to avoid certain death.
-- Regain 1d6 Hit Protection for 20 Luck if you are not wounded.
-- You have 25-100 % more Hit Protection.
-- Avoid unconsciousness by spending 2 Luck per minute.
-- When regenerating Luck, you regain 2d10+10 on a fail and 1d10+5 on a success.
-- You may spend Luck to re-roll Fortitude saves.
-- You regenerate 2 MP per hour.
-- Magazines do to occupy inventory slots.
-
 [back to index](#index)
 <p></p>
 
-### Creating Monsters
+### Creating Monsters and NPCs
 
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X WIL, Weapon (dX, special items, qualities)
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or consequence when wounding a PC
@@ -705,7 +634,7 @@ Use the following template to model a tome:
 
 **Name**
 Language, Mythos Rating
-- Engaging descriptor of appearance and condition
+- Appearance and condition
 - Summary of its content
 - Suggestion for spells
 
@@ -728,36 +657,34 @@ Roll equal to or under ability score to avoid consequences. 91-99 is always a fa
 
 ### Luck
 
-You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restore 1d10 Luck on a fail.
+You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restore 1d10 Luck on a fail up to a maximum of 90.
 
 ### Actions
 
 On their turn, a character may move up to 15 m and take up to one action. Actions may include attacking, making a second move, or other reasonable activities.
 
-Spend your action and make a successful SPE save to dodge all melee attacks for one round. **Retreating** from a dangerous situation always requires a successful SPE save, as well as a safe destination to run to.
+**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to. A PC may attempt to retreat before the opponents act even if they failed their DEX save at the start of combat.
 
 ### Inventory
 
 PCs have 7 inventory slots: Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
-Anyone carrying a full inventory (e.g. filling all 7 slots) takes twice the amount of damage and makes SPE saves with [-]. PCs cannot carry more than their inventory allows.
+Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wounds Table and fall prone when they are hit. PCs cannot carry more than their inventory allows.
 
 ### Healing
 
-A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a CON save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
+A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
 A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
 ### Combat
 
-The attacker rolls damage and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
+The attacker rolls damage and subtracts the target’s Armor, then deals the remaining total to their opponent’s HP.
 
-At the start of each round, the Warden will telegraph the most likely actions taken by NPCs or monsters, then the PCs declare what they are doing in response.
-
-First, the Warden determines all PCs who are being attacked in melee. These PCs are in a **duel** with the monsters attacking them. In each duel, the player acts first, then the monsters. Duels where a PC attacks a monster in another duel are resolved last. Repeat this process for ranged duels, and finally resolve all remaining actions.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the Wounds Table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a Death Save: roll 1d10 without looking at the result. As soon as someone spends a round to check your vitals, reveal the die and look up the result on the Death Table.
+If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the Wounds Table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a Death Save: roll 1d10 without looking at the result. Reveal the die when someone checks your vitals and find the corresponding entry in the Death Table.
 
 ### Sanity Save
 
