@@ -353,6 +353,10 @@ When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critic
 
 For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 100 to your result.
 
+### Difficulty
+
+When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Instead, limit or increase the risks and possible effects of the PC’s action purely in the fictional world.
+
 ### Armor
 
 Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is wounded.
@@ -588,6 +592,10 @@ The obstacles that must be overcome should be what is in the path each fugitive 
 | 6 | Get over or through a fence. | 13 | Uneven ground (roots, stones). | 20 | Slippery ground (mud, ice, oil). |
 | 7 | Cross a stream. | 14 | Someone drops something on the ground. | | |
 
+### A note on rules
+
+The rules in this document are suggestions to help you run a satisfying mystery. You are encouraged to modify these rules and try out different procedures. Time is not a limiting factor in the current situation? Don’t use the research rules. Come up with your own chase rules, or throw them out and go completely free-form. If you want more combat in your game, let enemies deal only half the amount of damage. Allow your players to choose their favorite entries from the tables at character creation or come up with their own details. Make this game your own.
+
 [back to index](#index)
 <p></p>
 
@@ -654,10 +662,6 @@ X MP, X WIL, (SAN), (Fortitude), (opposed), X Casting Time
 ### Saves
 
 Roll equal to or under ability score to avoid consequences. 91-99 is always a fail. Add 20 to your ability score when doing something related to your occupation. Doubles are Criticals (e.g. 00, 44).
-
-### Luck
-
-You may spend 5 Luck to re-roll an ability or resistance save, except when the result was a critical fail. After each session, make a Luck save and restore 1d10 Luck on a fail up to a maximum of 90.
 
 ### Actions
 
