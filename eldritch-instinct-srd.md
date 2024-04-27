@@ -680,9 +680,7 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wou
 A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
 A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
-### Combat
-
-The attacker rolls damage and subtracts the target’s Armor, then deals the remaining total to their opponent’s HP.
+### Round Order
 
 The Warden will telegraph the most likely actions taken by NPCs or monsters. When the players have declared their plans, all actions are resolved simultaneously. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
