@@ -497,7 +497,7 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 
 #### Round Order
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. When the players have declared their plans, all actions are resolved simultaneously. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 #### Attacking
 
@@ -521,7 +521,7 @@ When an attacker shoots into a melee fight, they hit their *ally* if at least on
 
 #### Retreat
 
-Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to. If the opponent decides to pursue, proceed with a chase. A PC may attempt to retreat before the opponents act even if they failed their DEX save at the start of combat.
+Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
 [back to index](#index)
 <p></p>
@@ -667,7 +667,7 @@ Roll equal to or under ability score to avoid consequences. 91-99 is always a fa
 
 On their turn, a character may move up to 15 m and take up to one action. Actions may include attacking, making a second move, or other reasonable activities.
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to. A PC may attempt to retreat before the opponents act even if they failed their DEX save at the start of combat.
+**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
 
 ### Inventory
 
@@ -684,7 +684,7 @@ A PC deprived of a crucial need (such as food or rest) is unable to recover HP a
 
 The attacker rolls damage and subtracts the target’s Armor, then deals the remaining total to their opponent’s HP.
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. When the players have declared their plans, all actions are resolved simultaneously. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 ### Damage
 
