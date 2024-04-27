@@ -367,6 +367,10 @@ If you are *not* wounded, resting for a few moments and having a drink of water 
 
 However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
 
+### Die of Fate
+
+Occasionally you will want an element of randomness (e.g. the weather, looking for specific items, etc.). In these situations, roll 1d6. A roll of 4 or more generally favors the players. A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+
 [back to index](#index)
 <p></p>
 
