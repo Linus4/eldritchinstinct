@@ -371,6 +371,20 @@ However, if you are wounded, make a STR save after every week. On a success, rec
 
 Occasionally you will want an element of randomness (e.g. the weather, looking for specific items, etc.). In these situations, roll 1d6. A roll of 4 or more generally favors the players. A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
+### Tension Pool
+
+This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension-pool/).
+
+Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
+
+When an investigator does something that takes **time**, like observing patrolling patterns, traveling to another location or picking a lock, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task.
+
+If a player does something **reckless**, like breaking open a door, sneaking close to opponents or as a consequence of a botched save, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence.  A consequence can be completely unrelated to the current task and does not necessarily mean that the PC fails at their task.
+
+If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Dice and then roll all dice in the Tension Pool.
+
+As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
+
 [back to index](#index)
 <p></p>
 
@@ -600,22 +614,9 @@ The obstacles that must be overcome should be what is in the path each fugitive 
 
 The rules in this document are suggestions to help you run a satisfying mystery. You are encouraged to modify these rules and try out different procedures. Time is not a limiting factor in the current situation? Don’t use the research rules. Come up with your own chase rules, or throw them out and go completely free-form. If you want more combat in your game, let enemies deal only half the amount of damage. Allow your players to choose their favorite entries from the tables at character creation or come up with their own details. Make this game your own.
 
-[back to index](#index)
-<p></p>
-
 ### Stealth & Deception
 
 If the situation is simple, for example when the investigators try to hide from a group of patrolling cultists, it is sufficient for the players to come up with a reasonable approach and make a save, each. On a critical fail, that player is detected or there is a major compromise.
-
-However, if the situation is complex and remaining undetected is the player’s goal for an extended amount of time, consider using a procedure akin to [The Angry DM’s Tension Pool](https://theangrygm.com/definitive-tension-pool/).
-
-You will need a container (the Tension Pool) and six d6 (Tension Dice). The Tension Pool usually starts out empty, but if the opposition is already suspicious or on alert, the Warden may decide to start with any number of Tension Dice.
-
-When an investigator does something that takes a lot of **time**, like observing patrolling patterns, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task. If a player makes creative use of their environment or their gear, they accomplish their task and remain undetected.
-
-There are, however, tasks that are particularly **reckless**. In that case, the player rolls all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence. If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Dice and then roll all dice in the Tension Pool.
-
-As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
 
 [back to index](#index)
 <p></p>
