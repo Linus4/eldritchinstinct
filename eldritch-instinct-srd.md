@@ -318,6 +318,14 @@ Every character understands their own native language and one other language. Ch
 
 Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name and an occupation.
 
+#### Motivation
+
+Characters are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. Conceive the reason why your character would push on despite all of this.
+
+#### Organization
+
+When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members and should be sworn to secrecy.
+
 #### Bonds
 
 Roll on the following table to determine the four most significant things that tie your PC to this world and mark one as their **Key Connection**. Use the results as a starting point and come up with something short and *specific*.
@@ -384,6 +392,11 @@ If a player does something **reckless**, like breaking open a door, sneaking clo
 If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Dice and then roll all dice in the Tension Pool.
 
 As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
+
+[back to index](#index)
+<p></p>
+
+## Example of Play
 
 [back to index](#index)
 <p></p>
@@ -474,15 +487,7 @@ Most social encounters can be resolved by critical thinking. Sometimes, however,
 
 ### Research
 
-A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language.
-
-When these conditions are met, the PC only needs time in order to get answers. The default scale used here is shifts (1 shift = 8 hours), but the Warden should adapt it to whatever makes sense in the scenario. The Warden announces the scale and rolls 2d6 in secret, or 1d6 if the PC is particularly knowledgeable in the field.
-
-The PC declares how much time they want to spend, and if that is longer than or equal to the result of the roll, they get everything. Otherwise, they get *nothing or only some part* of what can be learned. They may then spend more time on research, but working through the night leaves PCs **deprived**.
-
-**Deprived**: A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.\
-**Shift**: Lasts for 8 hours. PCs must rest for roughly one shift per day and can work for two shifts without any problems.\
-**Turn**: Lasts for 10 minutes.
+A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by adding a Tension Die to the Tension Pool. The Warden may award only partial information after a certain amount of time and allow the players to spend more time with their research. In any case, the Warden should let the players know whether they have learned everything or if there is something they are missing.
 
 ### Exploration
 
@@ -683,7 +688,6 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wou
 ### Healing
 
 A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
-A PC deprived of a crucial need (such as food or rest) is unable to recover HP and reset their Sanity.
 
 ### Round Order
 
