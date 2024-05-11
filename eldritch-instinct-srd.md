@@ -520,11 +520,24 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 
 #### Round Order
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. When the players have declared their plans, all actions are resolved simultaneously. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
-#### Attacking
+#### Attacking in Melee
 
-The attacker rolls their weapon damage and subtracts the target's armor, then deals the remaining total to their opponent's HP. If the attacker used a weapon with a magazine, they mark off the appropriate number of shots from their magazine. Unarmed attacks do 1d4 damage.
+First, the target decides whether to fight back or to dodge, then the attacker makes a STR save.
+
+If the target chose to *fight back*, they make a STR save with a -20 modifier to their STR. If both succeed, the character with the highest result hits the opponent. You only hit the opponent on a successful STR save.
+
+If the target chose to *dodge*, they make a DEX save with a +20 modifier to their DEX. If both succeed, the attacker hits the target only if their result is higher.
+On a hit, roll the weapon’s damage, subtract the opponent’s armor and reduce the opponent’s HP by the remaining total. A critical hit from the attacker deals full damage plus another roll for weapon damage.
+
+A monster’s hit chance and damage are usually listed in their description.
+
+#### Attacking with a Firearm
+
+Mark off the appropriate number of shots from the magazine and hit your target on a successful WIL save.
+
+The target may choose to *dive for cover*, forfeiting their next round and rolling a DEX save. On a success, the attacker rolls twice and takes the worse result.
 
 #### Multiple Shots from a Pistol
 
@@ -691,7 +704,7 @@ A moment's rest and a swig of water will restore lost HP for PCs who are not wou
 
 ### Round Order
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. When the players have declared their plans, all actions are resolved simultaneously. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 ### Damage
 
