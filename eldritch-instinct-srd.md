@@ -175,7 +175,7 @@ Divide your PC's STR by 4 to determine your PC's starting **Hit Protection** (HP
 
 If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
 
-**Prone**: You can barely move. It takes one action to stand back up.\
+**Prone**: You can barely move, so you cannot dodge. It takes one action to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
 
 #### Sanity
@@ -566,7 +566,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose substantially more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**. You cannot have less than 0 HP.
 
-**Prone**: You can barely move. It takes one action to stand back up.\
+**Prone**: You can barely move, so you cannot dodge. It takes one action to stand back up.\
 **Unconscious**: Character wakes up in 2d10 minutes.
 
 ### Death Save
@@ -653,8 +653,9 @@ These are just some suggestions, and the Warden should determine the effects and
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
-- Engaging descriptor of appearance or demeanor
+X HP, X Armor, X STR, X DEX, X WIL
+- Engaging descriptor of appearance or demeanor    • 
+- Attacks (hit chance, damage, effects)
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or consequence when wounding a PC
 - Motivation: what do they want?
@@ -721,7 +722,6 @@ Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Br
 ### Getting Better
 
 There are a number of possibilities to remove Broken notches: Self-help, commitment to a sanatorium, covering traces and conversation with other PCs. Each time you get rid of one Broken notch, increase your WIL by 1d10.
-
 
 [back to index](#index)
 <p></p>
