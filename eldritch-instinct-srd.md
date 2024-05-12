@@ -281,23 +281,23 @@ All PCs begin with:
 
 | Weapon | Range | Damage | Shots | Special |
 |---|---|---|---|---|
-| Unarmed | Adjacent | 1d4 | n/a | |
-| Pocket Knife | Adjacent | 1d6 | n/a | Can be hidden. |
-| Kitchen Knife | Adjacent | 1d8 | n/a | +10 on Wounds Table. |
-| Machete | Adjacent | 1d8+1 | n/a | |
-| Fire Axe | Adjacent | 1d12 | n/a | Bulky. |
-| Baseball Bat | Adjacent | 1d6+1 | n/a | +10 on Wounds Table. |
-| Crowbar | Adjacent | 1d6 | n/a | |
-| Spear | Adjacent | 1d8 | n/a | Can be thrown. |
+| Unarmed | Adjacent | 1d3 | n/a | |
+| Pocket Knife | Adjacent | 1d4 | n/a | Can be hidden. |
+| Kitchen Knife | Adjacent | 1d4 | n/a | +10 on Wounds Table. |
+| Machete | Adjacent | 1d6 | n/a | |
+| Fire Axe | Adjacent | 1d10 | n/a | Bulky. |
+| Baseball Bat | Adjacent | 1d4+1 | n/a | +10 on Wounds Table. |
+| Crowbar | Adjacent | 1d4 | n/a | |
+| Spear | Adjacent | 1d4 | n/a | Can be thrown. |
 
 ### Ranged Weapon Table
 
 | Weapon | Range | Damage | Shots | Special |
 |---|---|---|---|---|
 | Magazine | n/a | n/a | n/a | Occupies one inventory slot unless loaded. |
-| .38 Revolver | Close | 1d10 | 6 | Max three shots. |
-| .45 Revolver | Close | 1d10+2 | 6 | Max one shot. |
-| .32 Automatic | Close | 1d8 | 8 | Max three shots. |
+| .38 Revolver | Close | 1d8 | 6 | Max three shots. |
+| .45 Revolver | Close | 1d10 | 6 | Max one shot. |
+| .32 Automatic | Close | 1d6 | 10 | Max three shots. |
 | Bolt Action Rifle | Long | 2d6 | 6 | 1d6 at Adjacent range. Bulky. |
 | Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at Long range, +10 on Wounds Table. Bulky. |
 | Thompson | Close | 1d4 + 1d6 + 1d12 | 4 | 1d4+1d6 at Long range. Bulky. |
