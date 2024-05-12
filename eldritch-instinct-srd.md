@@ -288,7 +288,7 @@ All PCs begin with:
 | Fire Axe | Adjacent | 1d10 | n/a | Bulky. |
 | Baseball Bat | Adjacent | 1d4+1 | n/a | +10 on Wounds Table. |
 | Crowbar | Adjacent | 1d4 | n/a | |
-| Spear | Adjacent | 1d4 | n/a | Can be thrown. |
+| Spear | Adjacent | 1d4 | n/a | Can be thrown. Bulky. |
 
 ### Ranged Weapon Table
 
