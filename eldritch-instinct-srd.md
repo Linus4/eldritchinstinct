@@ -49,8 +49,8 @@ Players roll saves to avoid complications in risky situations. Don’t think of 
 ### Neutrality
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-### Impact
-Players are faced with difficult decisions, and their choices substantially affect the fictional world.
+### Assumed Competence
+Player characters are generally able to find information they are looking for, or to remain undetected if they try.
 
 ### Timeline
 The amount of time until there is a change in the environment, or that required by an NPC to accomplish their goals unhindered is determined in advance.
@@ -166,29 +166,43 @@ Next, roll for your character's **personality** (five factors) and think of one 
 
 #### Ability Scores
 
-Player Characters (PCs) have three attributes:
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d20+20 for each of their character's ability scores. They may then swap any two of the results.
+Player Characters (PCs) have three attributes: **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. 
+
+When creating a PC, the player should roll 3d6 for each of their character’s ability scores, in order. They may then swap any two of the results.
 
 #### Hit Protection
 
-Divide your PC's STR by 4 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**).
+Roll 1d6+6 to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
 
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**.
-
-**Prone**: You can barely move, so you cannot dodge. It takes one action to stand back up.\
-**Unconscious**: Character wakes up in 2d10 minutes.
-
-#### Sanity
-
-You Sanity (SAN) starts at 4. It is the mental construct that protects your mind from the awful reality of the Mythos.
+HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing on page 10).
 
 #### Magic Points
 
-A PC's Magic Points (MP) also start at the PC's WIL divided by 5 and are used to cast spells.
+A PC's Magic Points (MP) start at the PC's WIL and are used to cast spells.
 
 #### Mythos Knowledge
 
 A PC's Mythos Knowledge (MK) starts at 0. It represents how much a character has learned about the Mythos.
+
+#### Languages
+
+Every character understands their own native language and one other language. Choose from current languages (like French, Italian, German etc.) and ancient languages (like Greek, Latin, Arabic, etc.).
+
+#### Contacts
+
+Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name and an occupation.
+
+#### Bonds
+
+Roll on the Bonds Table to determine the four most significant things that tie your PC to this world and mark one as their **Key Connection**. Use the results as a starting point and come up with something short and *specific*.
+
+#### Motivation
+
+Characters are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. Conceive the reason why your character would push on despite all of this.
+
+#### Organization
+
+When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members and should be sworn to secrecy.
 
 #### Inventory
 
@@ -205,7 +219,7 @@ If you have a gun, divide the circle labeled **Magazine** into a number of secti
 All PCs begin with:
 
 - Two items from the **Equipment Table**.
-- One item from the **Bonus Items Table**.
+- One item from the **Bonus Items Table (optional)**.
 
 [back to index](#index)
 <p></p>
@@ -252,12 +266,11 @@ All PCs begin with:
 | 4 | Police Officer | 9 | Bureaucrat | 14 | Author | 19 | Antiquarian |
 |5 | Doctor | 10 | Ranger | 15 | Farmer | 20 | Mechanic |
 
-#### Bonus Item
+#### Bonus Item (optional)
 
-| 1-10 | 11-15 | 16-19 | 20 |
+| 1-8 | 9-14 | 15-17 | 18-20 |
 | :---: | :---: | :---: | :---: |
-| Item from Equipment Table | Melee Weapon | Pistol | Rifle or Shotgun |
-
+| Melee Weapon | Pistol | Shotgun | Rifle |
 
 ### Equipment Table
 
@@ -277,58 +290,25 @@ All PCs begin with:
 | 22-23 | Sack | 48-49 | Gloves | 74-75 | Camera | | |
 | 24-25 | Candles | 50-51 | Oil (flask) | 76-77 | Lock Pick | | |
 
-### Melee Weapon Table
+### Weapons Table
 
-| Weapon | Range | Damage | Shots | Special |
-|---|---|---|---|---|
-| Unarmed | Adjacent | 1d3 | n/a | |
-| Pocket Knife | Adjacent | 1d4 | n/a | Can be hidden. |
-| Kitchen Knife | Adjacent | 1d4 | n/a | +10 on Wounds Table. |
-| Machete | Adjacent | 1d6 | n/a | |
-| Fire Axe | Adjacent | 1d10 | n/a | Bulky. |
-| Baseball Bat | Adjacent | 1d4+1 | n/a | +10 on Wounds Table. |
-| Crowbar | Adjacent | 1d4 | n/a | |
-| Spear | Adjacent | 1d4 | n/a | Can be thrown. Bulky. |
+| Weapon | Damage | Shots | Special |
+| --- | --- | --- | --- |
+| Magazine | n/a | n/a | Occupies one inventory slot unless loaded. |
+| Unarmed | 1d4 | n/a | |
+| Knife, Machete, Crowbar | 1d6 | n/a | |
+| Pistol | 1d6 | 6 | Spend 3 shots to roll 3d6 and keep highest result. |
+| Shotgun | 1d6 | 2 | bulky, blast |
+| Fire Axe, Baseball Bat | 1d8 | n/a | bulky |
+| Rifle | 1d8 | 4 | bulky |
+| Thompson | 1d10 | 3 | bulky, spend 3 shots for blast |
+| .30 Browning Machine Gun | 1d12 | 4 | mounted, blast |
+| Frag Grenade | 1d10 | 1 | blast |
+| Molotov Cocktail | 1d4 | 1 | blast, lasts 3 rounds |
+| Dynamite Stick | 1d6 | 1 | blast, explodes at least one round after being lit |
+| Flamethrower | 1d6 | 4 | bulky, blast |
 
-### Ranged Weapon Table
-
-| Weapon | Range | Damage | Shots | Special |
-|---|---|---|---|---|
-| Magazine | n/a | n/a | n/a | Occupies one inventory slot unless loaded. |
-| .38 Revolver | Close | 1d8 | 6 | Max three shots. |
-| .45 Revolver | Close | 1d10 | 6 | Max one shot. |
-| .32 Automatic | Close | 1d6 | 10 | Max three shots. |
-| Bolt Action Rifle | Long | 2d6 | 6 | 1d6 at Adjacent range. Bulky. |
-| Double-Barrel Shotgun | Close | 2d6+2 | 2 | 1d6 at Long range, +10 on Wounds Table. Bulky. |
-| Thompson | Close | 1d4 + 1d6 + 1d12 | 4 | 1d4+1d6 at Long range. Bulky. |
-| .30 Browning Machine Gun | Long | 1d4 + 1d8 + 1d12 | 5 | Must brace when firing. May split damage between multiple targets. Bulky. |
-| Frag Grenade | Long | 3d10 | 1 | DEX save to dodge. Blast Close. |
-| Molotov Cocktail | Long | 1d6 + Burning | 1 | Blast Adjacent. |
-| Dynamite Stick | Long | 2d10 | 1 | Explodes at least one round after being lit. Blast Adjacent. |
-| Flamethrower | Close | 2d8 + Burning | 4 | If liquid fuel tank is destroyed, 6 DMG to all close. +10 on Wounds Table. Bulky. Blast Close. |
-
-[back to index](#index)
-<p></p>
-
-#### Languages
-
-Every character understands their own native language and one other language. Choose from current languages (like French, Italian, German etc.) and ancient languages (like Greek, Latin, Arabic, etc.).
-
-#### Contacts
-
-Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name and an occupation.
-
-#### Motivation
-
-Characters are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. Conceive the reason why your character would push on despite all of this.
-
-#### Organization
-
-When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members and should be sworn to secrecy.
-
-#### Bonds
-
-Roll on the following table to determine the four most significant things that tie your PC to this world and mark one as their **Key Connection**. Use the results as a starting point and come up with something short and *specific*.
+### Bonds Table
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -355,11 +335,11 @@ As a PC’s STR and WIL change, adjust their HP and MP according to the rules in
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll 1d100 for an appropriate ability score. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. 91-99 is always a fail.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
 
-When a player rolls doubles (e.g. 00, 44) on a save, they have rolled a **Critical** success or fail, respectively.
+A 1 is always a **critical success**, and a 20 is always a **critical failure**.
 
-For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 100 to your result.
+For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 20 to your result.
 
 ### Difficulty
 
@@ -367,13 +347,13 @@ When a PC is in a favorable or in a particularly difficult situation and must ma
 
 ### Armor
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is wounded.
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is critically wounded.
 
 ### Healing
 
-If you are *not* wounded, resting for a few moments and having a drink of water restores lost HP.
+Resting for a few moments and having a drink of water restores lost HP.
 
-However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
+Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
 
 ### Die of Fate
 
@@ -403,52 +383,67 @@ As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and 
 
 ## Mythos
 
-### Sanity Save
+### Insight
 
-When you witnesses something wholly unnatural and awful, roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude save and set your Sanity back to 2.
+When you see something unnatural, you might gain Insight. When you do, fill in the corresponding number of notches beginning at the 1 position (1 o’clock). If you’ve gained 5 or more Insight in one go, make an **Insight Save**. If you cannot fill enough Insight notches, you **freak out** and might suffer from **delusions**.
 
-After 8 hours of uninterrupted rest, reset your Sanity to 4.
+### Freak out
 
-### Fortitude Save
+You or the Warden come up with a reaction for your character based on the current situation, their bonds and their experiences. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
 
-When you experience something mind-shatteringly dreadful or when your Sanity hits 1, reduce your SAN by 1 and make a WIL save. On a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and freak out. If you are in mortal danger, that means that you must either **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight notch starting at the 1 position going clockwise as you are **Hardened**. On a fail, cross out an Insight notch starting at the 12 position going counter-clockwise as you are **Broken** and write down a one word reminder.
 
-#### Notches
+### Delusions
 
-**Hardened**: for every three Hardened notches you lose one of your bonds. You cannot have more Mythos knowledge than 10 times your number of Hardened notches.\
-**Broken**: for every three Broken notches you develop one undesirable condition. You might feel compelled to do something or behave in a certain way, fear something, develop an unhealthy coping mechanism or suffer from delusions. When you lose the third notch, the condition improves, but kicks back in when you get back to the third notch. You and Warden may also corrupt the PC’s personality and bonds, excluding the PC’s key connection.
+While you are suffering from delusions, you might perceive a twisted version of reality. You may attempt to see through the delusions with a WIL save. On a success, the delusions stop. On a fail, the delusions stay and you gain a Broken notch. It is at the Warden’s discretion to decide when you no longer suffer from delusions.
+
+### Broken
+
+If you cross out an Insight notch that is already Hardened, it temporarily counts as Broken instead.
+
+### Hardened
+
+Every three Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss. You cannot have more Mythos knowledge than 10 times your number of Hardened notches.
+
+### Insight Save
+
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a Hardened notch, you keep it together. If it hits a filled in notch or a Broken notch, you freak out.
 
 ### Getting Better
 
 There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
 
-**Self-help**: When a PC spends time with one of their bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, they lose their bond. If they spend time with their key connection and roll a Critical Fail, they lose their bond and gain a Broken notch.\
-**Sanatorium**: A PC may commit themselves to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, make a Fortitude save. Otherwise, remove a Broken notch.\
-**Cover traces**: Once per session, if a PC suppresses knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
+**Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. If you spend time with your key connection and roll a Critical Fail, lose your bond and gain a Broken notch.\
+**Sanatorium**: You may commit yourself to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, make a Fortitude save. Otherwise, remove a Broken notch.\
+**Cover traces**: Once per session, if you suppress knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
 <p></p>
 
-### Mythos Knowledge
+## Mythos Knowledge
 
-Players may try to roll under their PC’s Mythos Knowledge to see if their character knows *anything* about a creature, artifact, organization or something else Mythos-related. A PC cannot have more Mythos knowledge than 10 times their number of Hardened notches.
+You may try to roll 1d100 under your Mythos Knowledge (MK) to see if your character knows anything about a creature, artifact, organization or something else Mythos-related.
+
+### Keeping a Journal
+
+Once per day, you may turn up to 1d12 Insight into MK if you journal about your experiences or your studies and get a good night’s rest. Insight in Hardened notches cannot be turned into MK and vanishes after one day.
 
 ### Tomes
 
-PCs can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader must make a Fortitude save and may then increase their Mythos knowledge by half of the tome's **Mythos Rating**.
+You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s **Mythos Rating**.
 
-Further **study** of the tome takes 2d6 days, and after another Fortitude save, the PC increases their Mythos knowledge by the tome's full Mythos rating. A PC may study each tome at most 4 times.
+Further **study** of the tome takes 2d6 days, after which you may increase your MK by the tome’s full Mythos rating. You may study each tome at most 4 times. Every time, though, you must gain a Broken notch.
 
 ### Spells
 
 Some tomes might contain instructions for casting spells, which take 2d6 days to learn. 
 
-For the **First Evocation**, the PC must make a Mythos knowledge save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
+For the **First Evocation**, the PC must make an MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
-Casting a spell can cost MP, WIL or require a Sanity or Fortitude save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
+Casting a spell can cost MP, WIL, generate Insight or require an Insight save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
 
-Some spells require you to win an **opposed** WIL save against your target. If you successfully cast a spell that was opposed by someone's WIL, increase your WIL by 1d6.
+Some spells require you to win an **opposed** WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
 
 ### Miscast Table
 
@@ -504,8 +499,6 @@ Finding clues should not present a challenge to players, and there are no mechan
 
 ## Action
 
-Combat, chases and stealth are extremely tense situations for both the PCs and the players. PCs are assumed to be generally able to defend themselves, run or stay hidden when required. Instead, the following rules focus on the critical moments that decide over life and death. Feel free to hack the rules and experiment with different procedures!
-
 ### Combat
 
 #### Rounds
@@ -522,86 +515,68 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 
 The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
-#### Attacking in Melee
+#### Attacking & Damage
 
-First, the target decides whether to fight back or to dodge, then the attacker makes a STR save.
+The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Unarmed attacks always do 1d4 damage.
 
-If the target chose to *fight back*, they make a STR save with a -20 modifier to their STR. If both succeed, the character with the highest result hits the opponent. You only hit the opponent on a successful STR save.
+#### Multiple Attackers
 
-If the target chose to *dodge*, they make a DEX save with a +20 modifier to their DEX. If both succeed, the attacker hits the target only if their result is higher.
-On a hit, roll the weapon’s damage, subtract the opponent’s armor and reduce the opponent’s HP by the remaining total. A critical hit from the attacker deals full damage plus another roll for weapon damage.
+If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
-A monster’s hit chance and damage are usually listed in their description.
+#### Attack Modifiers
 
-#### Attacking with a Firearm
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the damage die used  during the attack.
 
-Mark off the appropriate number of shots from the magazine and hit your target on a successful WIL save.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
-The target may choose to *dive for cover*, forfeiting their next round and rolling a DEX save. On a success, the attacker rolls twice and takes the worse result.
+#### Dual Weapons
 
-#### Multiple Shots from a Pistol
-
-If shooting two or three times with a pistol, roll damage for each shot and keep the single highest result.
-
-#### Range
-
-There are four range bands: **Adjacent**: less than 1 m. **Close**: less than 15 m. **Long**: less than 100 m. **Extreme**: more than 100 m.
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
 
 #### Blast
 
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 
-#### Firing into Melee
+#### Critical Damage
 
-When an attacker shoots into a melee fight, they hit their *ally* if at least one of the damage dice shows a 1.
+Damage that reduces a target’s HP below zero decreases a target’s STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+
+Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid and rest, they will probably stabilize: roll 1d100 on the Wounds Table.
+
+#### Ability Score Loss
+
+If a PC’s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
+
+Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+
+#### Unconsciousness & Death
+
+When a character dies, the player is free to create a new character or take control of an NPC. They join the party not long after in order to reduce downtime.
+
+#### Detachments
+
+Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+
+Attacks against detachments by individuals are impaired (excluding blast damage). Attacks against individuals by detachments are enhanced and deal blast damage.
 
 #### Retreat
 
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-[back to index](#index)
-<p></p>
-
-### Damage
-
-If an attack takes a PC's HP below half of the maximum, the PC is **wounded** and must roll on the [Wounds Table](#wounds-table) and fall **prone**. If you lose substantially more than your maximum HP in one blow, you die immediately. If you have 0 HP, fall **unconscious** and make a **Death Save**. You cannot have less than 0 HP.
-
-**Prone**: You can barely move, so you cannot dodge. It takes one action to stand back up.\
-**Unconscious**: Character wakes up in 2d10 minutes.
-
-### Death Save
-
-When you have 0 HP, fall unconscious for 2d10 minutes and roll 1d10 without looking at the result. Reveal the die when someone checks your vitals and find the corresponding entry in the Death Table.
-
-#### Death Table
-
-| d10 | Result |
-| --- | --- |
-| 0 | You are **heavily wounded**. Gain 1 HP, roll 1d10 on the Wounds Table and reduce one ability score by 1d10. |
-| 1-4 | You are **Dying**. Roll 1d10 on the Wounds Table. Unless you receive first aid, you will die in 1d4 rounds. |
-| 5-9 | **You have died.** Create a new PC or take over a contact or NPC. |
-
-**Dying**: If you do not receive professional medical treatment within 1 hour, you must make a STR save. If you fail, make another Death Save. When you are dying, any amount of damage will kill you instantly.
-
-Professional medical treatment requires at least one 1 hour, a doctor and proper clinical instruments. Heals 1 HP and removes the Dying condition.
-
 ### Wounds Table
 
 | d100 | Effect | d10 | Area |
 | --- | --- | --- | --- |
-| 00 | Flesh Wound. | 0 | Legs |
-| 10 | Knocked back hard. | 1 | Arms |
-| 20 | Unconscious for 2d10 minutes. | 2 | Hands |
-| 30 | Your actions are impaired until you receive first aid. | 3 | Shoulders |
-| 40 | Bleeding or Burning. | 4 | Waist |
-| 50 | Drop the items you are holding. They land somewhere Close. | 5 | Back |
-| 60 | Your actions are impaired until your wound is cured. | 6 | Stomach |
-| 70 | Permanently lose 1d10 of one ability score. | 7 | Chest |
-| 80 | Lethal Injury. Receive first aid within 1d6 rounds or make a Death Save. | 8 | Neck |
-| 90 | Death Save. | 9 | Head |
-
-**Bleeding**: You lose 1 HP per round until first aid is applied.\
-**Burning**: You lose 1 HP per round until the fire is put out.
+| 00 | **Scarred.** You were lucky this time. | 0 | Legs |
+| 10 |  | 1 | Arms |
+| 20 |  | 2 | Hands |
+| 30 |  | 3 | Shoulders |
+| 40 |  | 4 | Waist |
+| 50 | **Injured.** Mechanical effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 5 | Back |
+| 60 |  | 6 | Stomach |
+| 70 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 7 | Chest |
+| 80 |  | 8 | Neck |
+| 90 | **Dead.** Roll up a new character or play an NPC. | 9 | Head |
 
 [back to index](#index)
 <p></p>
@@ -653,9 +628,8 @@ These are just some suggestions, and the Warden should determine the effects and
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
-X HP, X Armor, X STR, X DEX, X WIL
-- Engaging descriptor of appearance or demeanor    • 
-- Attacks (hit chance, damage, effects)
+X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX)
+- Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or consequence when wounding a PC
 - Motivation: what do they want?
@@ -675,7 +649,7 @@ Language, Mythos Rating
 Use the following template to model a spell:
 
 **Name**
-X MP, X WIL, (SAN), (Fortitude), (opposed), X Casting Time
+X MP, X WIL, 1dX SAN, (opposed), X Casting Time
 - Engaging descriptor of effects
 
 [back to index](#index)
