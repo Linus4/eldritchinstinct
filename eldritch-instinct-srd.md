@@ -286,7 +286,7 @@ All PCs begin with:
 | 14-15 | Binoculars | 40-41 | Net | 66-67 | Harmonica | 92-93 | Playing Cards |
 | 16-17 | Compass | 42-43 | Grappling Hook | 68-69 | Handkerchief | 94-95 | Watch |
 | 18-19 | Bear Trap | 44-45 | Handcuffs | 70-71 | Suspenders | 96-97 | Pen and Paper |
-| 20-21 | Wire Recorder | 46-47 | Whistle | 72-73 | Walking Stick | 98-99 | Marbles |
+| 20-21 | Tape Recorder | 46-47 | Whistle | 72-73 | Walking Stick | 98-99 | Marbles |
 | 22-23 | Sack | 48-49 | Gloves | 74-75 | Camera | | |
 | 24-25 | Candles | 50-51 | Oil (flask) | 76-77 | Lock Pick | | |
 
@@ -369,7 +369,7 @@ When an investigator does something that takes **time**, like observing patrolli
 
 If a player does something **reckless**, like breaking open a door, sneaking close to opponents or as a consequence of a botched save, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence.  A consequence can be completely unrelated to the current task and does not necessarily mean that the PC fails at their task.
 
-If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Dice and then roll all dice in the Tension Pool.
+If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Die and then roll all dice in the Tension Pool.
 
 As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
 
@@ -399,7 +399,7 @@ While you are suffering from delusions, you might perceive a twisted version of 
 
 ### Broken
 
-If you cross out an Insight notch that is already Hardened, it temporarily counts as Broken instead.
+Broken notches cannot be filled when gaining Insight. If you cross out an Insight notch that is already Hardened, it temporarily counts as Broken instead. When you gain a Broken notch, describe how your character is affected and how they cope with their trauma.
 
 ### Hardened
 
@@ -427,7 +427,7 @@ You may try to roll 1d100 under your Mythos Knowledge (MK) to see if your charac
 
 ### Keeping a Journal
 
-Once per day, you may turn up to 1d12 Insight into MK if you journal about your experiences or your studies and get a good night’s rest. Insight in Hardened notches cannot be turned into MK and vanishes after one day.
+Once per day, you may turn up to 1d12 Insight into MK if you journal about your experiences or your studies and get a good night’s rest. Insight in Hardened notches cannot be turned into MK and vanishes at the Keeper’s discretion – probably at the end of a scenario.
 
 ### Tomes
 
@@ -576,7 +576,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 | 60 |  | 6 | Stomach |
 | 70 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 7 | Chest |
 | 80 |  | 8 | Neck |
-| 90 | **Dead.** Roll up a new character or play an NPC. | 9 | Head |
+| 90 | **Dead.** Roll up a new character, play your contact or take over an NPC. | 9 | Head |
 
 [back to index](#index)
 <p></p>
@@ -603,13 +603,22 @@ The obstacles that must be overcome should be what is in the path each fugitive 
 | 6 | Get over or through a fence. | 13 | Uneven ground (roots, stones). | 20 | Slippery ground (mud, ice, oil). |
 | 7 | Cross a stream. | 14 | Someone drops something on the ground. | | |
 
-### A note on rules
-
-The rules in this document are suggestions to help you run a satisfying mystery. You are encouraged to modify these rules and try out different procedures. Time is not a limiting factor in the current situation? Don’t use the research rules. Come up with your own chase rules, or throw them out and go completely free-form. If you want more combat in your game, let enemies deal only half the amount of damage. Allow your players to choose their favorite entries from the tables at character creation or come up with their own details. Make this game your own.
-
 ### Stealth & Deception
 
-If the situation is simple, for example when the investigators try to hide from a group of patrolling cultists, it is sufficient for the players to come up with a reasonable approach and make a save, each. On a critical fail, that player is detected or there is a major compromise.
+In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting *on their own*. Allow the players to *get in over their heads*, then put the screws on them.
+
+Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert? Here are a few tools and illustrative situations to help you run kick-ass infiltration, heists and escapes. 
+
+Two concepts you should always have in mind are position (risk) and effect (see **Difficulty** on page 10): the player says what they want to do, the Warden decides whether there is a threat, and then the player describes how they want to deal with the threat. Next, the Warden communicates the **position** – which consequences could arise in case of failure – and the **effect** – how would it affect the fictional world. Position could be: 1. Controlled – simple task, you can wait, opponents suspect nothing; 2. Risky – daring task, your options are limited, opponents are on alert; 3. Desperate – daunting task, you must act immediately, nothing can go wrong, opponents are on to you.
+
+After the player had the opportunity to adapt their approach, you resolve the situation with a save, the Tension Pool or just within the fiction. Failure in a controlled position could lead to a risky position, imply mild consequences, but might allow the character to step back from the attempt and try something else. Failure in a risky position might lead to more serious consequences and to a desperate position, but does not necessarily mean that the character is detected outright. Failure in a desperate position implies dire consequences and means that the character is exposed in a bad spot.
+
+#### Illustrative Situations
+
+1. The investigators move through a forest as they notice a cultist patrol that is looking for them. They players decide to hide behind the trees and stay quiet. The position is controlled, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
+2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be a desperate position as the cultists would recognize strangers, and they would have to move past the cultists right in front of them, and the best case outcome is that after shortly passing the checkpoint a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool. The situation is resolved with a WIL save. (**Multi-stage plan**)
+3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the alien is right in front of you; or hide behind the door with a 40 % probability, but on a fail the alien is almost out of the other door before it notices you. (**Offer decisions**)
+4. The investigator is cornered by a couple of corrupt cops who have their guns trained on him, and wants to pick up a pistol off the floor. The Warden decides that the position is desperate: failure would result in an enhanced attack from both cops before combat starts; success would mean that both cops get a regular attack in before combat starts. The player decides to add a detail to the scene by adding a die to the Tension Pool: a slight distraction from down the corridor allows the investigator to shoot before the cops if the DEX save is successful. (**Add details**)
 
 [back to index](#index)
 <p></p>
