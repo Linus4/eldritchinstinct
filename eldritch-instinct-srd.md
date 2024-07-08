@@ -10,7 +10,7 @@ nav_order: 2
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
-Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Death Save, Wounds), Cthulhu Dark by Graham Walmsley (Sanity Save), Nemesis by Arc Dream Publishing (Fortitude Save, Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Wounds, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper and Rats in the Walls by Kobayashi (Research).
+Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Critical Wounds), Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing (Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper (Position and Effect) and Rats in the Walls by Kobayashi (Research).
 
 The names and equipment tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
 
@@ -668,7 +668,11 @@ X MP, X WIL, 1dX SAN, (opposed), X Casting Time
 
 ### Saves
 
-Roll equal to or under ability score to avoid consequences. 91-99 is always a fail. Add 20 to your ability score when doing something related to your occupation. Doubles are Criticals (e.g. 00, 44).
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
+
+A 1 is always a **critical success**, and a 20 is always a **critical failure**.
+
+For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 20 to your result.
 
 ### Actions
 
@@ -684,23 +688,34 @@ Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wou
 
 ### Healing
 
-A moment's rest and a swig of water will restore lost HP for PCs who are not wounded. However, if you are wounded, make a STR save after every week. On a success, recover 1d4 HP. You heal your wounds on a critical success, or when you recover to half of your maximum HP.
+Resting for a few moments and having a drink of water restores lost HP.
+
+Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
 
 ### Round Order
 
 The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
+### Combat
+
+The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Unarmed attacks always do 1d4 damage.
+
+If **multiple attackers** target the same foe, roll all damage dice and keep the single highest result.
+
+If the attack is **impaired**, the attacker must roll 1d4 damage regardless of weapon. If the attack is **enhanced**,  the attacker rolls 1d12 damage instead of their normal die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+
 ### Damage
 
-If an attack takes a PC’s HP below half of the maximum, the PC is wounded and must roll on the Wounds Table and fall prone. If you have 0 HP, fall unconscious for 2d10 minutes and make a Death Save: roll 1d10 without looking at the result. Reveal the die when someone checks your vitals and find the corresponding entry in the Death Table.
+Damage that reduces a target’s HP below 0 decreases their STR by the remainder. They must then make a STR save to avoid critical damage. Failure takes them out of combat, dying if left untreated. To check the vitals of a downed investigator, roll 1d100 on the Wounds Table.
 
-### Sanity Save
+### Insight Save
 
-Roll 1d4. If the result is lower than your Sanity, you are unsettled and reduce your Sanity by 1. When your Sanity hits 1, make a Fortitude save and set your Sanity back to 2. After 8 hours of uninterrupted rest, reset your Sanity to 4.
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a Hardened notch, you keep it together. If it hits a filled in notch or a Broken notch, you freak out.
 
-### Fortitude Save
+### Freak out
 
-Make a WIL save: on a success, fill in a Hardened notch. Otherwise, fill in a Broken notch, lose 1d10 WIL and freak out: **fight** until the stimulus is destroyed, **flee** until you are far away or **freeze** (hide from the it).
+You or the Warden come up with a reaction for your character. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
+When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight notch starting at the 1 position going clockwise as you are **Hardened**. On a fail, cross out an Insight notch starting at the 12 position going counter-clockwise as you are **Broken** and write down a one word reminder.
 
 ### Getting Better
 
