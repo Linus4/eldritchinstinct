@@ -298,7 +298,7 @@ All PCs begin with:
 | Unarmed | 1d4 | n/a | |
 | Knife, Machete, Crowbar | 1d6 | n/a | |
 | Pistol | 1d6 | 6 | Spend 3 shots to roll 3d6 and keep highest result. |
-| Shotgun | 1d6 | 2 | bulky, blast |
+| Shotgun | 1d4 | 2 | bulky, blast |
 | Fire Axe, Baseball Bat | 1d8 | n/a | bulky |
 | Rifle | 1d8 | 4 | bulky |
 | Thompson | 1d10 | 3 | bulky, spend 3 shots for blast |
