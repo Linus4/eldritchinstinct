@@ -414,7 +414,7 @@ When you experience something mind-shatteringly dreadful, roll 1d12. If it hits 
 There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
 
 **Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. If you spend time with your key connection and roll a Critical Fail, lose your bond and gain a Broken notch.\
-**Sanatorium**: You may commit yourself to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, make a Fortitude save. Otherwise, remove a Broken notch.\
+**Sanatorium**: You may commit yourself to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, gain 3 Broken notches. Otherwise, remove a Broken notch.\
 **Cover traces**: Once per session, if you suppress knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
 **Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
@@ -441,7 +441,7 @@ Some tomes might contain instructions for casting spells, which take 2d6 days to
 
 For the **First Evocation**, the PC must make an MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
-Casting a spell can cost MP, WIL, generate Insight or require an Insight save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your HP instead. You regenerate 1 MP per hour.
+Casting a spell can cost MP, WIL, generate Insight or require an Insight save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
 Some spells require you to win an **opposed** WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
 
