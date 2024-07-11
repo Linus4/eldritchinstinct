@@ -206,9 +206,9 @@ When you are playing a series of short and unrelated scenarios, you might want t
 
 #### Inventory
 
-Characters have a total of 7 inventory slots. Most items such as a magazine or a flashlight take up one slot, and small items can be bundled together.
+Characters have a total of 9 inventory slots. Most items such as a magazine or a flashlight take up one slot, and small items can be bundled together.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wounds Table and fall prone when they are hit. A PC cannot carry more items than their inventory allows.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. A PC cannot carry more items than their inventory allows.
 
 As carrying bulky weapons would raise suspicion, it is generally assumed that PCs keep their bulky weapons hidden in their car or at home, unless the players say otherwise.
 
@@ -331,8 +331,6 @@ Each of the three abilities are used in different circumstances.
 **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, sneaking, balancing, etc.\
 **Willpower (WIL)**: Used for saves to recall training, resist manipulation of your thoughts, deceive, etc.
 
-As a PC’s STR and WIL change, adjust their HP and MP according to the rules in character creation.
-
 ### Saves
 
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
@@ -354,6 +352,8 @@ Before calculating damage to HP, subtract the target's **Armor** value from the 
 Resting for a few moments and having a drink of water restores lost HP.
 
 Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
+
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores.
 
 ### Die of Fate
 
@@ -682,15 +682,17 @@ On their turn, a character may move up to 15 m and take up to one action. Action
 
 ### Inventory
 
-PCs have 7 inventory slots: Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+PCs have 9 inventory slots: Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
 
-Anyone carrying a full inventory (e.g. filling all 7 slots) must roll on the Wounds Table and fall prone when they are hit. PCs cannot carry more than their inventory allows.
+Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. PCs cannot carry more than their inventory allows.
 
 ### Healing
 
 Resting for a few moments and having a drink of water restores lost HP.
 
 Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
+
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores.
 
 ### Round Order
 
