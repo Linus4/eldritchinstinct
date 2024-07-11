@@ -52,8 +52,8 @@ The Warden's role is to portray the rules, situations, NPCs, and narrative clear
 ### Assumed Competence
 Player characters are generally able to find information they are looking for, or to remain undetected if they try.
 
-### Timeline
-The amount of time until there is a change in the environment, or that required by an NPC to accomplish their goals unhindered is determined in advance.
+### Rulings
+The Warden and the players make this game their own by leaving out rules they don’t like and by adding procedures and spot-rules they want.
 
 ### Death
 Characters are ordinary people faced with incomprehensible horrors. Death is always around the corner, but it is never random or without warning.
