@@ -172,7 +172,7 @@ When creating a PC, the player should roll 3d6 for each of their character’s a
 
 #### Hit Protection
 
-Roll 1d6+6 to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
+Roll 1d6+2 to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
 
 HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing on page 10).
 
@@ -572,11 +572,11 @@ Running away from a dire situation always requires a successful DEX save, as wel
 | 20 |  | 2 | Hands |
 | 30 |  | 3 | Shoulders |
 | 40 |  | 4 | Waist |
-| 50 | **Injured.** Mechanical effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 5 | Back |
-| 60 |  | 6 | Stomach |
-| 70 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 7 | Chest |
-| 80 |  | 8 | Neck |
-| 90 | **Dead.** Roll up a new character, play your contact or take over an NPC. | 9 | Head |
+| 50 |  | 5 | Back |
+| 60 | **Injured.** Mechanical effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 6 | Stomach |
+| 70 |  | 7 | Chest |
+| 80 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 8 | Neck |
+| 90 |  | 9 | Head |
 
 [back to index](#index)
 <p></p>
