@@ -23,6 +23,7 @@ url: "https://eldritchinstinct.com" # the base hostname & protocol for your site
 github_username: linus4
 permalink: pretty
 encoding: UTF-8
+description: "Adventure game for investigating the strange and unexplained."
 
 back_to_top: true
 back_to_top_text: "Back to top"

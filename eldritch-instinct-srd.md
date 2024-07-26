@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-nav_order: 2
+nav_order: 3
 ---
 
 # Eldritch Instinct System Reference Document (v0.4)
