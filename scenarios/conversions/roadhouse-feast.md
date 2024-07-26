@@ -10,12 +10,12 @@ title: Roadhouse Feast
 - Conversion done by [Linus Weber](https://linuz.itch.io)
 
 #### The Abomination
-17 HP, 3 Armor, 120 STR, 70 DEX, 50 WIL, pounce (2d6)
-- PC wounded: immediately follows up with a bite (1d12), forfeits next action
+17 HP, 1 Armor, 16 STR, 8 DEX, 4 WIL, pounce (d10 + d10)
+- Critical damage: picks up the investigator with its jaws and takes them to Laura.
 
 #### Laura
-16 HP, 1 Armor, 80 STR, 50 DEX, 85 WIL, butcher's knife (1d8 + 1d4)
-- Blow whistle: PCs make Sanity save. Those who reach 1 Sanity must submit to Laura
+14 HP, 1 Armor, 13 STR, 10 DEX, 17 WIL, butcher's knife (d8)
+- Blow whistle: PCs make an Insight save. Those who fail must submit to Laura until they successfully make a WIL save (1 per round).
 
 #### Alma
-54 STR, 58 DEX, 27 WIL, 13 HP, 5 MP
+10 STR, 11 DEX, 5 WIL, 1 HP, 5 MP
