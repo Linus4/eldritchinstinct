@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pacing a Horror One-Shot"
-date: 2024-07-27 11:50:00 +0200
+date: 2024-07-27 09:00:00 +0200
 tags: advice
 ---
 
