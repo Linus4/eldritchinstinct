@@ -12,7 +12,7 @@ Players act as curious investigators of the strange and unexplained. They will r
 
 Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Critical Wounds), Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing (Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper (Position and Effect) and Rats in the Walls by Kobayashi (Research).
 
-The names and equipment tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
+The names and gear tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
 
 For the purposes of this game, the Mythos is a collection of stories, entities, characters and places conceived by Howard Phillips Lovecraft with contributions from his contemporary authors such as Clark Ashton Smith, Robert E. Howard and Robert Bloch. Since then, many authors, directors, artists and scenario designers have contributed their, often contradictory, ideas to the Mythos. The Warden may choose freely which elements of the Mythos to include in their game.
 
@@ -141,7 +141,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Keep notes to help you remember details and clues from your investigation.
 
 ### Motivation
-- Characters are confronted with life-threatening violence, mind-breaking revelations and demanding tasks.
+- Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks.
 - Conceive the reason why your character would push on despite all of this.
 
 ### Agency
@@ -190,7 +190,7 @@ Every character understands their own native language and one other language. Ch
 
 #### Contacts
 
-Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name and an occupation.
+Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name, two languages and an occupation.
 
 #### Bonds
 
@@ -198,11 +198,7 @@ Roll on the Bonds Table to determine the four most significant things that tie y
 
 #### Motivation
 
-Characters are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. Conceive the reason why your character would push on despite all of this.
-
-#### Organization
-
-When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members and should be sworn to secrecy.
+Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. During play, conceive and adapt the reason why your character would push on despite all of this.
 
 #### Inventory
 
@@ -218,8 +214,10 @@ If you have a gun, divide the circle labeled **Magazine** into a number of secti
 
 All PCs begin with:
 
-- Two items from the **Equipment Table**.
+- Two items from the **Gear Table**.
 - One item from the **Bonus Items Table (optional)**.
+
+The PC with the lowest ability score total also starts with a source of light.
 
 [back to index](#index)
 <p></p>
@@ -272,7 +270,7 @@ All PCs begin with:
 | :---: | :---: | :---: | :---: |
 | Melee Weapon | Pistol | Shotgun | Rifle |
 
-### Equipment Table
+### Gear Table
 
 | d100 | Item | d100 | Item | d100 | Item | d100 | Item |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -297,11 +295,11 @@ All PCs begin with:
 | Magazine | n/a | n/a | Occupies one inventory slot unless loaded. |
 | Unarmed | 1d4 | n/a | |
 | Knife, Machete, Crowbar | 1d6 | n/a | |
-| Pistol | 1d6 | 6 | Spend 3 shots to roll 3d6 and keep highest result. |
-| Shotgun | 1d4 | 2 | bulky, blast |
+| Colt M1911 | 1d6 | 6 | Spend 3 shots to roll 3d6 and keep highest result. |
+| Stevens 311 Shotgun | 1d6 | 2 | bulky, blast. Fire both barrels for 1d10 damage. Must be close. |
 | Fire Axe, Baseball Bat | 1d8 | n/a | bulky |
-| Rifle | 1d8 | 4 | bulky |
-| Thompson | 1d10 | 3 | bulky, spend 3 shots for blast |
+| Lee-Enfield Mk III | 1d8 | 4 | bulky. d12 when used as a sniper rifle from a controlled position. |
+| Thompson Submachine Gun | 1d10 | 3 | bulky, spend 3 shots for blast |
 | .30 Browning Machine Gun | 1d12 | 4 | mounted, blast |
 | Frag Grenade | 1d10 | 1 | blast |
 | Molotov Cocktail | 1d4 | 1 | blast, lasts 3 rounds |
@@ -317,6 +315,23 @@ All PCs begin with:
 | 3 | Pet | 8 | Outdoors | 13 | Community | 18 | Going out |
 | 4 | Partner | 9 | Travel | 14 | Contemplate | 19 | Home |
 | 5 | Literature | 10 | Art | 15 | Self-Care | 20 | Gardening |
+
+[back to index](#index)
+<p></p>
+
+### Optional Rules for Character Creation
+
+#### Backstories
+
+First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours. Repeat this process one more time.
+
+#### Age
+
+Decide how old your character is or roll 2d20+15 or roll two d8, one representing the tens digit, the other the single digit and add 6.
+
+#### Organization
+
+When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members, should be sworn to secrecy and strive to study and suppress the Mythos.
 
 [back to index](#index)
 <p></p>
@@ -531,7 +546,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 
 #### Dual Weapons
 
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. This is denoted as dX + dX.
 
 #### Blast
 
@@ -573,7 +588,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 | 30 |  | 3 | Shoulders |
 | 40 |  | 4 | Waist |
 | 50 |  | 5 | Back |
-| 60 | **Injured.** Mechanical effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 6 | Stomach |
+| 60 | **Injured.** Effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 6 | Stomach |
 | 70 |  | 7 | Chest |
 | 80 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 8 | Neck |
 | 90 |  | 9 | Head |
@@ -625,12 +640,32 @@ After the player had the opportunity to adapt their approach, you resolve the si
 
 ## Downtime
 
-In the background, players can do a number of things that advance their PCs, but are only summarized at the table. They could read tomes, spend time with their bonds, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
+In the background or between scenarios, players can do a number of things that are summarized at the table. They could read tomes, spend time with their bonds, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
 
 These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, but the Warden should adjust the time to their needs.
 
 [back to index](#index)
 <p></p>
+
+## Bestiary
+
+**Cultist**
+5 HP, 8 STR, 10 DEX, 13 WIL, Dagger (d6)
+- Some could know spells.
+- Fanatics willing to give their life for their master.
+
+**Deep One Youngling**
+3 HP, 1 Armor, 5 STR, 11 DEX, 4 WIL, bite (d6)
+- Usually appear in groups (treat as detachment).
+- Can shoot a poisonous stinger that deals d8 damage to DEX for one hour.
+
+**Mi-Go Warrior**
+14 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8 + d8)
+- Can fly and call to summon additional Mi-Go.
+
+**Shoggoth**
+25 HP, 18 STR, 5 DEX, 5 WIL, tentacles (d8, blast), detachment
+- Critical damage: grapples investigator, deals d4 damage per round until freed.
 
 ### Creating Monsters and NPCs
 
@@ -640,8 +675,13 @@ Use the following template to model any more sophisticated Monster or NPC:
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or consequence when wounding a PC
-- Motivation: what do they want?
+- Special effect or critical damage consequence
+
+#### General Principles
+
+Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary. Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP. Use flavor and style to help them stand out.
+
+Use critical damage to lean into the threat or strangeness of any aggressive NPC. Remember that HP is Hit Protection, not Hit Points. It’s a measure of resilience, luck, and gumption - not health.
 
 ### Creating Tomes
 
@@ -653,12 +693,17 @@ Language, Mythos Rating
 - Summary of its content
 - Suggestion for spells
 
+**Book of Eibon**
+Old English, Mythos Rating 8
+- Ancient, falling apart, only few chapters legible.
+- Accounts of the wizard Eibon from Hyperborea.
+
 ### Creating Spells
 
 Use the following template to model a spell:
 
 **Name**
-X MP, X WIL, 1dX SAN, (opposed), X Casting Time
+X MP, X WIL, dX Insight, (opposed), X Casting Time
 - Engaging descriptor of effects
 
 [back to index](#index)
