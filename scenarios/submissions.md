@@ -9,7 +9,7 @@ parent: Scenarios
 
 ## Originals
 
-Send me a message on Discord (linus7017) with a link where your scenario can be accessed. I'll be happy to include it in the list.
+Send me a message on Discord (linus7017) with a link where your scenario can be accessed. I'll be happy to include it in the list. You may create, publish and sell products for Eldritch Instinct without my express permission.
 
 ## Conversions
 
