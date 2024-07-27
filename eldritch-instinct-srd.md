@@ -426,7 +426,7 @@ When you experience something mind-shatteringly dreadful, roll 1d12. If it hits 
 
 ### Getting Better
 
-There are a number of possibilities to remove Broken notches. Every time you successfully get rid of one Broken notch, increase your WIL by 1d10.
+There are a number of possibilities to remove Broken notches.
 
 **Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. If you spend time with your key connection and roll a Critical Fail, lose your bond and gain a Broken notch.\
 **Sanatorium**: You may commit yourself to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, gain 3 Broken notches. Otherwise, remove a Broken notch.\
