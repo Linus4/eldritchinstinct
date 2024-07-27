@@ -295,7 +295,7 @@ The PC with the lowest ability score total also starts with a source of light.
 | Magazine | n/a | n/a | Occupies one inventory slot unless loaded. |
 | Unarmed | 1d4 | n/a | |
 | Knife, Machete, Crowbar | 1d6 | n/a | |
-| Colt M1911 | 1d6 | 6 | Spend 3 shots to roll 3d6 and keep highest result. |
+| Colt M1911 | 1d6 | 6 | Spend 3 shots to deal d6 + d6 + d6 damage. |
 | Stevens 311 Shotgun | 1d6 | 2 | bulky, blast. Fire both barrels for 1d10 damage. Must be close. |
 | Fire Axe, Baseball Bat | 1d8 | n/a | bulky |
 | Lee-Enfield Mk III | 1d8 | 4 | bulky. d12 when used as a sniper rifle from a controlled position. |
@@ -649,21 +649,21 @@ These are just some suggestions, and the Warden should determine the effects and
 
 ## Bestiary
 
-**Cultist**
+**Cultist**\
 5 HP, 8 STR, 10 DEX, 13 WIL, Dagger (d6)
 - Some could know spells.
 - Fanatics willing to give their life for their master.
 
-**Deep One Youngling**
+**Deep One Youngling**\
 3 HP, 1 Armor, 5 STR, 11 DEX, 4 WIL, bite (d6)
 - Usually appear in groups (treat as detachment).
 - Can shoot a poisonous stinger that deals d8 damage to DEX for one hour.
 
-**Mi-Go Warrior**
+**Mi-Go Warrior**\
 14 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8 + d8)
 - Can fly and call to summon additional Mi-Go.
 
-**Shoggoth**
+**Shoggoth**\
 25 HP, 18 STR, 5 DEX, 5 WIL, tentacles (d8, blast), detachment
 - Critical damage: grapples investigator, deals d4 damage per round until freed.
 
@@ -671,7 +671,7 @@ These are just some suggestions, and the Warden should determine the effects and
 
 Use the following template to model any more sophisticated Monster or NPC:
 
-**Name**
+**Name**\
 X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX)
 - Engaging descriptor of appearance or demeanor
 - Quirk, tactic, or peculiarity making this NPC unique
@@ -687,13 +687,13 @@ Use critical damage to lean into the threat or strangeness of any aggressive NPC
 
 Use the following template to model a tome:
 
-**Name**
+**Name**\
 Language, Mythos Rating
 - Appearance and condition
 - Summary of its content
 - Suggestion for spells
 
-**Book of Eibon**
+**Book of Eibon**\
 Old English, Mythos Rating 8
 - Ancient, falling apart, only few chapters legible.
 - Accounts of the wizard Eibon from Hyperborea.
@@ -702,7 +702,7 @@ Old English, Mythos Rating 8
 
 Use the following template to model a spell:
 
-**Name**
+**Name**\
 X MP, X WIL, dX Insight, (opposed), X Casting Time
 - Engaging descriptor of effects
 
