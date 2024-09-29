@@ -393,6 +393,42 @@ As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and 
 
 ## Example of Play
 
+Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, arrive at the Miskatonic Prehistorical Museum.
+
+Warden: The sun has already set by the time you arrive at the museum. I’m adding a die to the Tension Pool (now at 5 out of 6 dice). The doors are not locked, and inside you find a watchman keeping an eye on the entrance hall. Rolls 2d6 to determine the NPC’s reaction. An 8! He looks at you curiously and says: *“Excuse me, the museum is currently closed. Can I help you with anything?”*
+
+Arlene: *“Good evening, my name is Dr. Snow and I work for Miskatonic’s Indus Valley department. I’m here with my student assistant to check our catalog against the exhibits.”*
+
+Warden: As an antiquarian you certainly look the part. And the watchman is clearly out of his depth, but satisfied with your answer.
+
+Rosalie: Quick, let’s find the Eridu casket.
+
+Warden: You make an educated guess, Arlene, and head to the Sumeria section. Another watchman sits slumped over his desk, and you spot the casket in its showcase in the center of the dimly lit exhibition room.
+
+Rosalie: Does it look like the watchman is asleep?
+
+Warden: As you approach the watchman silently, you recognize a treacherous sweet smell – chloroform.
+
+Arlene: I pry the showcase open with my screwdriver. We should not waste any time.
+
+Warden: Let’s roll the Tension Pool, as the showcase is probably secured with an electronic alarm system. One die shows a 1, and the 2d6 for the consequence add up to 4. That’s pretty bad. A bell in the corner of the room starts to ring and you hear footsteps coming up the stairs.
+
+Arlene: I put the casket in my bag and run down the corridor.
+
+Warden: Alright, let’s have a little chase then. Roll DEX against the watchman. Both fail. You give it your all, but the watchman is catching up.
+
+Rosalie: Let’s hide in one of the rooms, wait for him to run past and then go back the other way.
+
+Warden: Sounds like a WIL save to me. Arlene fails, but Rosalie scores a critical success. The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. I’ll roll to see what the last obstacle will be. 11 – DEX – A fallen tree. Hmm, there are a few rows of these queue line dividers between you and the exit.
+
+Rosalie: As I have already 2 points from my crit, I will hold up the last divider for Arlene to help her escape.
+
+Warden: Alright, but if you don’t get at least 1 point in total this round, he will get you both. Arlene fails again, but Rosalie succeeds. Arlene is struggling to jump over the dividers in her skirt, but with your help you both make it out the front door while the watchman gets tangled up in the line dividers.
+
+Arlene: *“Thank you, Rosa! He almost got me.”* What’s in the casket?
+
+Warden: The amulet you were hoping to find appears to have been removed. Instead, you find what is undoubtedly another one of your husband’s fingers, ripped crudely off his hand. You gain 1d4 Insight, Rosalie you gain 1.
+
 [back to index](#index)
 <p></p>
 
@@ -418,7 +454,7 @@ Broken notches cannot be filled when gaining Insight. If you cross out an Insigh
 
 ### Hardened
 
-Every three Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss. You cannot have more Mythos knowledge than 10 times your number of Hardened notches.
+Every three Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss.
 
 ### Insight Save
 
@@ -442,7 +478,7 @@ You may try to roll 1d100 under your Mythos Knowledge (MK) to see if your charac
 
 ### Keeping a Journal
 
-Once per scenario, you may turn up to d12 Insight into MK if you write a journal entry and get a good night’s rest. Insight in Hardened notches cannot be turned into MK. Remaining Insight vanishes at the Warden’s discretion – probably at the end of a scenario.
+Once per scenario, you may turn up to 2d6 Insight into MK if you write a journal entry and get a good night’s rest. Insight in Hardened notches cannot be turned into MK. Remaining Insight vanishes at the Warden’s discretion – probably at the end of a scenario.
 
 ### Tomes
 
@@ -625,8 +661,8 @@ If you want to draw out the chase, do five rounds total and require PCs to score
 
 Similar to characters, vehicles have HP and Armor, but use a different set of ability scores: Engine represents the vehicle’s acceleration and top speed, Handling indicates how easy it is to navigate the vehicle around obstacles, and the Mayhem score shows how hard it is to force it off the road or how easily it can crash through obstacles. Crashing into a vehicle reduces its Mayhem score, but PCs may also go after Engine and Handling with targeted attacks. A vehicle is disabled when it takes Critical Damage, and is destroyed when its Mayhem score is reduced to 0.
 
-Ford Model T: 7 Engine, 8 Handling, 10 Mayhem, 5 HP, 3 Armor\
-Motorcycle: 14 Engine, 13 Handling, 5 Mayhem, 3 HP
+**Ford Model T:** 7 Engine, 8 Handling, 10 Mayhem, 5 HP, 3 Armor\
+**Motorcycle:** 14 Engine, 13 Handling, 5 Mayhem, 3 HP
 
 ### Stealth & Deception
 
