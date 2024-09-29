@@ -360,7 +360,7 @@ When a PC is in a favorable or in a particularly difficult situation and must ma
 
 ### Armor
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Protective Clothing which provides 1 point of armor, but occupies one inventory slot and is destroyed when the PC is critically wounded.
+Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Heavy Leather Clothing which provides 1 point of armor, but occupies two inventory slots and is destroyed when the PC is critically wounded.
 
 ### Healing
 
@@ -442,7 +442,7 @@ You may try to roll 1d100 under your Mythos Knowledge (MK) to see if your charac
 
 ### Keeping a Journal
 
-Once per day, you may turn up to 1d12 Insight into MK if you journal about your experiences or your studies and get a good night’s rest. Insight in Hardened notches cannot be turned into MK and vanishes at the Keeper’s discretion – probably at the end of a scenario.
+Once per scenario, you may turn up to d12 Insight into MK if you write a journal entry and get a good night’s rest. Insight in Hardened notches cannot be turned into MK. Remaining Insight vanishes at the Warden’s discretion – probably at the end of a scenario.
 
 ### Tomes
 
@@ -618,21 +618,31 @@ The obstacles that must be overcome should be what is in the path each fugitive 
 | 6 | Get over or through a fence. | 13 | Uneven ground (roots, stones). | 20 | Slippery ground (mud, ice, oil). |
 | 7 | Cross a stream. | 14 | Someone drops something on the ground. | | |
 
+#### Longer Chases
+If you want to draw out the chase, do five rounds total and require PCs to score at least two points in order to escape. In order to help others, a PC must have at least 3 points at the start of the fifth obstacle.
+
+#### Vehicles
+
+Similar to characters, vehicles have HP and Armor, but use a different set of ability scores: Engine represents the vehicle’s acceleration and top speed, Handling indicates how easy it is to navigate the vehicle around obstacles, and the Mayhem score shows how hard it is to force it off the road or how easily it can crash through obstacles. Crashing into a vehicle reduces its Mayhem score, but PCs may also go after Engine and Handling with targeted attacks. A vehicle is disabled when it takes Critical Damage, and is destroyed when its Mayhem score is reduced to 0.
+
+Ford Model T: 7 Engine, 8 Handling, 10 Mayhem, 5 HP, 3 Armor\
+Motorcycle: 14 Engine, 13 Handling, 5 Mayhem, 3 HP
+
 ### Stealth & Deception
 
 In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting *on their own*. Allow the players to *get in over their heads*, then put the screws on them.
 
-Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert? Here are a few tools and illustrative situations to help you run kick-ass infiltration, heists and escapes. 
+Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert? Here are a few tools and illustrative situations to help you run kick-ass infiltrations, heists and escapes. 
 
-Two concepts you should always have in mind are position (risk) and effect (see **Difficulty** on page 10): the player says what they want to do, the Warden decides whether there is a threat, and then the player describes how they want to deal with the threat. Next, the Warden communicates the **position** – which consequences could arise in case of failure – and the **effect** – how would it affect the fictional world. Position could be: 1. Controlled – simple task, you can wait, opponents suspect nothing; 2. Risky – daring task, your options are limited, opponents are on alert; 3. Desperate – daunting task, you must act immediately, nothing must go wrong, opponents are on to you.
+Two concepts you should always have in mind are position (risk) and effect (see **Difficulty** on page 10): the player says what they want to do, the Warden decides whether there is a threat, and then the player describes how they want to deal with the threat. Next, the Warden communicates the **position** – which consequences could arise in case of failure – and the **effect** – how a success would affect the fictional world. Position could be: 1. Controlled – simple task, you can wait, opponents suspect nothing; 2. Risky – daring task, your options are limited, opponents are on alert; 3. Desperate – daunting task, you must act immediately, nothing must go wrong, opponents are on to you.
 
 After the player had the opportunity to adapt their approach, you resolve the situation with a save, the Tension Pool or just within the fiction. Failure in a controlled position could lead to a risky position, imply mild consequences, but might allow the character to step back from the attempt and try something else. Failure in a risky position might lead to more serious consequences and to a desperate position, but does not necessarily mean that the character is detected outright. Failure in a desperate position implies dire consequences and means that the character is exposed in a bad spot.
 
 #### Illustrative Situations
 
-1. The investigators move through a forest as they notice a cultist patrol that is looking for them. They players decide to hide behind the trees and stay quiet. The position is controlled, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
-2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be a desperate position as the cultists would recognize strangers, and they would have to move past the cultists right in front of them, and the best case outcome is that after shortly passing the checkpoint a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool. The situation is resolved with a WIL save. (**Multi-stage plan**)
-3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the alien is right in front of you; or hide behind the door with a 40 % probability, but on a fail the alien is almost out of the other door before it notices you. (**Offer decisions**)
+1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The position is controlled, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
+2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be a desperate position as the cultists would recognize strangers. The best case outcome is that shortly after passing the checkpoint a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool and possibly dealing with other minor obstacles along the way. (**Multi-stage plan**)
+3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the creature is right in front of you; or hide behind the door with a 40 % probability, but on a fail the creature is almost out of the other door before it notices you. (**Offer decisions**)
 4. The investigator is cornered by a couple of corrupt cops who have their guns trained on him, and wants to pick up a pistol off the floor. The Warden decides that the position is desperate: failure would result in an enhanced attack from both cops before combat starts; success would mean that both cops get a regular attack in before combat starts. The player decides to add a detail to the scene by adding a die to the Tension Pool: a slight distraction from down the corridor allows the investigator to shoot before the cops if the DEX save is successful. (**Add details**)
 
 [back to index](#index)
@@ -650,7 +660,7 @@ These are just some suggestions, and the Warden should determine the effects and
 ## Bestiary
 
 **Cultist**\
-5 HP, 8 STR, 10 DEX, 13 WIL, Dagger (d6)
+4 HP, 8 STR, 10 DEX, 13 WIL, Dagger (d6)
 - Some could know spells.
 - Fanatics willing to give their life for their master.
 
