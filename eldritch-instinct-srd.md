@@ -91,10 +91,10 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Narrative Focus
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you; there is no obligation to use the combat rules or other procedures in every situation.
+- A dagger to your throat will kill you; you are not obligated to use the combat rules or other procedures in every situation.
 
 ### Questions
-- Make sure that there is room for interaction between characters and allow players to inject details into the fictional world.
+- Make sure to leave space for interaction between characters and allow players to inject details into the fictional world.
 - Ask a lot of questions like: what is going on in your head? How does that make you feel? How do you respond? What are you doing?
 - Employ Jason Cordova's [Paint The Scene](https://www.gauntlet-rpg.com/blog/paint-the-scene) technique: "if there is an idea, theme, or visual motif that is particularly important for an encounter or scene, ask the players what their characters observe in the scene that reinforces that idea, theme, or motif."
 
@@ -190,11 +190,11 @@ Every character understands their own native language and one other language. Ch
 
 #### Contacts
 
-Every PC knows one person they trust and who will help them with favors such as research, translation or transport. Give them a name, two languages and an occupation.
+Every PC knows one person they trust and who helps them with favors such as research, translation or transport. Give them a name, two languages and an occupation.
 
 #### Bonds
 
-Roll on the Bonds Table to determine the four most significant things that tie your PC to this world and mark one as their **Key Connection**. Use the results as a starting point and come up with something short and *specific*.
+Roll on the Bonds Table to determine the four most significant things that tie your PC to this world. Use the results as a starting point and come up with something short and *specific*.
 
 #### Motivation
 
@@ -350,7 +350,7 @@ Each of the three abilities are used in different circumstances.
 
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
 
-A 1 is always a **critical success**, and a 20 is always a **critical failure**.
+A 1 is always a **critical success**, and a 20 is always a **critical fail**.
 
 For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 20 to your result.
 
@@ -360,7 +360,7 @@ When a PC is in a favorable or in a particularly difficult situation and must ma
 
 ### Armor
 
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. PCs can buy Heavy Leather Clothing which provides 1 point of armor, but occupies two inventory slots and is destroyed when the PC is critically wounded.
+Before calculating damage to HP, subtract the target's Armor value from the result of damage rolls. PCs can buy Heavy Leather Clothing which provides 1 point of armor, but occupies two inventory slots and is destroyed when the PC is critically wounded.
 
 ### Healing
 
@@ -428,10 +428,10 @@ When you experience something mind-shatteringly dreadful, roll 1d12. If it hits 
 
 There are a number of possibilities to remove Broken notches.
 
-**Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. If you spend time with your key connection and roll a Critical Fail, lose your bond and gain a Broken notch.\
-**Sanatorium**: You may commit yourself to a sanatorium for one month. At the end of the month, make a WIL save. If you roll a Critical Fail, gain 3 Broken notches. Otherwise, remove a Broken notch.\
-**Cover traces**: Once per session, if you suppress knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch. Severe trauma might require more drastic measures.\
-**Conversation**: Once per day and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
+**Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
+**Sanatorium**: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. If you roll a critical fail, gain a Broken notch.\
+**Cover traces**: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.\
+**Conversation**: Once per scenario and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
 [back to index](#index)
 <p></p>
@@ -448,7 +448,7 @@ Once per scenario, you may turn up to d12 Insight into MK if you write a journal
 
 You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s **Mythos Rating**.
 
-Further **study** of the tome takes 2d6 days, after which you may increase your MK by the tome’s full Mythos rating. You may study each tome at most 4 times. Every time, though, you must gain a Broken notch.
+Further **study** of the tome takes 2d6 days, after which you may increase your MK by the tome’s Mythos rating. You may study each tome at most 4 times. Every time, though, you must gain a Broken notch.
 
 ### Spells
 
@@ -458,7 +458,7 @@ For the **First Evocation**, the PC must make an MK save. On a fail, they must e
 
 Casting a spell can cost MP, WIL, generate Insight or require an Insight save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
-Some spells require you to win an **opposed** WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
+Some spells require you to win an opposed WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
 
 ### Miscast Table
 
@@ -497,7 +497,7 @@ Most social encounters can be resolved by critical thinking. Sometimes, however,
 
 ### Research
 
-A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by adding a Tension Die to the Tension Pool. The Warden may award only partial information after a certain amount of time and allow the players to spend more time with their research. In any case, the Warden should let the players know whether they have learned everything or if there is something they are missing.
+A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by adding a Tension Die to the Tension Pool. The Warden may award only partial information after a certain amount of time and allow the players to spend more time researching. In any case, the Warden should let the players know whether they have learned everything from their source.
 
 ### Exploration
 
@@ -518,7 +518,7 @@ Finding clues should not present a challenge to players, and there are no mechan
 
 #### Rounds
 
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time.
+The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A round is roughly ten seconds of in-game time.
 
 #### Actions
 
@@ -528,7 +528,7 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 
 #### Round Order
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+The Warden telegraphs the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 #### Attacking & Damage
 
@@ -540,7 +540,7 @@ If multiple attackers target the same foe, roll all damage dice and keep the sin
 
 #### Attack Modifiers
 
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the damage die used  during the attack.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the damage die used during the attack.
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
@@ -550,13 +550,13 @@ If attacking with two weapons at the same time, roll both damage dice and keep t
 
 #### Blast
 
-Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
+Attacks with the blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 
 #### Critical Damage
 
-Damage that reduces a target’s HP below zero decreases a target’s STR by the amount remaining. They must then make a STR save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target’s HP below zero decreases a target’s STR by the amount remaining. They must then make a STR save to avoid critical damage. Additionally, some enemies have special abilities or effects that are triggered when their target fails a critical damage save.
 
-Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid and rest, they will probably stabilize: roll 1d100 on the Wounds Table.
+A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid and rest, they will probably stabilize: roll 1d100 on the Wounds Table.
 
 #### Ability Score Loss
 
@@ -570,7 +570,7 @@ When a character dies, the player is free to create a new character or take cont
 
 #### Detachments
 
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Large groups of similar combatants fighting together are treated as a single detachment. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
 Attacks against detachments by individuals are impaired (excluding blast damage). Attacks against individuals by detachments are enhanced and deal blast damage.
 
@@ -590,8 +590,8 @@ Running away from a dire situation always requires a successful DEX save, as wel
 | 50 |  | 5 | Back |
 | 60 | **Injured.** Effect to be determined by the Warden and the players. Lasts until you receive professional medical treatment. | 6 | Stomach |
 | 70 |  | 7 | Chest |
-| 80 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment which also takes 30 minutes. | 8 | Neck |
-| 90 |  | 9 | Head |
+| 80 |  | 8 | Neck |
+| 90 | **Dying.** Lose 1d4 STR every 30 minutes until you receive professional medical treatment. | 9 | Head |
 
 [back to index](#index)
 <p></p>
@@ -650,7 +650,7 @@ After the player had the opportunity to adapt their approach, you resolve the si
 
 ## Downtime
 
-In the background or between scenarios, players can do a number of things that are summarized at the table. They could read tomes, spend time with their bonds, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
+In the background or between scenarios, players can do a number of things that are summarized at the table. They could read tomes, spend time with their bonds or form new ones, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
 
 These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, but the Warden should adjust the time to their needs.
 
@@ -725,7 +725,7 @@ X MP, X WIL, dX Insight, (opposed), X Casting Time
 
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
 
-A 1 is always a **critical success**, and a 20 is always a **critical failure**.
+A 1 is always a critical success, and a 20 is always a critical fail.
 
 For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 20 to your result.
 
@@ -751,7 +751,7 @@ A PC **deprived** of a crucial need (such as food or rest) is unable to recover 
 
 ### Round Order
 
-The Warden will telegraph the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+The Warden telegraphs the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 ### Combat
 
