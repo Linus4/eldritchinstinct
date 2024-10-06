@@ -492,7 +492,7 @@ Some tomes might contain instructions for casting spells, which take 2d6 days to
 
 For the **First Evocation**, the PC must make an MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
-Casting a spell can cost MP, WIL, generate Insight or require an Insight save. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
+Casting a spell can cost MP, WIL, and generate Insight or Broken notches. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
 Some spells require you to win an opposed WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
 
@@ -749,7 +749,7 @@ Old English, Mythos Rating 8
 Use the following template to model a spell:
 
 **Name**\
-X MP, X WIL, dX Insight, (opposed), X Casting Time
+X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 - Engaging descriptor of effects
 
 [back to index](#index)
