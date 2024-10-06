@@ -763,7 +763,7 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 
 A 1 is always a critical success, and a 20 is always a critical fail.
 
-For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *lowest* result wins. Add any ability score above 20 to your result.
+For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *highest* result wins. Add any ability score above 20 to your result.
 
 ### Actions
 
