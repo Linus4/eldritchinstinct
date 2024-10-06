@@ -664,6 +664,8 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 **Ford Model T:** 7 Engine, 8 Handling, 10 Mayhem, 5 HP, 3 Armor\
 **Motorcycle:** 14 Engine, 13 Handling, 5 Mayhem, 3 HP
 
+*Note: Please use this procedure as a starting point and expand or simplify as you see fit. Just do regular saves instead of opposed saves to keep it simple. Or allow players to perform actions between chase rounds, apply penalties such as attribute loss upon (critically) failed saves, or go completely freeform.*
+
 ### Stealth & Deception
 
 In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting *on their own*. Allow the players to *get in over their heads*, then put the screws on them.
