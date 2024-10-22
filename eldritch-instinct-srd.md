@@ -436,7 +436,11 @@ Warden: The amulet you were hoping to find appears to have been removed. Instead
 
 ### Insight
 
-When you see something unnatural, you might gain Insight. When you do, fill in the corresponding number of notches beginning at the 1 position (1 o’clock). If you’ve gained 5 or more Insight in one go, make an **Insight Save**. If you cannot fill enough Insight notches, you **freak out** and might suffer from **delusions**.
+You gain Insight from seeing the Unnatural. When you do, fill in the corresponding number of notches beginning at the 1 position (1 o’clock). If you gain 5 or more Insight in one go or if you cannot fill enough Insight notches, make an **Insight Save**.
+
+### Insight Save
+
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a **Hardened** notch, you keep it together. If it hits a filled in notch or a **Broken** notch, you freak out.
 
 ### Freak out
 
@@ -446,7 +450,7 @@ When you’ve had a chance to calm down, make a WIL save. On a success, draw a p
 
 ### Delusions
 
-While you are suffering from delusions, you might perceive a twisted version of reality. You may attempt to see through the delusions with a WIL save. On a success, the delusions stop. On a fail, the delusions stay and you gain a Broken notch. It is at the Warden’s discretion to decide when you no longer suffer from delusions.
+If you’ve gained a Broken notch within the last 24 hours, you might perceive a twisted version of reality. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, the delusions persist and you gain a Broken notch.
 
 ### Broken
 
@@ -455,10 +459,6 @@ Broken notches cannot be filled when gaining Insight. If you cross out an Insigh
 ### Hardened
 
 Every three Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss.
-
-### Insight Save
-
-When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a Hardened notch, you keep it together. If it hits a filled in notch or a Broken notch, you freak out.
 
 ### Getting Better
 
