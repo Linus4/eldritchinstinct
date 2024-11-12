@@ -304,7 +304,7 @@ The PC with the lowest ability score total also starts with a source of light.
 | Frag Grenade | 1d10 | 1 | blast |
 | Molotov Cocktail | 1d4 | 1 | blast, lasts 3 rounds |
 | Dynamite Stick | 1d6 | 1 | blast, explodes at least one round after being lit |
-| Flamethrower | 1d6 | 4 | bulky, blast |
+| Flamethrower | 1d8 | 4 | bulky, blast |
 
 ### Bonds Table
 
@@ -327,7 +327,7 @@ First, write a sentence about your character on the back page and pass your char
 
 #### Age
 
-Decide how old your character is or roll 2d20+15 or roll two d8, one representing the tens digit, the other the single digit and add 6.
+Decide how old your character is or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
 
 #### Organization
 
@@ -436,7 +436,7 @@ Warden: The amulet you were hoping to find appears to have been removed. Instead
 
 ### Insight
 
-You gain Insight from seeing the Unnatural. When you do, fill in the corresponding number of notches beginning at the 1 position (1 o’clock). If you gain 5 or more Insight in one go or if you cannot fill enough Insight notches, make an **Insight Save**.
+You gain Insight from seeing the Unnatural. When you do, make a WIL save to determine whether you gain the full amount of Insight, or a reduced amount in case of success. Fill in the corresponding number of notches beginning at the 1 position (1 o’clock). If you gain 5 or more Insight in one go or if you cannot fill enough Insight notches, make an **Insight Save**.
 
 ### Insight Save
 
@@ -474,11 +474,13 @@ There are a number of possibilities to remove Broken notches.
 
 ## Mythos Knowledge
 
-You may try to roll 1d100 under your Mythos Knowledge (MK) to see if your character knows anything about a creature, artifact, organization or something else Mythos-related.
+The player with the most Mythos Knowledge (MK) may try to roll 1d100 under or equal to their MK score to see whether their character knows anything about a creature, artifact, organization or something else Mythos-related.
+
+You may spend 5 MK to re-roll one of your saves or damage rolls.
 
 ### Keeping a Journal
 
-Once per scenario, you may turn up to 2d6 Insight into MK if you write a journal entry and get a good night’s rest. Insight in Hardened notches cannot be turned into MK. Remaining Insight vanishes at the Warden’s discretion – probably at the end of a scenario.
+Once per scenario, you may turn up to 2d6 Insight into MK if you write a journal entry and get a good night’s rest. Remaining Insight is removed at the Warden’s discretion – probably at the end of a scenario.
 
 ### Tomes
 
@@ -490,7 +492,7 @@ Further **study** of the tome takes 2d6 days, after which you may increase your 
 
 Some tomes might contain instructions for casting spells, which take 2d6 days to learn. 
 
-For the **First Evocation**, the PC must make an MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
+For the **First Evocation**, the PC must make a MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
 Casting a spell can cost MP, WIL, and generate Insight or Broken notches. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
