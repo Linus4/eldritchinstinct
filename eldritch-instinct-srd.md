@@ -440,9 +440,9 @@ You gain Insight from seeing the Unnatural. When you do, make a WIL save to dete
 
 ### Insight Save
 
-When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a **Hardened** notch, you keep it together. If it hits a filled in notch or a **Broken** notch, you freak out.
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a **Hardened** notch, you keep it together. If it hits a filled in notch or a **Broken** notch, you panic.
 
-### Freak out
+### Panic
 
 You or the Warden come up with a reaction for your character based on the current situation, their bonds and their experiences. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
 
@@ -469,7 +469,7 @@ There are a number of possibilities to remove Broken notches.
 **Cover traces**: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.\
 **Conversation**: Once per scenario and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
-### Freak out Inspiration Table (d12)
+### Panic Inspiration Table (d12)
 
 
 |||||||||
@@ -816,9 +816,9 @@ Damage that reduces a target’s HP below 0 decreases their STR by the remainder
 
 ### Insight Save
 
-When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a Hardened notch, you keep it together. If it hits a filled in notch or a Broken notch, you freak out.
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight notch or a Hardened notch, you keep it together. If it hits a filled in notch or a Broken notch, you panic.
 
-### Freak out
+### Panic
 
 You or the Warden come up with a reaction for your character. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
 When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight notch starting at the 1 position going clockwise as you are **Hardened**. On a fail, cross out an Insight notch starting at the 12 position going counter-clockwise as you are **Broken** and write down a one word reminder.
