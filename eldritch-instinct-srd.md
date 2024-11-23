@@ -4,7 +4,7 @@ title: SRD
 nav_order: 3
 ---
 
-# Eldritch Instinct System Reference Document (v0.5)
+# Eldritch Instinct System Reference Document (v0.6)
 {: .no_toc }
 
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
@@ -382,7 +382,7 @@ Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice)
 
 When an investigator does something that takes **time**, like observing patrolling patterns, traveling to another location or picking a lock, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task.
 
-If a player does something **reckless**, like breaking open a door, sneaking close to opponents or as a consequence of a botched save, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence.  A consequence can be completely unrelated to the current task and does not necessarily mean that the PC fails at their task.
+If a player does something **reckless**, like breaking open a door, sneaking close to opponents or as a consequence of a botched save, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence.  A consequence can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task.
 
 If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Die and then roll all dice in the Tension Pool.
 
@@ -484,13 +484,13 @@ Once per scenario, you may turn up to 2d6 Insight into MK if you write a journal
 
 ### Tomes
 
-You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes 2d6 hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s **Mythos Rating**.
+You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in *foreign languages* and often provide only a partial or inaccurate understanding of the Mythos. An **initial reading** takes a few (2d6) hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s **Mythos Rating**.
 
-Further **study** of the tome takes 2d6 days, after which you may increase your MK by the tome’s Mythos rating. You may study each tome at most 4 times. Every time, though, you must gain a Broken notch.
+Further **study** of the tome takes a few (2d6) days, after which you may increase your MK by the tome’s Mythos rating. You may study each tome at most 4 times. Every time, though, you must gain a Broken notch.
 
 ### Spells
 
-Some tomes might contain instructions for casting spells, which take 2d6 days to learn. 
+Some tomes might contain instructions for casting spells, which take hours or even days to learn. 
 
 For the **First Evocation**, the PC must make a MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
 
@@ -542,7 +542,7 @@ A PC can do research by talking to strangers in bars, studying books in a librar
 Consider three [kinds of information](https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html) (by Anne on diyanddragons.blogspot.com):
 
 **Landmark** information is everything that is immediately visible when you enter a room. The Warden gives this kind of information to the players for *free*.\
-**Hidden** information can only be learned if players specifically ask for it and directly interact with the fiction. It often comes at a cost: first, you probably have to spend some *time* to examine the object. Looking in the right place yields immediate results, but a general search of a room takes 1 turn (10 minutes). Second, you expose your PC to *risk* as you have to be close enough to touch the object you want to investigate.\
+**Hidden** information can only be learned if players specifically ask for it and directly interact with the fiction. It often comes at a cost: first, you probably have to spend some *time* to examine the object. Looking in the right place yields immediate results, but a general search of a room takes about 15 minutes. Second, you expose your PC to *risk* as you have to be close enough to touch the object you want to investigate.\
 **Secret** information always comes at a cost and there is a *chance for failure*. In general, information should almost *never* be secret. If players interact with the fictional world, they will get answers.
 
 Finding clues should not present a challenge to players, and there are no mechanics for exploration in Eldritch Instinct. Rather, it is a conversation between the players and the Warden: when describing a location, the Warden begins by setting the mood and presenting landmark information, which often functions as threads, that the players can pull for more information. The players may then ask questions and describe their PC’s actions in order to uncover hidden information. The Warden answers truthfully, but should make sure that characters receive information that is appropriate to their occupation. The Warden should encourage the players to state what they want to know and what their characters do to figure it out.
