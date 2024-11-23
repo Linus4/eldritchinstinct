@@ -469,6 +469,15 @@ There are a number of possibilities to remove Broken notches.
 **Cover traces**: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.\
 **Conversation**: Once per scenario and within the same day of a traumatic event, one PC may address the group and appeal to a personality factor of their choice. All other PCs, who have same value in that factor as the speaker, may remove a Broken notch they got this day. Give the talk first, then reveal the factor and value.
 
+### Freak out Inspiration Table (d12)
+
+
+|||||||||
+|---|---|---|---|---|---|---|---|
+| 1 | Frenzy | 2 | Possessed | 3 | Hubris | 4 | Obsessed |
+| 5 | Run | 6 | Hysteria | 7 | Paranoid | 8 | Ignorance |
+| 9 | Freeze | 10 | Hide | 11 | Faint | 12 | Surrender |
+
 [back to index](#index)
 <p></p>
 
