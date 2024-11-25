@@ -333,6 +333,14 @@ Decide how old your character is or roll a d4 representing the tens digit, a d10
 
 When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members, should be sworn to secrecy and strive to study and suppress the Mythos.
 
+### Motivation Inspiration Table (d12)
+
+|||||||||
+|---|---|---|---|---|---|---|---|
+| 1 | Curiosity | 4 | Hubris | 7 | Responsibility | 10 | Power |
+| 2 | Duty | 5 | Redemption | 8 | Salvation | 11 | Obligation |
+| 3 | Fate | 6 | Destiny | 9 | Zealotry | 12 | Restlessness |
+
 [back to index](#index)
 <p></p>
 
@@ -474,9 +482,9 @@ There are a number of possibilities to remove Broken notches.
 
 |||||||||
 |---|---|---|---|---|---|---|---|
-| 1 | Frenzy | 2 | Possessed | 3 | Hubris | 4 | Obsessed |
-| 5 | Run | 6 | Hysteria | 7 | Paranoid | 8 | Ignorance |
-| 9 | Freeze | 10 | Hide | 11 | Faint | 12 | Surrender |
+| 1 | Frenzy | 4 | Possessed | 7 | Hubris | 10 | Obsessed |
+| 2 | Run | 5 | Hysteria | 8 | Paranoid | 11 | Ignorance |
+| 3 | Freeze | 6 | Hide | 9 | Faint | 12 | Surrender |
 
 [back to index](#index)
 <p></p>
