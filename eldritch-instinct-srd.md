@@ -513,8 +513,6 @@ For the **First Evocation**, the PC must make a MK save. On a fail, they must ei
 
 Casting a spell can cost MP, WIL, and generate Insight or Broken notches. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
-Some spells require you to win an opposed WIL save against your target. If you successfully cast a spell that was opposed by someone’s WIL, increase your WIL by 1 if you fail a second WIL save.
-
 ### Miscast Table
 
 | d8 | Lesser spells | Greater spells |
