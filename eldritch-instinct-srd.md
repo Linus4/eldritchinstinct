@@ -91,7 +91,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Narrative Focus
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you; you are not obligated to use the combat rules or other procedures in every situation.
+- What a PC can do, how long they need to do it and what risks they have to take depends largely on their occupation. Let every PC be useful in their own way.
 
 ### Questions
 - Make sure to leave space for interaction between characters and allow players to inject details into the fictional world.
@@ -125,6 +125,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Talking
 - Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
 - When you want something from an NPC, consider what you are asking for, what the NPC wants, whether they respect you and whether you have something that forces their hand.
+- NPCs don’t always tell the whole truth. Your Warden should give hints, but who you do and don’t trust is ultimately your decision.
 
 ### Atmosphere
 - Engage with the fictional world and include details provided by the Warden in your own descriptions and questions.
@@ -148,6 +149,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Attributes and related saves do not define your character. They are tools.
 - Don't ask only what your character would do, ask what you would do, too.
 - Be creative with your intuition, items, and connections.
+- Always try to riff off of your character’s occupation in the way you approach situations and describe your actions.
 
 ### Teamwork
 - Seek consensus from the other players before barreling forward.
@@ -160,7 +162,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 #### Name, Background & Traits
 
-First, choose or roll a **name** for your character, then their **occupation** and **speciality**, which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power.
+First, choose or roll a **name** for your character, then their **occupation**, which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power. To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation.
 
 Next, roll for your character's **personality** (five factors) and think of one detail about your PC's face and clothes, each.
 
@@ -198,7 +200,7 @@ Roll on the Bonds Table to determine the four most significant things that tie y
 
 #### Motivation
 
-Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. During play, conceive and adapt the reason why your character would push on despite all of this.
+Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. During play, conceive and adapt the reason why your character would push on despite all of this. See **Motivation Inspiration Table** on p.8.
 
 #### Inventory
 
@@ -215,7 +217,7 @@ If you have a gun, divide the circle labeled **Magazine** into a number of secti
 All PCs begin with:
 
 - Two items from the **Gear Table**.
-- One item from the **Bonus Items Table (optional)**.
+- One item from the **Bonus Items Table** if appropriate.
 
 The PC with the lowest ability score total also starts with a source of light.
 
@@ -321,9 +323,9 @@ The PC with the lowest ability score total also starts with a source of light.
 
 ### Optional Rules for Character Creation
 
-#### Backstories
+#### Backstories and Relationships
 
-First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours. Repeat this process one more time.
+First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third person so that they can expand on the first relationship.
 
 #### Age
 
@@ -364,7 +366,7 @@ For an **opposed** save, both the PC and their opponent make a save. Whoever rol
 
 ### Difficulty
 
-When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Instead, limit or increase the risks and possible effects of the PC’s action purely in the fictional world.
+When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Instead, limit or increase the risks and possible effects purely in the fictional world.
 
 ### Armor
 
@@ -384,17 +386,17 @@ Occasionally you will want an element of randomness (e.g. the weather, looking f
 
 ### Tension Pool
 
-This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension-pool/).
+This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension-pool/) and is intended to be used during the investigation, while saves are used more for action and open confrontation.
 
 Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
 
 When an investigator does something that takes **time**, like observing patrolling patterns, traveling to another location or picking a lock, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task.
 
-If a player does something **reckless**, like breaking open a door, sneaking close to opponents or as a consequence of a botched save, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden rolls 2d6 to determine a consequence. The lower the result, the worse the consequence.  A consequence can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task.
+If a player does something **reckless**, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. A complication can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task. Examples: encounter, change in the environment, evil agenda advances, sign or glimpse of the horror.
 
 If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. Some tasks even require the player to both add a Tension Die and then roll all dice in the Tension Pool.
 
-As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a consequence if necessary. Then remove all dice from the Tension Pool.
+As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a complication if necessary. Then remove all dice from the Tension Pool.
 
 [back to index](#index)
 <p></p>
@@ -458,7 +460,7 @@ When you’ve had a chance to calm down, make a WIL save. On a success, draw a p
 
 ### Delusions
 
-If you’ve gained a Broken notch within the last 24 hours, you might perceive a twisted version of reality. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, the delusions persist and you gain a Broken notch.
+If you’ve gained a Broken notch within the last 24 hours, you might perceive a twisted version of reality. You may attempt to see through what you believe to be delusions with a Mythos Knowledge save. On a success, the delusions stop. On a fail, the delusions persist and you gain a Broken notch.
 
 ### Broken
 
@@ -491,9 +493,11 @@ There are a number of possibilities to remove Broken notches.
 
 ## Mythos Knowledge
 
-The player with the most Mythos Knowledge (MK) may try to roll 1d100 under or equal to their MK score to see whether their character knows anything about a creature, artifact, organization or something else Mythos-related.
+You may spend 5 Mythos Knowledge (MK) to re-roll one of your saves or damage rolls.
 
-You may spend 5 MK to re-roll one of your saves or damage rolls.
+### Mythos Knowledge Save
+
+Roll 1d100 under or equal to your MK score plus your current Insight score.
 
 ### Keeping a Journal
 
@@ -509,7 +513,7 @@ Further **study** of the tome takes a few (2d6) days, after which you may increa
 
 Some tomes might contain instructions for casting spells, which take hours or even days to learn. 
 
-For the **First Evocation**, the PC must make a MK save. On a fail, they must either start over and learn the spell from scratch, or they may try again. However, if they fail the second save without starting over, all spell costs are multiplied by 1d6 and the Warden rolls on the miscast table.
+For the **First Evocation**, the PC must make a MK save. On a fail, they must either start over and learn the spell from scratch, or they may roll again. However, if they fail the second save without starting over, the spell is cast, but all spell costs are multiplied by 1d4 and the Warden rolls on the miscast table.
 
 Casting a spell can cost MP, WIL, and generate Insight or Broken notches. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead. You regenerate 1 MP per hour.
 
@@ -705,9 +709,13 @@ After the player had the opportunity to adapt their approach, you resolve the si
 
 ## Downtime
 
-In the background or between scenarios, players can do a number of things that are summarized at the table. They could read tomes, spend time with their bonds or form new ones, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
+In the background or between scenarios, players can do a number of things that are summarized at the table. They can read tomes to increase their Mythos Knowledge or learn spells, spend time with their bonds or form new ones to remove Broken notches, improve an aspect of their character, craft something, research a topic, travel somewhere, make new acquaintances, or earn money.
 
-These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, but the Warden should adjust the time to their needs.
+This can translate into gaining HP or ability score, upgrading inventory space or damage with a particular weapon, but also learning cool skills, gaining the ability to handle specific situations with ease or promoting a contact so that they can be more helpful.
+
+These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, or simply allow two downtime actions between scenarios.
+
+It is always a good idea to build on events of the previous scenario or on notable successes and failures of the characters.
 
 [back to index](#index)
 <p></p>
