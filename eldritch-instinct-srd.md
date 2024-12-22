@@ -325,7 +325,7 @@ The PC with the lowest ability score total also starts with a source of light.
 
 #### Backstories and Relationships
 
-First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third person so that they can expand on the first relationship.
+First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third player so that they can expand on the first relationship.
 
 #### Age
 
