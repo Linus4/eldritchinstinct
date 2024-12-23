@@ -10,7 +10,9 @@ nav_order: 3
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
-Eldritch Instinct was designed to run scenarios and campaigns using streamlined rules while following the axioms of the old school style as described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha. It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Critical Wounds), Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing (Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper (Position and Effect) and Rats in the Walls by Kobayashi (Research).
+Eldritch Instinct was designed to run purist or low- to medium-pulp scenarios and campaigns while following the axioms described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha.
+
+It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Critical Wounds), Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing (Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper (Position and Effect) and Rats in the Walls by Kobayashi (Research).
 
 The names and gear tables in the character creation section are based on the United States of America roughly in the middle of the 20th century. Other than that, this system is not tied to any particular place or period.
 
@@ -320,8 +322,6 @@ The PC with the lowest ability score total also starts with a source of light.
 
 [back to index](#index)
 <p></p>
-
-### Optional Rules for Character Creation
 
 #### Backstories and Relationships
 
