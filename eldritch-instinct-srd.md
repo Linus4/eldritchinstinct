@@ -178,7 +178,7 @@ When creating a PC, the player should roll 3d6 for each of their character’s a
 
 Roll 1d6+2 to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
 
-HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing on page 10).
+HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing on page 9).
 
 #### Magic Points
 
