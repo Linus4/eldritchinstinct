@@ -460,7 +460,7 @@ When you’ve had a chance to calm down, make a WIL save. On a success, draw a p
 
 ### Delusions
 
-If you’ve gained a Broken notch within the last 24 hours, you might perceive a twisted version of reality. You may attempt to see through what you believe to be delusions with a Mythos Knowledge save. On a success, the delusions stop. On a fail, the delusions persist and you gain a Broken notch.
+If you’ve gained a Broken notch within the last 24 hours, you might perceive a twisted version of reality. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, the delusions persist and you gain a Broken notch.
 
 ### Broken
 
