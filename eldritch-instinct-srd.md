@@ -10,7 +10,7 @@ nav_order: 3
 **Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities. And they will change - through encounters with the unnatural forces of the Mythos and the limits of their own Humanity.
 
-Eldritch Instinct was designed to run purist or low- to medium-pulp scenarios and campaigns while following the axioms described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha.
+Eldritch Instinct was designed to run low-pulp scenarios and campaigns while following the axioms described by Ben Milton, Steven Lumpkin and David Perry in the Principia Apocrypha.
 
 It is inspired by and combines mechanics from games like Mothership by Tuesday Knight Games (Critical Wounds), Cthulhu Dark by Graham Walmsley, Nemesis by Arc Dream Publishing (Notches), Cairn by Yochai Gal, Call of Cthulhu by Chaosium Inc. (Magic, Bonds), Into the Odd by Chris McDowall, Blades in the Dark by John Harper (Position and Effect) and Rats in the Walls by Kobayashi (Research).
 
@@ -37,7 +37,7 @@ Written by Linus Weber. Images from [oldbookillustrations.com](https://www.oldbo
 **Eldritch Instinct** was written with the following design philosophies in mind:
 
 ### External Interaction
-Players interact with the fictional world directly through questions and descriptions, instead of mechanics. Questions are gameplay.
+Players interact with the fictional world directly through questions and descriptions instead of mechanics. Questions are gameplay.
 
 ### Roll-Play
 Mechanics should create tense situations and force players to make tough choices. They are not a simulation.
@@ -390,7 +390,7 @@ This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension
 
 Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
 
-When an investigator does something that takes **time**, like observing patrolling patterns, traveling to another location or picking a lock, they add a Tension Die to the Tension Pool. Likewise, they add a Tension Die if they add a **detail** to the fictional world that helps them accomplish their current task.
+When an investigator does something that takes time, like observing patrolling patterns, traveling to another location, searching for something or picking a lock, they add a Tension Die to the Tension Pool.
 
 If a player does something **reckless**, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. A complication can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task. Examples: encounter, change in the environment, evil agenda advances, sign or glimpse of the horror.
 
@@ -485,7 +485,7 @@ There are a number of possibilities to remove Broken notches.
 |||||||||
 |---|---|---|---|---|---|---|---|
 | 1 | Frenzy | 4 | Possessed | 7 | Hubris | 10 | Obsessed |
-| 2 | Run | 5 | Hysteria | 8 | Paranoid | 11 | Ignorance |
+| 2 | Run | 5 | Hysteria | 8 | Paranoid | 11 | Bad Idea |
 | 3 | Freeze | 6 | Hide | 9 | Faint | 12 | Surrender |
 
 [back to index](#index)
@@ -689,20 +689,24 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 
 ### Stealth & Deception
 
-In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting *on their own*. Allow the players to *get in over their heads*, then put the screws on them.
+In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting on their own. Allow the players to get in over their heads, then put the screws on them.
 
-Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert? Here are a few tools and illustrative situations to help you run thrilling infiltrations, heists and escapes. 
+Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert? Here are a few tools and illustrative situations to help you run thrilling infiltrations, heists and escapes.
 
-Two concepts you should always have in mind are position (risk) and effect (see **Difficulty** on page 9): the player says what they want to do, the Warden decides whether there is a threat, and then the player describes how they want to deal with the threat. Next, the Warden communicates the **position** – which consequences could arise in case of failure – and the **effect** – how a success would affect the fictional world. Position could be: 1. Controlled – simple task, you can wait, opponents suspect nothing; 2. Risky – daring task, your options are limited, opponents are on alert; 3. Desperate – daunting task, you must act immediately, nothing must go wrong, opponents are on to you.
+Simple situations can usually be resolved with the Tension Pool, with a save or just within the fiction. For more complex situations, on the other hand, you should zoom in and draw out the decision whether a PC is detected or remains hidden. 
 
-After the player had the opportunity to adapt their approach, you resolve the situation with a save, the Tension Pool or just within the fiction. Failure in a controlled position could lead to a risky position, imply mild consequences, but might allow the character to step back from the attempt and try something else. Failure in a risky position might lead to more serious consequences and to a desperate position, but does not necessarily mean that the character is detected outright. Failure in a desperate position implies dire consequences and means that the character is exposed in a bad spot.
+Two concepts you should always have in mind when adjudicating actions in hazardous situations are risk and effect (see **Difficulty** on page 9). When the PC has everything under control and the stakes are low, they may be able to back out of their attempt on a fail or deal with a minor complication in order to remain undetected.
+
+Usually though, a PC should already be much more committed and face greater risks when you ask for a roll as they must deal with an unexpected obstacle. Failure in such a situation does not necessarily mean that the PC is detected outright, but they might find themselves in a seriously desperate position.
+
+Again: allow the players to get in over their heads, then put the screws on them. How long are the investigators able to remain hidden before a fight breaks out or they have to run away? Players should feel vulnerable, it should be a pressure cooker, but they should also expect to be able to get reasonably far with a stealthy or deceptive approach.
 
 #### Illustrative Situations
 
-1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The position is controlled, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
-2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be a desperate position as the cultists would recognize strangers. The best case outcome is that shortly after passing the checkpoint a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool and possibly dealing with other minor obstacles along the way. (**Multi-stage plan**)
+1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
+2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. The best case outcome is that shortly after passing the checkpoint, a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool and possibly dealing with other minor obstacles along the way. (**Multi-stage plan**)
 3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the creature is right in front of you; or hide behind the door with a 40 % probability, but on a fail the creature is almost out of the other door before it notices you. (**Offer decisions**)
-4. The investigator is cornered by a couple of corrupt cops who have their guns trained on him, and wants to pick up a pistol off the floor. The Warden decides that the position is desperate: failure would result in an enhanced attack from both cops before combat starts; success would mean that both cops get a regular attack in before combat starts. The player decides to add a detail to the scene by adding a die to the Tension Pool: a slight distraction from down the corridor allows the investigator to shoot before the cops if the DEX save is successful. (**Add details**)
+4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in and peek through the windows. Rolling the dice in the Tension Pool, they get a 1 and as a complication, an approaching patrol forces them deeper into the compound on their own. (**Raise the stakes**)
 
 [back to index](#index)
 <p></p>
