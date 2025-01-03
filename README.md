@@ -9,10 +9,9 @@ In **Eldritch Instinct**, players act as curious investigators of the strange
 and unexplained. They will run from delusional cultists, hide from stalking
 shadows and face terrifying monstrosities. And they will change - through
 encounters with the unnatural forces of the Mythos and the limits of their own
-Humanity. The game was designed to run scenarios and campaigns using
-streamlined rules while following the axioms of the old school style as
-described by Ben Milton, Steven Lumpkin and David Perry in the Principia
-Apocrypha. Written by Linus Weber.
+Humanity. The game was designed to run low-pulp scenarios and campaigns
+while following the axioms described by Ben Milton, Steven Lumpkin and David Perry 
+in the Principia Apocrypha. Written by Linus Weber.
 
 Download the PDF with images and practical layout from
 [here](https://drive.google.com/file/d/1LwJnYOLhiDtaLIK4KTcaRg-FhSVIx8Dj/view?usp=sharing).
