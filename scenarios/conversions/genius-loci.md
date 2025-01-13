@@ -6,7 +6,7 @@ title: Genius Loci
 ---
 
 # Genius Loci
-- Converted from the original work by [Brian Courtemanche](https://www.chaosium.com/doors-to-darkness-hardcover/)
+- Converted from the original work by [Brian Courtemanche (Chaosium)](https://www.chaosium.com/doors-to-darkness-hardcover/)
 - Conversion done by [Linus Weber](https://linuz.itch.io)
 
 #### Lawrence Croswell

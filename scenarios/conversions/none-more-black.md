@@ -6,7 +6,7 @@ title: None More Black
 ---
 
 # None More Black
-- Converted from the original work by [Brian M. Sammons](https://www.chaosium.com/doors-to-darkness-hardcover/)
+- Converted from the original work by [Brian M. Sammons (Chaosium)](https://www.chaosium.com/doors-to-darkness-hardcover/)
 - Conversion done by [Linus Weber](https://linuz.itch.io)
 
 #### Call the Black

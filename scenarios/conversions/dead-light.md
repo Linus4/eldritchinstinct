@@ -6,7 +6,7 @@ title: Dead Light
 ---
 
 # Dead Light
-- Converted from the original work by [Alan Bligh, Matthew Sanderson, and friends](https://www.chaosium.com/dead-light-and-other-dark-turns/)
+- Converted from the original work by [Alan Bligh, Matthew Sanderson, and friends (Chaosium)](https://www.chaosium.com/dead-light-and-other-dark-turns/)
 - Conversion done by [Linus Weber](https://linuz.itch.io)
 
 #### Dead Light
