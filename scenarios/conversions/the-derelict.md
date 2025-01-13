@@ -25,16 +25,16 @@ d6 and d4 each following round until extinguished, ignores armor
 4 HP, 9 STR, 13 DEX, 11 WIL, knife (d6), pistol (d6)
 
 #### Charles "Mac" McQuinlan
-5 HP, 10 STR, 13 DEX, 15 WIL, knife (d6), pistol (d6)
+6 HP, 10 STR, 13 DEX, 15 WIL, knife (d6), pistol (d6)
 
 #### Daniel von Hollsander
-4 HP, 11 STR, 13 DEX, 6 WIL, knife (d6), pistol (d6)
+3 HP, 11 STR, 13 DEX, 6 WIL, knife (d6), pistol (d6)
 
 #### Dennis McCrane
-4 HP, 10 STR, 8 DEX, 9 WIL, cricket bat (d6), pistol (d6)
+6 HP, 10 STR, 8 DEX, 9 WIL, cricket bat (d6), pistol (d6)
 
 #### Elizabeth "Liz" Hill
-4 HP, 11 STR, 16 DEX, 12 WIL, knife (d6)
+8 HP, 11 STR, 16 DEX, 12 WIL, knife (d6)
 
 #### Matthew "Dodge" Grantham
-4 HP, 17 STR, 11 DEX, 16 WIL, knife (d6)
+5 HP, 17 STR, 11 DEX, 16 WIL, knife (d6)
