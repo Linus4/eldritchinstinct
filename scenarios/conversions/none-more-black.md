@@ -26,17 +26,14 @@ English, Mythos Rating 2
 
 #### Jacob Dover
 4 HP, 12 STR, 13 DEX, 17 WIL, revolver (d6)
-- Spells: Call the Black, Summon Nightgaunt, Contact Yibb-Tstll
 
 #### Nightgaunt Minion
 4 HP, 1 Armor, 10 STR, 14 DEX, 10 WIL, claws (d4)
 - Seize: two Nightgaunts grapple a victim, STR save to avoid.
 - Tickle: immobilize seized victim for 1d4 rounds.
 - Critical Damage: Nightgaunt picks up victim and flies away.
-- 0/1d6 Insight on sight.
 
 #### Raw Head and Black Bones
 10 HP, 19 STR, 7 DEX, 14 WIL, malformed appendages (d10 blast)
 - Immune to all forms of damage.
 - Running water does d12 damage per round.
-- 1/1d10 Insight on sight.
