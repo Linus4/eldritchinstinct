@@ -28,4 +28,3 @@ title: Genius Loci
 13 HP, 3 Armor in reptilian form, 40 STR, 10 DEX, 14 WIL, detachment, claws (d6) or (d20) in reptilian form
 - Vortex Attack: d100 damage in 10 m diameter.
 - Immune to damage in spectral form.
-- 0/1d8 Insight on sight.
