@@ -164,9 +164,9 @@ Players trust one another to engage with the shared setting, character goals, an
 
 #### Name, Background & Traits
 
-First, choose or roll a **name** for your character, then their **occupation**, which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power. To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation.
+First, choose or roll a **name** for your character, then their **occupation** (see tables on p. 7), which informs their knowledge and potential skills. Note however, that PCs do not hold positions of power. To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation.
 
-Next, roll for your character's **personality** (five factors) and think of one detail about your PC's face and clothes, each.
+Next, roll a d4 for each of your character’s **personality** factors and think of one detail about your PC’s face and clothes.
 
 #### Ability Scores
 
@@ -177,8 +177,6 @@ When creating a PC, the player should roll 3d6 for each of their character’s a
 #### Hit Protection
 
 Roll 1d6+2 to determine your PC’s starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
-
-HP does not indicate a character’s health or fortitude; nor do they lose it for very long (see Healing on page 9).
 
 #### Magic Points
 
@@ -196,19 +194,19 @@ Every character understands their own native language and one other language. Ch
 
 Every PC knows one person they trust and who helps them with favors such as research, translation or transport. Give them a name, two languages and an occupation.
 
+#### Age
+
+Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
+
 #### Bonds
 
-Roll on the Bonds Table to determine the four most significant things that tie your PC to this world. Use the results as a starting point and come up with something short and *specific*.
-
-#### Motivation
-
-Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. During play, conceive and adapt the reason why your character would push on despite all of this. See **Motivation Inspiration Table** on p.8.
+Roll on the **Bonds Table** (p. 8) to determine the four most significant things that tie your PC to this world. Use the results as a starting point and come up with something short and *specific*.
 
 #### Inventory
 
-Characters have a total of 9 inventory slots. Most items such as a magazine or a flashlight take up one slot, and small items can be bundled together.
+Characters have a total of 9 inventory slots. Most items such as a magazine or a flashlight take up one slot, and small items can be bundled together. **Bulky** items take up two slots and are typically two-handed or awkward to carry. 
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. A PC cannot carry more items than their inventory allows.
+Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. A PC cannot carry more items than their inventory allows.
 
 As carrying bulky weapons would raise suspicion, it is generally assumed that PCs keep their bulky weapons hidden in their car or at home, unless the players say otherwise.
 
@@ -216,12 +214,32 @@ If you have a gun, divide the circle labeled **Magazine** into a number of secti
 
 #### Starting Gear
 
-All PCs begin with:
-
-- Two items from the **Gear Table**.
-- One item from the **Bonus Items Table** if appropriate.
+All PCs begin with two items from the **Gear Table** (p. 8) and any other items as the Warden sees fit depending on the occupation and the scenario.
 
 The PC with the lowest ability score total also starts with a source of light.
+
+[back to index](#index)
+<p></p>
+
+#### Backstories and Relationships
+
+First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third player so that they can expand on the first relationship.
+
+#### Organization
+
+When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members, should be sworn to secrecy and strive to study and suppress the Mythos.
+
+#### Motivation
+
+Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. During play, conceive and adapt the reason why your character would push on despite all of this. See **Motivation Inspiration Table** on p.6.
+
+### Motivation Inspiration Table (d12)
+
+|||||||||
+|---|---|---|---|---|---|---|---|
+| 1 | Curiosity | 4 | Hubris | 7 | Responsibility | 10 | Power |
+| 2 | Duty | 5 | Redemption | 8 | Salvation | 11 | Obligation |
+| 3 | Fate | 6 | Destiny | 9 | Zealotry | 12 | Restlessness |
 
 [back to index](#index)
 <p></p>
@@ -268,12 +286,6 @@ The PC with the lowest ability score total also starts with a source of light.
 | 4 | Police Officer | 9 | Bureaucrat | 14 | Author | 19 | Antiquarian |
 |5 | Doctor | 10 | Ranger | 15 | Farmer | 20 | Mechanic |
 
-#### Bonus Item (optional)
-
-| 1-8 | 9-14 | 15-17 | 18-20 |
-| :---: | :---: | :---: | :---: |
-| Melee Weapon | Pistol | Shotgun | Rifle |
-
 ### Gear Table
 
 | d100 | Item | d100 | Item | d100 | Item | d100 | Item |
@@ -281,7 +293,7 @@ The PC with the lowest ability score total also starts with a source of light.
 | 0-1 | Beverage | 26-27 | Matches | 52-53 | Umbrella | 78-79 | Painkillers |
 | 2-3 | Sandwich | 28-29 | Glue | 54-55 | Cigarettes | 80-81 | Treats |
 | 4-5 | Bottle of Water | 30-31 | Padlock & Chain (1 m) | 56-57 | Magnifying Glass | 82-83 | Makeup |
-| 6-7 | First Aid Pack | 32-33 | Rope (15 m) | 58-59 | Bible | 84-85 | Sewing Kit |
+| 6-7 | Bandages | 32-33 | Rope (15 m) | 58-59 | Bible | 84-85 | Sewing Kit |
 | 8-9 | Lantern | 34-35 | Chalk | 60-61 | Briefcase | 86-87 | Suit / Dress |
 | 10-11 | Flashlight | 36-37 | Shovel | 62-63 | Newspaper | 88-89 | Book |
 | 12-13 | Flare | 38-39 | Tools | 64-65 | Flute | 90-91 | Torch |
@@ -299,10 +311,10 @@ The PC with the lowest ability score total also starts with a source of light.
 | Magazine | n/a | n/a | Occupies one inventory slot unless loaded. |
 | Unarmed | 1d4 | n/a | |
 | Knife, Machete, Crowbar | 1d6 | n/a | |
-| Colt M1911 | 1d6 | 6 | Spend 3 shots to deal d6 + d6 + d6 damage. |
+| Colt M1911 | 1d6 | 6 | Spend 2 (or 3) shots to deal d6 + d6 (+ d6) damage. |
 | Stevens 311 Shotgun | 1d6 | 2 | bulky, blast. Fire both barrels for 1d10 damage. Must be close. |
 | Fire Axe, Baseball Bat | 1d8 | n/a | bulky |
-| Lee-Enfield Mk III | 1d8 | 4 | bulky. d12 when used as a sniper rifle from a controlled position. |
+| Lee-Enfield Mk III | 1d8 | 4 | bulky. d12 when used as a sniper rifle and not under fire. |
 | Thompson Submachine Gun | 1d10 | 3 | bulky, spend 3 shots for blast |
 | .30 Browning Machine Gun | 1d12 | 4 | mounted, blast |
 | Frag Grenade | 1d10 | 1 | blast |
@@ -319,29 +331,6 @@ The PC with the lowest ability score total also starts with a source of light.
 | 3 | Pet | 8 | Outdoors | 13 | Community | 18 | Going out |
 | 4 | Partner | 9 | Travel | 14 | Contemplate | 19 | Home |
 | 5 | Literature | 10 | Art | 15 | Self-Care | 20 | Gardening |
-
-[back to index](#index)
-<p></p>
-
-#### Backstories and Relationships
-
-First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third player so that they can expand on the first relationship.
-
-#### Age
-
-Decide how old your character is or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
-
-#### Organization
-
-When you are playing a series of short and unrelated scenarios, you might want to come up with an organization that all players belong to or that they found after their first adventure. The organization should have a way of recruiting new members, should be sworn to secrecy and strive to study and suppress the Mythos.
-
-### Motivation Inspiration Table (d12)
-
-|||||||||
-|---|---|---|---|---|---|---|---|
-| 1 | Curiosity | 4 | Hubris | 7 | Responsibility | 10 | Power |
-| 2 | Duty | 5 | Redemption | 8 | Salvation | 11 | Obligation |
-| 3 | Fate | 6 | Destiny | 9 | Zealotry | 12 | Restlessness |
 
 [back to index](#index)
 <p></p>
@@ -368,10 +357,6 @@ For an **opposed** save, both the PC and their opponent make a save. Whoever rol
 
 When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Instead, limit or increase the risks and possible effects purely in the fictional world.
 
-### Armor
-
-Before calculating damage to HP, subtract the target's Armor value from the result of damage rolls. PCs can buy Heavy Leather Clothing which provides 1 point of armor, but occupies two inventory slots and is destroyed when the PC is critically wounded.
-
 ### Healing
 
 Resting for a few moments and having a drink of water restores lost HP.
@@ -390,7 +375,7 @@ This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension
 
 Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
 
-When an investigator does something that takes time, like observing patrolling patterns, traveling to another location, searching for something or picking a lock, they add a Tension Die to the Tension Pool.
+When an investigator does something that takes time, like observing patrolling patterns, traveling to another location, searching for something, resting to restore lost HP or picking a lock, they add a Tension Die to the Tension Pool.
 
 If a player does something **reckless**, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. A complication can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task. Examples: encounter, change in the environment, evil agenda advances, sign or glimpse of the horror.
 
@@ -810,7 +795,7 @@ Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. 
 
 ### Healing
 
-Resting for a few moments and having a drink of water restores lost HP.
+Resting for a few moments and having a drink of water restores lost HP (adding a die to the Tension Pool).
 
 Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
 
