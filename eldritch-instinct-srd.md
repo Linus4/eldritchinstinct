@@ -48,7 +48,7 @@ Players roll saves to avoid complications in risky situations. Don’t think of 
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Rulings
-The Warden and the players make this game their own by leaving out rules they don’t like and by adding procedures and spot-rules they want.
+This book is not an authoritative specification for how you must play your game, but rather a set of tools to experiment and play around with.
 
 ### Death
 Characters are ordinary people faced with incomprehensible horrors. Death is always around the corner, but it is never random or without warning.
@@ -169,7 +169,7 @@ When creating a PC, the player should roll 3d6 for each of their character’s a
 
 #### Hit Protection
 
-Roll 1d6+2 to determine your PC’s **Hit Protection** (HP), which reflects their ability to avoid damage in combat.
+**Hit Protection** (HP) reflects a PC’s ability to avoid damage in combat through skill, stamina and luck. Every PC starts with 4 HP.
 
 #### Magic Points
 
@@ -340,13 +340,15 @@ Each of the three abilities are used in different circumstances.
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
+
+A 1 is always a **critical success**, and a 20 is always a **critical failure**.
 
 For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *highest* result wins. Add any ability score above 20 to the result.
 
 ### Difficulty
 
-When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Instead, limit or increase the risks and possible effects purely in the fictional world.
+When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Rather, limit or increase the risks and possible effects purely in the fictional world.
 
 ### Healing
 
@@ -366,9 +368,9 @@ This procedure is from [The Angry DM’s blog](theangrygm.com/definitive-tension
 
 Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
 
-When an investigator does something that takes time, like observing patrolling patterns, traveling to another location, searching for something, resting to restore lost HP or picking a lock, they add a Tension Die to the Tension Pool.
+When an investigator does something that takes **time**, like observing patrolling patterns, traveling to another location, searching for something, resting to restore lost HP or picking a lock, they add a Tension Die to the Tension Pool.
 
-If a player does something **reckless**, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool.
+On the other hand, when an investigator chooses a **reckless** approach, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. 
 
 A complication can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task. Examples: encounter, change in the environment, evil agenda advances, sign or glimpse of the horror.
 
@@ -405,11 +407,11 @@ Warden: Alright, let’s have a little chase then. Roll DEX against the watchman
 
 Rosalie: Let’s hide in one of the rooms, wait for him to run past and then go back the other way.
 
-Warden: Sounds like a WIL save to me. *Arlene fails, but Rosalie rolls a 1.* The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. I’ll roll to see what the last obstacle will be. 11 – DEX – A fallen tree. Hmm, there are a few rows of these queue line dividers between you and the exit.
+Warden: Sounds like a WIL save to me. *Arlene fails, but Rosalie scores a critical success.* The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. I’ll roll to see what the last obstacle will be. 11 – DEX – A fallen tree. Hmm, there are a few rows of these queue line dividers between you and the exit. Rosalie, you are already quite far ahead, do you want to help Arlene out?
 
-Rosalie: As I have already 2 points, I will hold up the last divider for Arlene to help her escape.
+Rosalie: Yes, I will hold up the last divider for Arlene to help her escape.
 
-Warden: Alright, but if you don’t get at least 1 point in total this round, he will get you both. Arlene fails again, but Rosalie succeeds. Arlene is struggling to jump over the dividers in her skirt, but with your help you both make it out the front door while the watchman gets tangled up in the line dividers.
+Warden: Alright, but there’s the risk that he will get you both. Arlene fails again, but Rosalie succeeds. Arlene is struggling to jump over the dividers in her skirt, but with your help you both make it out the front door while the watchman gets tangled up in the line dividers.
 
 Arlene: *“Thank you, Rosa! He almost got me.”* What’s in the casket?
 
@@ -424,7 +426,7 @@ Warden: The amulet you were hoping to find appears to have been removed. Instead
 
 You gain Insight from seeing the Unnatural, like a corpse, or other horrifying evidence of the Mythos. When you do, make a WIL save to determine whether you gain the full amount of Insight, or a reduced amount in case of success (denoted for example by INS 1/1d4). Fill in the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
 
-If you gain 5 or more Insight at once or if you cannot fill enough Insight pips, make an **Insight Save**.
+If you gain 5 or more Insight in one go or if you cannot fill enough Insight pips, make an **Insight Save**.
 
 ### Insight Save
 
@@ -452,8 +454,8 @@ PCs start with three Hardened notches. Every three additional Hardened notches, 
 
 There are a number of possibilities to remove Broken notches.
 
-**Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. If you roll a 20, lose your bond and gain a Broken notch.\
-**Sanatorium**: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. If you roll a 20, gain a Broken notch.\
+**Self-help**: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical failure, lose your bond and gain a Broken notch.\
+**Sanatorium**: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical failure, gain a Broken notch.\
 **Cover traces**: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
 
 ### Panic Inspiration Table (d12)
@@ -472,7 +474,7 @@ There are a number of possibilities to remove Broken notches.
 
 Mythos Knowledge represents how much your character has learned and internalized from their encounters with and studies of the Mythos.
 
-You may spend 5 Mythos Knowledge (MK) to re-roll one of your damage rolls or saves, unless it is a 20.
+You may spend 5 Mythos Knowledge (MK) to re-roll one of your damage rolls or saves, unless it is a critical failure.
 
 ### Mythos Knowledge Save
 
@@ -624,7 +626,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 | d100 | Effect | d10 | Area |
 | --- | --- | --- | --- |
-| 00 | **Scarred.** You were lucky this time. | 0 | Legs |
+| 00 | **Scarred.** You are bruised and bleeding, but you can get back up on your feet. | 0 | Legs |
 | 10 |  | 1 | Arms |
 | 20 |  | 2 | Hands |
 | 30 |  | 3 | Shoulders |
@@ -640,15 +642,19 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 ### Chases
 
-During a chase, the PCs are confronted with *three* critical obstacles. The PCs make an opposed save against their opponent for each obstacle. Rolling a 20 yields -1 point, a fail yields 0 points, a success yields 1 point and rolling a 1 yields 2 points. A PC needs 1 point at the end of the chase in order to escape or catch their opponent.
+During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical failure yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or catch their opponent.
 
 #### Helping others
 
 If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have at least 1 point at the end, both PCs are caught.
 
+#### Carrying something heavy
+
+If a PC is carrying something heavy such as a critically injured investigator, they must score an additional point in order to escape and can only help someone else if they have at least 3 points at the start of the third obstacle.
+
 ### Chase Obstacles
 
-The obstacles that must be overcome should be what is in the path each fugitive chooses in the fictional world. Alternatively, the Warden may put one or two obstacles in the players’ way. Whether fugitives and pursuers roll using the same ability scores depends on the situation. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works. You can use the following table for inspiration.
+The obstacles that must be overcome should be what is in the path each fugitive chooses in the fictional world. Alternatively, the Warden may put one or two obstacles in the players’ way. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works. You can use the following table for inspiration.
 
 | d20 | STR | d20 | DEX | d20 | WIL |
 | --- | --- | --- | --- | --- | --- |
@@ -670,8 +676,6 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 **Ford Model T:** 7 Engine, 8 Handling, 10 Mayhem, 5 HP, 3 Armor\
 **Motorcycle:** 14 Engine, 13 Handling, 5 Mayhem, 3 HP
 
-*Note: Please use this procedure as a starting point and expand or simplify as you see fit. Just do regular saves instead of opposed saves to keep it simple. Or allow players to perform actions between chase rounds, apply penalties such as attribute loss upon failed saves, or go completely freeform.*
-
 ### Stealth & Deception
 
 In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting on their own. Allow the players to get in over their heads, then put the screws on them.
@@ -688,7 +692,7 @@ Again: allow the players to get in over their heads, then put the screws on them
 
 #### Illustrative Situations
 
-1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a 20, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
+1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a critical failure, that player is detected or there is a major compromise. (**Don’t roll a 20!**)
 2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. The best case outcome is that shortly after passing the checkpoint, a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool and possibly dealing with other minor obstacles along the way. (**Multi-stage plan**)
 3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the creature is right in front of you; or hide behind the door with a 40 % probability, but on a fail the creature is almost out of the other door before it notices you. (**Offer decisions**)
 4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in and peek through the windows. Rolling the dice in the Tension Pool, they get a 1 and as a complication, an approaching patrol forces them deeper into the compound on their own. (**Raise the stakes**)
@@ -782,9 +786,11 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 
 ### Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a critical success, and a 20 is always a critical failure.
 
 For an **opposed** save, both the PC and their opponent make a save. Whoever rolls the *highest* number under or equal to their ability score wins the save. If both sides fail, the *highest* result wins. Add any ability score above 20 to your result.
+
+You may spend 5 Mythos Knowledge (MK) to re-roll one of your damage rolls or saves, unless it is a critical failure.
 
 ### Actions
 
@@ -800,10 +806,8 @@ Anyone carrying a full inventory (e.g. filling all 9 slots) is reduced to 0 HP. 
 
 ### Healing
 
-Resting for a few moments and having a drink of water restores lost HP (adding a die to the Tension Pool).
-
-Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional.
-
+Resting for a few moments and having a drink of water restores lost HP (adding a die to the Tension Pool). 
+Ability loss can usually be restored with a couple of weeks’ rest in a safe place like a hospital or at home with the help of a medical professional. 
 A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores.
 
 ### Round Order
@@ -818,7 +822,7 @@ If **multiple attackers** target the same foe, roll all damage dice and keep the
 
 If the attack is **impaired**, the attacker must roll 1d4 damage regardless of weapon. If the attack is **enhanced**,  the attacker rolls 1d12 damage instead of their normal die. Attacks with the **blast** quality affect all area targets, rolling separately for each.
 
-### Damage
+### Critical Damage
 
 Damage that reduces a target’s HP below 0 decreases their STR by the remainder. They must then make a STR save to avoid critical damage. Failure takes them out of combat, dying if left untreated. To check the vitals of a downed investigator, roll 1d100 on the Wounds Table.
 
