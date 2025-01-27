@@ -45,7 +45,7 @@ The Mythos is a collection of stories, entities, characters and places conceived
 
 The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
 
-Writing, Layout and Design by Linus Weber. Editing by xxx.
+Writing, Layout and Design by Linus Weber. Copyediting by xxx.
 
 Thank you to xxx and xxx for your extensive feedback, and to all of the groups I've play-tested this with for your interest and patience.
 
@@ -76,9 +76,9 @@ Eldritch Instinct was written with the following design philosophies in mind:
   //rows: 
   inset: 3pt,
   gutter: 8pt,
-  [=== External Interaction], [Players interact with the fictional world directly through questions and descriptions instead of mechanics. Questions are gameplay.],
+  [=== External Interaction], [Players interact with the game world directly through questions and descriptions instead of mechanics. Questions are gameplay.],
   [=== Roll-Play], [Mechanics should create tense situations and force players to make tough choices. They are not a simulation.],
-  [=== Immersion], [The rules, or the absence thereof, help players immerse themselves in the fictional world and create verisimilitude where it matters.],
+  [=== Immersion], [The rules, or the absence thereof, help players immerse themselves in the game world and create verisimilitude where it matters.],
   [=== Fail Forward], [Players roll saves to avoid complications in risky situations. Don’t think of success and failure as binary options.],
   [=== Neutrality], [The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.],
   [=== Rulings], [This book is not an authoritative specification for how you must play your game, but rather a set of tools to experiment and play around with.],
@@ -98,8 +98,8 @@ Eldritch Instinct was written with the following design philosophies in mind:
 - NPCs don’t always tell the whole truth. Your Warden should give hints, but who you do and don’t trust is ultimately your decision.
 
 === Atmosphere
-- Prepare to die; combat is extremely quick and violent. Make your last moments count and revel in your character's tragic demise.
-- Describe your actions in a colorful way and riff off of your character’s occupation in the way you approach situations and describe your actions.
+- Prepare to die; combat is extremely quick and violent. Make your last moments count and revel in your investigator's tragic demise.
+- Describe your actions in a colorful way and riff off of your investigator’s occupation in the way you approach situations and describe your actions.
 
 === Planning
 - Think of ways to avoid your obstacles and to stack the odds in your favor through reconnaissance, subtlety, and fact-finding.
@@ -118,39 +118,39 @@ Eldritch Instinct was written with the following design philosophies in mind:
 == Principles for Wardens
 
 === Information
-- Provide useful information about the game world as the characters explore it and present hooks that the players can pull to uncover more information.
-- Tailor your answers to the character's occupation: a doctor would pick up on different details than a police officer or a journalist.
+- Provide useful information about the game world as the investigators explore it and present threads that the players can pull to uncover more information.
+- Tailor your answers to the investigator's occupation: a doctor would pick up on different details than a police officer or a journalist.
 - Players do not need to roll dice to learn about their circumstances.
 - Respond honestly, describe consistently, and always let them know they can keep asking questions.
 - Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
 
 === Rolls
 - Is what the players describe and how they leverage the situation sensible? Let it happen. Reward clever ideas and creative use of equipment or the environment.
-- Ask for saves to introduce interesting complications in very intense situations; not to see whether an investigator is able to do something.
-- Failure could mean that the situation gets much worse, or that success comes at a cost (time, resources, harm, situational disadvantage).
+- Ask for saves to introduce interesting complications in intense situations; not to see whether an investigator is able to do something.
 
 === Motivations
-- NPCs act independently of the PCs and are guided by their own motivations.
-- They remember what the characters say and do, and how they affect the world.
+- NPCs act independently of the investigators and are guided by their own motivations.
+- They remember what the investigators say and do, and how they affect the world.
 - NPCs and even monsters don't want to die. Infuse their own self-interest and will to live into every personality.
 
 === Narrative Focus
 - Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- What a PC can do, how long they need to do it and what risks they have to take depends largely on their occupation. Let every PC be useful in their own way.
+- Let every investigator be useful in their own way considering their occupation.
+- Ensure that the investigators' actions leave their mark on the world.
 
 === Questions
-- Make sure to leave space for interaction between characters and allow players to inject details into the fictional world.
-- Ask a lot of questions like: what is going on in your head? How does that make you feel? How do you respond? What are you doing?
+- Ask the investigators questions like: What is going on in your head? How does that make you feel? How do you respond? What are you doing? What should be done about this?
 - Employ Jason Cordova's #link("https://www.gauntlet-rpg.com/blog/paint-the-scene")[Paint The Scene] technique: "if there is an idea, theme, or visual motif that is particularly important for an encounter or scene, ask the players what their characters observe in the scene that reinforces that idea, theme, or motif."
 
 === Pacing
-- Know how to escalate a scenario if the PCs are taking too long to solve a situation, based on the monster's or NPCs' motivations.
+- Know how to escalate a scenario if the players are taking too long to solve a situation, based on the monster's or NPCs' motivations.
 - During tense situations, keep up the time pressure in real life as well. Demand quick answers during a fight or chase, or use sand timers to limit how long the players get to plan before the monster finds them.
 - Jump cut between players when they are separated to keep players involved, and fade out scenes when nothing new is happening to keep the game moving.
+- Make sure to leave space for interaction between investigators.
 
 === Expectations
-- Before playing, establish shared expectations with your players. Show them these principles and use something like Patrick O'Leary’s #link("https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html")[CATS method] (Concept, Aim, Tone, Subject Matter).
-- Prepare a strong introduction for your session in order to create the right mood, pull your players into the fictional world and serve as an example for the players.
+- Before playing, establish shared expectations with your players using Patrick O'Leary’s #link("https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html")[CATS method]. Concept: Pitch this game and show them the principles. Aim: Explain what the players are trying to accomplish. Tone: Come to a consensus on what the group wants. Subject Matter: Is there something that could make anyone uncomfortable? Discuss what boundaries need to be set, if any.
+- Prepare a strong introduction for your session in order to create the right mood, pull your players into the game world and serve as an example for the players.
 - Your goal is not to explicitly scare your players, but to create an immersive, eerie atmosphere and to build tension.
 
 #pagebreak()
@@ -159,9 +159,9 @@ Eldritch Instinct was written with the following design philosophies in mind:
 
 === Name, Occupation & Personality
 
-First, choose or roll a *name* for your character, then their *occupation*, which informs their knowledge and potential skills (see tables on p. #pageref(<chargen_tables>)). Note however, that PCs do not hold positions of power.
+First, choose or roll a *name* for your character, then their *occupation*, which informs their knowledge and potential skills (see tables on p. #pageref(<chargen_tables>)). Note however, that investigators do not hold positions of power.
 
-To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation. Next, roll a d4 for each of your character’s *personality* factors and think of one detail about your PC’s face and clothes.
+To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation. Next, roll a d4 for each of your character’s *personality* factors and think of one detail about your investigator’s face and clothes.
 
 === Ability Scores
 
@@ -237,7 +237,7 @@ Roll on the *Bonds Table* to determine the four most significant things that tie
 
 === Motivation
 
-Investigators are confronted with life-threatening violence, mind-breaking revelations and demanding tasks. _During play_, conceive and adapt the reason why your character would push on despite all of this. See *Motivation Table* to help you develop your PC's motivation.
+Investigators are confronted with life-threatening violence and mind-breaking revelations. _During play_, conceive and adapt the reason why your character would push on despite all of this. See *Motivation Ideas* to help you develop your PC's motivation.
 
 #table(
   columns: (auto, auto, auto, auto, auto, auto, auto, auto),
@@ -372,18 +372,18 @@ Investigators are confronted with life-threatening violence, mind-breaking revel
   ),
   [*Weapon*], [*Damage*], [*Shots*], [*Special*],
   [Magazine], [n/a], [n/a], [Occupies one inventory slot unless loaded.],
-  [Unarmed], [1d4], [n/a], [],
+  [Unarmed], [1d4], [n/a], [Opposed STR save to grapple.],
   [Knife, Machete, Crowbar], [1d6], [n/a], [],
   [Colt M1911], [1d6], [6], [Spend 2 (or 3) shots to deal d6 + d6 (+ d6) damage.],
-  [Stevens 311 Shotgun], [1d6], [2], [Bulky, Blast. Fire both barrels for 1d10 damage. Must be close.],
-  [Fire Axe, Baseball Bat], [1d8], [n/a], [Bulky],
+  [Stevens 311 Shotgun], [1d6], [2], [Bulky, Blast. Fire both barrels for 1d10 damage.],
+  [Fire Axe, Baseball Bat], [1d8], [n/a], [Bulky.],
   [Lee-Enfield Mk III], [1d8], [4], [Bulky. d12 when used as a sniper rifle and not under fire.],
-  [Thompson Submachine Gun], [1d10], [3], [Bulky, spend 3 shots for Blast],
-  [.30 Browning Machine Gun], [1d12], [4], [Mounted, Blast],
-  [Frag Grenade], [1d10], [1], [Blast],
-  [Molotov Cocktail], [1d4], [1], [Blast, lasts 3 rounds],
-  [Dynamite Stick], [1d6], [1], [Blast, explodes at least one round after being lit],
-  [Flamethrower], [1d8], [4], [Bulky, Blast]
+  [Thompson Submachine Gun], [1d10], [3], [Bulky, spend 3 shots for Blast.],
+  [.30 Browning Machine Gun], [1d12], [4], [Mounted, Blast.],
+  [Frag Grenade], [1d10], [1], [Blast.],
+  [Molotov Cocktail], [1d4], [1], [Blast, lasts 3 rounds.],
+  [Dynamite Stick], [1d6], [1], [Blast, explodes at least one round after being lit.],
+  [Flamethrower], [1d8], [4], [Bulky, Blast.]
 )
 
 #pagebreak()
@@ -404,7 +404,7 @@ Each of the three abilities are used in different circumstances.
 
 *Strength (STR)*: Used for saves requiring physical power, like lifting gates, climbing, restraining a person, etc.\
 *Dexterity (DEX)*: Used for saves requiring poise, speed, and reflexes like dodging, sneaking, balancing, etc.\
-*Willpower (WIL)*: Used for saves to recall training, resist manipulation of your thoughts, deceive, etc.
+*Willpower (WIL)*: Used for saves to endure horrors, provoke, resist manipulation of your thoughts, deceive, charm, etc.
 
 === Saves
 
@@ -428,67 +428,87 @@ A PC *deprived* of a crucial need (such as food or rest) is unable to recover HP
 
 Occasionally you will want an element of randomness (e.g. the weather, looking for specific items, etc.). In these situations, roll 1d6. A roll of 4 or more generally favors the players. A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
-=== Tension Pool
+=== Agenda Clock
 
-This procedure is from #link("theangrygm.com/definitive-tension-pool/")[The Angry DM’s blog] and is intended to be used during the investigation, while saves are used more for action and open confrontation.
+You track the passage of time on the Agenda Clock#footnote[Credit goes to Arnold K from #link("https://goblinpunch.blogspot.com")[goblinpunch.blogspot.com].] which you can represent using a d20. It starts at 20 and a complication occurs when it is reduced _below_ 0. Reset it to 20 after the complication is resolved.
 
-Place a container (the Tension Pool) on the table and keep six d6 (Tension Dice) nearby. 
+A complication could be an encounter, an event, a change in the environment or the evil agenda advances.
 
-When an investigator does something that takes *time*, like observing patrolling patterns, traveling to another location, searching for something, resting to restore lost HP or picking a lock, they add a Tension Die to the Tension Pool.
+When a PC does something that takes *time* or attracts unwanted *attention*, roll a d6 (Agenda Die) and subtract the value from the Agenda Clock.
 
-On the other hand, when an investigator chooses a *reckless* approach, like breaking open a door, sneaking close to opponents or lying to someone, they roll all dice in the Tension Pool and if at least one die shows a 1, the Warden determines a complication. If there are no dice in the Tension Pool, roll 1d6 without adding it to the Tension Pool. 
+Examples of when you must roll the Agenda Die:
+#grid(
+  columns: 2,
+  gutter: 10pt,
+  [
+    - travelling to another location,
+    - searching for something,
+    - resting to restore lost HP,
+    - convincing a reluctant NPC,],
+  [
+    - doing research or reading tomes,
+    - crafting or preparing a trap,
+    - getting the authorities involved,
+    - breaking open a door.]
+)
 
-A complication can be completely unrelated to the current task, does not have to become immediately apparent and does not necessarily mean that the PC fails at their task. Examples: encounter, change in the environment, evil agenda advances, sign or glimpse of the horror.
+The Agenda Die explodes - meaning every time you roll a 6, you immediately roll an additional Agenda Die and subtract its value from the Agenda Clock as well.
 
-As soon as you add the sixth Tension Die, roll all dice in the Tension Pool and determine a complication if necessary. Then remove all dice from the Tension Pool.
+When the Agenda Clock is reduced to 0 exactly, bump it back up to 3.
+
+When the Agenda Clock is bumped or reduced to 3 exactly, you either see a glimpse of the horror or a foreshadowing event for the next complication.
+
+It is totally acceptable to delay the complication or foreshadowing for a little while to fit the scenario.
 
 #pagebreak()
 
 == Example of Play
 
-Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, arrive at the Miskatonic Prehistorical Museum.
+Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a Mayan artifact at the Miskatonic Prehistorical Museum.
 
-Warden: The sun has already set by the time you arrive at the museum. I’m adding a die to the Tension Pool _(now at 5 out of 6 dice)_. The doors are not locked, and inside you find a watchman keeping an eye on the entrance hall. _Rolls 2d6 to determine the NPC’s reaction._ An 8! He looks at you curiously and says: _“Excuse me, the museum is currently closed. Can I help you with anything?”_
+*Warden:* The sun has already set by the time you arrive at the museum. The doors are not locked, and inside you find a watchman keeping an eye on the entrance hall. _Rolls 2d6 to determine the NPC’s reaction._ An 8! He looks at you curiously and says: _“Excuse me, the museum is currently closed. Can I help you with anything?”_
 
-Arlene: _“Good evening, my name is Dr. Snow and I work for Miskatonic’s archaeology department. I’m here with my student assistant to check our catalog against the exhibits.”_
+*Arlene:* _“Good evening, my name is Dr. Snow and I work for Miskatonic’s archaeology department. I’m here with my student assistant to check our catalog against the exhibits.”_
 
-Warden: As an antiquarian you certainly look the part. And the watchman is clearly out of his depth, but satisfied with your answer.
+*Warden:* As an antiquarian you certainly look the part. And the watchman is clearly out of his depth, but satisfied with your answer.
 
-Rosalie: Quick, let’s find the Yaxuná casket.
+*Rosalie:* Quick, let’s find the Yaxuná casket.
 
-Warden: You make an educated guess, Arlene, and head to the Yucatán section. Another watchman sits slumped over his desk, and you spot the casket in its showcase in the center of the dimly lit exhibition room.
+*Warden:* You make an educated guess, Arlene, and head to the Yucatán section. Another watchman sits slumped over his desk, and you spot the casket in its showcase in the center of the dimly lit exhibition room.
 
-Rosalie: Does it look like the watchman is asleep?
+*Rosalie:* Does it look like the watchman is asleep?
 
-Warden: As you approach the watchman silently, you recognize a treacherous sweet smell – chloroform.
+*Warden:* As you approach the watchman silently, you recognize a treacherous sweet smell – chloroform.
 
-Arlene: I pry the showcase open with my screwdriver. We should not waste any time.
+*Arlene:* I'll carefully pry the showcase open with my screwdriver.
 
-Warden: Let’s roll the Tension Pool, as the showcase is probably secured with an electronic alarm system. _One die shows a 1._ That’s pretty bad. A bell in the corner of the room starts to ring and you hear footsteps coming up the stairs.
+*Warden:* Roll the Agenda Die, then. _The Agenda Clock is reduced below 0._ A bell in the corner of the room starts to ring and you hear footsteps coming up the stairs.
 
-Arlene: I put the casket in my bag and run down the corridor.
+*Arlene:* I put the casket in my bag and run down the corridor.
 
-Warden: Alright, let’s do a chase then. Roll DEX against the watchman. _Both fail._ You give it your all, but the watchman is catching up.
+*Warden:* Alright, let’s do a chase then. Roll DEX against the watchman. _Both fail._ You give it your all, but the watchman is catching up.
 
-Rosalie: Let’s hide in one of the rooms, wait for him to run past and then go back the other way.
+*Rosalie:* Let’s hide in one of the rooms, wait for him to run past and then go back the other way.
 
-Warden: Sounds like a WIL save to me. _Arlene fails, but Rosalie scores a critical success._ The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. There are a few rows of these queue line dividers between you and the exit. Rosalie, you are already quite far ahead, do you want to help Arlene out?
+*Warden:* Sounds like a WIL save to me. _Arlene fails, but Rosalie scores a critical success._ The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. There are a few rows of these queue line dividers between you and the exit. Rosalie, you are already quite far ahead, do you want to help Arlene out?
 
-Rosalie: Yes, I will hold up the last divider for her.
+*Rosalie:* Yes, I will hold up the last divider for her.
 
-Warden: Alright, but there’s the risk that he will get you both. _Arlene fails again, but Rosalie succeeds._ Arlene is struggling to jump over the dividers in her skirt, but with your help you both make it out the front door while the watchman gets tangled up in the line dividers.
+*Warden:* Alright, but there’s the risk that he will get you both. _Arlene fails again, but Rosalie succeeds._ Arlene is struggling to jump over the dividers in her skirt, but with your help you both make it out the front door while the watchman gets tangled up in the line dividers.
 
-Arlene: _“Thank you, Rosa! He almost got me.”_ What’s in the casket?
+*Arlene:* _“Thank you, Rosa! He almost got me.”_ What’s in the casket?
 
-Warden: The amulet you were hoping to find appears to have been removed. Instead, you find what is undoubtedly another one of your husband’s fingers, ripped crudely off his hand.
+*Warden:* The amulet you were hoping to find appears to have been removed. Instead, you find what is undoubtedly another one of your husband’s fingers, ripped crudely off his hand.
 
-#align(center, image("images/chichen-itza-1600_frederick_catherwood.jpg", width: 80%))
+#align(center, image("images/chichen-itza-1600_frederick_catherwood.jpg", width: 98%))
 
 #pagebreak()
 
 == Insight
 
-You gain Insight from seeing the Unnatural, like a corpse, or other horrifying evidence of the Mythos. When you do, make a WIL save to determine whether you gain the full amount of Insight, or a reduced amount in case of success (denoted for example by INS 1/1d4). Fill in the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
+You gain a certain amount of Insight from seeing the Unnatural, like a corpse, a monster, or other horrifying evidence of the Mythos. When you do, make a WIL save to reduce the amount of Insight you gain (denoted by INS X/X, e.g. INS 1/1d4).
+
+Fill in the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
 
 If you gain 5 or more Insight in one go or if you cannot fill enough Insight pips, make an *Insight Save*.
 
@@ -498,7 +518,7 @@ When you experience something mind-shatteringly dreadful, roll 1d12. If it hits 
 
 === Panic
 
-You or the Warden come up with a reaction for your character based on the current situation, their bonds and their experiences. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
+You or the Warden come up with a reaction for your character based on the current situation, their background and their experiences. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
 
 When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight pip starting at the 4 position going clockwise as you are *Hardened*. 
 
@@ -506,7 +526,7 @@ On a fail, cross out an Insight pip starting at the 12 position going counter-cl
 
 === Delusions
 
-If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
+If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality - especially when showing you a glimpse of the horror. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
 
 #pagebreak()
 
@@ -554,7 +574,7 @@ You may spend 5 Mythos Knowledge (MK) to re-roll one of your damage rolls or sav
 
 === Mythos Knowledge Save
 
-Roll 1d100 under or equal to your MK score plus your current Insight score.
+Roll a d100 under or equal to your MK score plus your current Insight score.
 
 === Keeping a Journal
 
@@ -564,7 +584,7 @@ Remaining Insight is removed at the Warden’s discretion – probably at the en
 
 === Tomes
 
-You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in _foreign languages_ and often provide only a partial or inaccurate understanding of the Mythos. An *initial reading* takes a few hours and allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s *Mythos Rating*.
+You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in _foreign languages_ and often provide only a partial or inaccurate understanding of the Mythos. An *Initial Reading* allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s *Mythos Rating*.
 
 Further *study* of the tome takes a few days, after which you may increase your MK by the tome’s Mythos rating. Every time, though, you must gain a Broken notch.
 
@@ -574,11 +594,11 @@ Further *study* of the tome takes a few days, after which you may increase your 
 
 === Spells
 
-Some tomes contain instructions for casting spells, which take hours or even days to learn. 
+When you cast a spell, which you can learn from studying certain tomes, you must pay its cost and spend the specified casting time. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead.
 
-For the *First Evocation*, the PC must make a MK save and pay the spell's cost. On a fail, they must either start over and learn the spell from scratch, or they may roll again. However, if they fail the second save without starting over, the spell is cast, but all spell costs are multiplied by 1d4 and the Warden rolls on the *Miscast Table*.
+For the *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may re-roll.
 
-Casting a spell can cost MP, WIL, and generate Insight or Broken notches. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead.
+However, if you fail the second save without starting over, the spell is cast, but all spell costs are multiplied by d4 and the Warden rolls on the *Miscast Table*.
 
 #table(
   columns: (auto, 1fr, 1fr),
@@ -629,13 +649,13 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 *Respect*: does the NPC personally respect the PCs based on their behavior and reputation?\
 *Leverage*: do the PCs present anything that forces the NPC's hand?
 
-Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
+Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
 
 #pagebreak()
 
 === Research
 
-A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by adding a Tension Die to the Tension Pool.
+A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by rolling the Agenda Die.
 
 The Warden may award only partial information after a certain amount of time and allow the players to spend more time researching. In any case, the Warden should let the players know whether they have learned everything from their source.
 
@@ -645,10 +665,10 @@ The Warden may award only partial information after a certain amount of time and
 
 === Exploration
 
-Consider three #link("https://diyanddragons.blogspot.com/2019/10/landmark-hidden-secret.html")[kinds of information] (by Anne on diyanddragons.blogspot.com):
+Consider three kinds of information #footnote[Credit goes to Anne from #link("https://diyanddragons.blogspot.com")[diyanddragons.blogspot.com]]:
 
 *Landmark* information is everything that is immediately visible when you enter a room. The Warden gives this kind of information to the players for _free_.\
-*Hidden* information can only be learned if players specifically ask for it and directly interact with the fiction. It often comes at a cost: first, you probably have to spend some _time_ to examine the object. Looking in the right place yields immediate results, but a general search of a room takes about 15 minutes (add a die to the Tension Pool). Second, you expose your PC to _risk_ as you have to be close enough to touch the object you want to investigate.\
+*Hidden* information can only be learned if players specifically ask for it or directly interact with the fiction. It often comes at a cost: first, you probably have to spend some _time_ to examine the object. Looking in the right place yields immediate results, but a general search of a room takes about 15 minutes (roll the Agenda Die). Second, you expose your PC to _risk_ as you have to be close enough to touch the object you want to investigate.\
 *Secret* information always comes at a cost and there is a _chance for failure_. In Eldritch Instinct, information should almost never be secret. If players interact with the fictional world, they will get answers.
 
 Finding clues should not present a challenge to players. Rather, it is a conversation between the players and the Warden: when describing a location, the Warden begins by setting the mood and presenting landmark information, which often functions as threads, that the players can pull for more information. The players may then ask questions and describe their PC’s actions in order to uncover hidden information.
@@ -666,53 +686,55 @@ The Warden answers truthfully, but should make sure that characters receive info
 
 === Rounds
 
-The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A round is roughly ten seconds of in-game time.
+A round is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with all PCs that are able to act, followed by their opponents. _The results of each side’s actions occur simultaneously._
 
-=== Actions
-
-In one round, a character may move somewhere close (15 m) and take up to one action. This may be checking someone's vitals, attacking, reloading a gun, making a second move, dragging someone to the ground or some other reasonable action.
-
-Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs.
+If there is a chance that a PC is surprised at the start of combat, they have to make a DEX save in order to act in the first round.
 
 === Round Order
 
-The Warden telegraphs the most likely actions taken by NPCs or monsters. Players act before their opponents. If there is a chance that the PCs are surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+Each round, the Warden telegraphs the most likely actions taken by NPCs or monsters. All PCs declare their actions before dice are rolled.
+
+=== Actions
+
+On their turn, a character may move 15 m and take one action. This may be giving aid to an injured character, attacking, reloading a gun, making a second move, dragging someone to the ground or some other reasonable action.
 
 === Attacking & Damage
 
-The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Unarmed attacks always do 1d4 damage.
+The attacker rolls their weapon die and subtracts the target’s armor, then deals the remaining total to their opponent’s HP. Attacks in combat automatically hit. Unarmed attacks always do 1d4 damage.
 
 === Multiple Attackers
 
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
 
 #pagebreak()
 
 === Attack Modifiers
 
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is *impaired* and the attacker must roll 1d4 damage regardless of the damage die used during the attack.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is *Impaired* and the attacker must roll 1d4 damage regardless of the attack's damage die.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is *enhanced*, allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is *Enhanced*, allowing the attacker to roll 1d12 damage instead of their normal die.
 
 === Dual Weapons
 
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. This is denoted as dX + dX.
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. This is denoted with a plus symbol, e.g. dX+dX.
 
 === Blast
 
-Attacks with the blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
+Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
 
 === Critical Damage
 
-Damage that reduces a target’s HP below zero decreases a target’s STR by the amount remaining. They must then immediately make a STR save to avoid critical damage, using their new STR score. Additionally, some enemies have special abilities or effects that are triggered when their target fails a critical damage save.
+Damage that reduces a target’s HP below zero decreases a target’s STR by the amount remaining. They must then immediately make a STR save to avoid Critical Damage, using their new STR score.
 
-A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid and rest, they will probably stabilize: roll 1d100 on the *Wounds Table*.
+Additionally, some enemies have special abilities or effects that are triggered when their target fails a Critical Damage save.
+
+A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid (such as bandages), they will stabilize: roll a d100 on the *Wounds Table*.
 
 === Ability Score Loss
 
 If a PC’s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 
-Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
 
 === Unconsciousness & Death
 
@@ -720,9 +742,9 @@ When a character dies, the player is free to create a new character or take cont
 
 === Detachments
 
-Large groups of similar combatants fighting together are treated as a single detachment. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Large groups of similar combatants fighting together are treated as a single Detachment. When a Detachment takes Critical Damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
 
-Attacks against detachments by individuals are impaired (excluding blast damage). Attacks against individuals by detachments are enhanced and deal blast damage.
+Attacks against Detachments by individuals are Impaired (excluding Blast damage). Attacks against individuals by Detachments are Enhanced and deal Blast damage.
 
 === Retreat
 
@@ -760,22 +782,22 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 == Chases
 
-During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical failure yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or catch their opponent.
+During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical failure yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or 2 points to catch their opponent.
 
-=== Helping others
+=== Helping others escape
 
-If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have at least 1 point at the end, both PCs are caught.
+If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have the required amount of points at the end, both PCs are caught.
 
 === Carrying something heavy
 
-If a PC is carrying something heavy such as a critically injured investigator, they must score an additional point in order to escape and can only help someone else if they have at least 3 points at the start of the third obstacle.
+If a PC is carrying something heavy such as a critically injured character, they must score an additional point and can only help someone else if they have at least 3 points at the start of the third obstacle.
 
 === Chase Obstacles
 
-The obstacles that must be overcome should be what is in the path each fugitive chooses in the fictional world. Alternatively, the Warden may put one or two obstacles in the players’ way. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works.
+The obstacles that must be overcome should be what is in the path each fugitive chooses in the game world. Alternatively, the Warden may put one or two obstacles in the players’ way. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works.
 
 === Longer Chases
-If you want to draw out the chase, do five rounds total and require PCs to score at least two points in order to escape. In order to help others, a PC must have at least 3 points at the start of the fifth obstacle.
+If you want to draw out the chase, do five rounds total and require PCs to score an additional point. In order to help others escape, a PC must have at least 3 points at the start of the fifth obstacle.
 
 === Chases with Vehicles
 
@@ -822,11 +844,11 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 
 == Stealth & Deception
 
-In Eldritch Instinct, players get ahead by using their environment, the fictional world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting _on their own_. Allow the players to _get in over their heads_, then put the screws on them.
+In Eldritch Instinct, players get ahead by using their environment, the game world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting _on their own_. Allow the players to _get in over their heads_, then put the screws on them.
 
 Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert?
 
-Simple situations can usually be resolved with the Tension Pool, with a save or just within the fiction. In more complex situations, however, you should zoom in and draw out the decision whether a PC is detected or remains hidden.
+Simple situations can usually be resolved with the Agenda Die, with a save or just within the fiction. In more complex situations, however, you should zoom in and draw out the decision whether a PC is detected or remains hidden.
 
 Two concepts you should always have in mind when adjudicating actions in hazardous situations are risk and effect. When the PC has everything under control and the stakes are low, they may be able to back out of their attempt on a fail or deal with a minor complication in order to remain undetected.
 
@@ -836,10 +858,10 @@ Again: allow the players to get in over their heads, then put the screws on them
 
 === Illustrative Situations
 
-1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a roll, and on a critical failure, that player is detected or there is a major compromise. (*Don’t roll a 20!*)
-2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. The best case outcome is that shortly after passing the checkpoint, a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, adding a die to the Tension Pool and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
+1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a DEX save, and on a critical failure, that player is detected or there is a major compromise. (*Don’t roll a 20!*)
+2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. The best case outcome is that shortly after passing the checkpoint, a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, rolling the Agenda Die and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
 3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the creature is right in front of you; or hide behind the door with a 40 % probability, but on a fail the creature is almost out of the other door before it notices you. (*Offer decisions*)
-4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in and peek through the windows. Rolling the dice in the Tension Pool, they get a 1 and as a complication, an approaching patrol forces them deeper into the compound on their own. (*Raise the stakes*)
+4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in regardless and peek through the windows. Failing a DEX save, an approaching patrol forces them deeper into the compound on their own. (*Raise the stakes*)
 
 #pagebreak()
 
@@ -884,7 +906,7 @@ When you are playing a series of short and unrelated scenarios, you might want t
 *Shoggoth*\
 16 HP, 18 STR, 7 DEX, 5 WIL, tentacles (d6 blast)
 - Takes only d4 damage from non-blast attacks.
-- *Critical damage:* grapples investigator, deals d4 damage per round until freed.
+- *Critical damage:* grapples character, deals d4 damage per round until freed.
 
 === Creating Monsters and NPCs
 
