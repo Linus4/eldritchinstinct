@@ -41,11 +41,7 @@ Players act as curious investigators of the strange and unexplained. They will r
 
 The Mythos is a collection of stories, entities, characters and places conceived by Howard Phillips Lovecraft with contributions from his contemporary authors such as Clark Ashton Smith, Robert E. Howard and Robert Bloch. Since then, many authors, directors, artists and scenario designers have contributed their, often contradictory, ideas to the Mythos.
 
-The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
-
-Writing, Layout and Design by Linus Weber. Copyediting by xxx.
-
-Thank you to xxx and xxx for your extensive feedback, and to all of the groups I've play-tested this with for your interest and patience.
+Written by Linus Weber. The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
 
 Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Koloman Moser, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
 
@@ -959,4 +955,21 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 ]
 
 #page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%), numbering: none)[
+    #place(bottom + center, dy: -35pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
+    #par(justify: false)[#text(size: 15pt)[An Adventure Game where players act as curious investigators of the strange and unexplained. 
+    
+    They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities.
+
+*Writing, Design & Layout*\
+Linus Weber
+
+*Copyediting*\
+xxx
+
+*Editing*\
+xxx
+
+*Character Sheet*\
+xxx
+  ]]]]
 ]
