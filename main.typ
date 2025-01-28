@@ -37,7 +37,7 @@ Mythos #sym.circle.filled.small Investigation #sym.circle.filled.small Action]]
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
 
 *Eldritch Instinct* is an #link("https://questingblog.com/adventure-game-vs-osr/")[adventure game] for one facilitator (the *Warden*) and at least one other player.
-Players act as curious investigators of the strange and unexplained. They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities.
+Players act as curious investigators of the strange and unexplained. They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
 The Mythos is a collection of stories, entities, characters and places conceived by Howard Phillips Lovecraft with contributions from his contemporary authors such as Clark Ashton Smith, Robert E. Howard and Robert Bloch. Since then, many authors, directors, artists and scenario designers have contributed their, often contradictory, ideas to the Mythos.
 
@@ -974,7 +974,7 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
     #place(bottom + center, dy: -35pt)[#rect(fill: rgb("#eaeaef"), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
     #par(justify: false)[#text(size: 15pt)[An Adventure Game where players act as curious investigators of the strange and unexplained. 
     
-    They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities.
+    They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
 *Writing, Design & Layout*\
 Linus Weber
