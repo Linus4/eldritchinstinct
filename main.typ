@@ -369,7 +369,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   [Unarmed], [1d4], [n/a], [Opposed STR save to grapple.],
   [Knife, Machete, Crowbar], [1d6], [n/a], [],
   [Colt M1911], [1d6], [6], [Spend 2 (or 3) shots to deal d6 + d6 (+ d6) damage.],
-  [Stevens 311 Shotgun], [1d6], [2], [Bulky, Blast. Fire both barrels for 1d10 damage.],
+  [Stevens 311 Shotgun], [1d6], [2], [Bulky, Blast. Fire both barrels for d8+d8 damage.],
   [Fire Axe, Baseball Bat], [1d8], [n/a], [Bulky.],
   [Lee-Enfield Mk III], [1d8], [4], [Bulky. d12 when used as a sniper rifle and not under fire.],
   [Thompson Submachine Gun], [1d10], [3], [Bulky, spend 3 shots for Blast.],
@@ -590,7 +590,7 @@ Further *study* of the tome takes a few days, after which you may increase your 
 
 When you cast a spell, which you can learn from studying certain tomes, you must pay its cost and spend the specified casting time. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead.
 
-For the *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may re-roll.
+For the *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may subsequently re-roll.
 
 However, if you fail the second save without starting over, the spell is cast, but all spell costs are multiplied by d4 and the Warden rolls on the *Miscast Table*.
 
@@ -643,13 +643,17 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 *Respect*: does the NPC personally respect the PCs based on their behavior and reputation?\
 *Leverage*: do the PCs present anything that forces the NPC's hand?
 
-Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
+Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. 
+
+The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
 
 #pagebreak()
 
 === Research
 
-A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore. Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by rolling the Agenda Die.
+A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore.
+
+Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by rolling the Agenda Die.
 
 The Warden may award only partial information after a certain amount of time and allow the players to spend more time researching. In any case, the Warden should let the players know whether they have learned everything from their source.
 
@@ -700,6 +704,10 @@ The attacker rolls their weapon die and subtracts the target’s armor, then dea
 
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
 
+=== Dual Weapons
+
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. This is denoted with a plus symbol, e.g. dX+dX.
+
 #pagebreak()
 
 === Attack Modifiers
@@ -708,13 +716,13 @@ If fighting from a position of weakness (such as through cover or with bound han
 
 If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is *Enhanced*, allowing the attacker to roll 1d12 damage instead of their normal die.
 
-=== Dual Weapons
-
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result. This is denoted with a plus symbol, e.g. dX+dX.
-
 === Blast
 
-Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite.
+Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to a mass of writhing tentacles.
+
+=== Ranged Attacks
+
+Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are Impaired.
 
 === Critical Damage
 
@@ -722,7 +730,7 @@ Damage that reduces a target’s HP below zero decreases a target’s STR by the
 
 Additionally, some enemies have special abilities or effects that are triggered when their target fails a Critical Damage save.
 
-A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid (such as bandages), they will stabilize: roll a d100 on the *Wounds Table*.
+A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid (such as bandages), they will stabilize: roll a d100 on the *Wounds Table* (p. #pageref(<wounds_table>)).
 
 === Ability Score Loss
 
@@ -734,11 +742,11 @@ If a PC takes damage outside of combat, they should instead receive damage to an
 
 When a character dies, the player is free to create a new character or take control of an NPC. They join the party not long after in order to reduce downtime.
 
-=== Detachments
+=== Massive
 
-Large groups of similar combatants fighting together are treated as a single Detachment. When a Detachment takes Critical Damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+Swarms of creatures and huge monsters have the Massive quality. When a Massive creature takes Critical Damage, it is significantly weakened or changes tactics. When it reaches 0 STR, it is destroyed.
 
-Attacks against Detachments by individuals are Impaired (excluding Blast damage). Attacks against individuals by Detachments are Enhanced and deal Blast damage.
+Attacks against Massive creatures by individuals are Impaired (excluding Blast damage). Attacks against individuals by Massive creatures deal Blast damage.
 
 === Retreat
 
@@ -765,7 +773,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
   [70], [7], [Chest],
   [80], [8], [Neck],
   [90], [*Dying.* Lose 1d4 STR every 30 minutes until you receive professional medical treatment.], [9], [Head]
-)
+) <wounds_table>
 
 #pagebreak()
 
@@ -861,21 +869,30 @@ Again: allow the players to get in over their heads, then put the screws on them
 
 == Downtime
 
-In the background or between scenarios, players can do a number of things that are summarized at the table. They can
-- read tomes to increase their Mythos Knowledge or learn spells,
-- spend time with their bonds or form new ones to remove Broken notches,
-- improve an aspect of their character,
-- craft something,
-- research a topic,
-- travel somewhere,
-- make new acquaintances,
-- or earn money.
+In the background or between scenarios, you can do a number of things that are summarized at the table. You can:
+#grid(columns: 2, gutter: 5pt,
+  [
+    - Read tomes to increase your Mythos Knowledge,
+    - Spend time with your bonds or form new ones to remove Broken notches,
+    - Acquire useful gear,
+  ],
+  [
+    - Get in shape,
+    - Craft something,
+    - Research a topic,
+    - Travel somewhere,
+    - Make new acquaintances,
+    - or earn money.
+  ]
+)
 
 This can translate into gaining HP or ability score, upgrading inventory space or damage with a particular weapon, but also learning cool skills, gaining the ability to handle specific situations with ease or promoting a contact so that they can be more helpful.
 
-These are just some suggestions, and the Warden should determine the effects and the amount of time that must be spent. A good rule of thumb for the length of a downtime action is two weeks, or simply allow two downtime actions between scenarios.
+This is an opportunity to hack the game and adjust it to your liking. Ask yourself: What would you like to be capable of? What would you like to see? Then, work with the Warden to determine the effects and the amount of time that must be spent in accordance with the tone of the game that the group agreed upon.
 
-It is always a good idea to build on events of the previous scenario or on notable successes and failures of the characters.
+A good rule of thumb for the length of a downtime action is two weeks, or simply allow two downtime actions between scenarios.
+
+It is always a good idea to build on events of the previous scenario or on memorable successes and failures of the investigators. The Warden might even consider handing out free improvements rewarding courageous feats, brilliant ideas and overcoming seemingly impossible odds.
 
 === Organization
 
@@ -894,12 +911,11 @@ When you are playing a series of short and unrelated scenarios, you might want t
 - *Venomous stinger:* shoots a stinger that deals d20 damage to DEX for 20 minutes.
 
 *Mi-Go Warrior*\
-10 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8 + d8)
+6 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8 + d8)
 - Can fly and call to summon additional Mi-Go.
 
 *Shoggoth*\
-16 HP, 18 STR, 7 DEX, 5 WIL, tentacles (d6 blast)
-- Takes only d4 damage from non-blast attacks.
+8 HP, 18 STR, 7 DEX, 5 WIL, tentacles (d6), Massive
 - *Critical damage:* grapples character, deals d4 damage per round until freed.
 
 === Creating Monsters and NPCs
@@ -963,10 +979,10 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 *Writing, Design & Layout*\
 Linus Weber
 
-*Copyediting*\
+*Editing*\
 xxx
 
-*Editing*\
+*Copyediting*\
 xxx
 
 *Character Sheet*\
