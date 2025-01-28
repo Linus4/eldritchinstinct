@@ -14,7 +14,7 @@
 
 #show link: underline
 
-#show heading.where(level: 1): set text(size: 36pt, font: "New Computer Modern Uncial")
+#show heading.where(level: 1): set text(size: 38pt, font: "New Computer Modern Uncial")
 #show heading.where(level: 2): set text(size: 16pt, font: "New Computer Modern Uncial")
 
 #let pageref(label) = context {
@@ -24,16 +24,14 @@
 }
 
 #page(
-  background: image("images/cover_arthur_rackham.jpg", fit: "cover", width: 101%)
+  //background: image("images/cover_arthur_rackham.jpg", fit: "cover", width: 101%)
+  background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%)
 )[
-#place(top + center)[#rect(fill: rgb(240,240,240), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
+#place(top + center, dy: +20pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
 #heading(level: 1, outlined: false)[Eldritch Instinct]]]
-#place(top+center, dy: +42pt)[#rect(fill: rgb(240,240,240), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
+#place(top+center, dy: +63pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
 Mythos #sym.circle.filled.small Investigation #sym.circle.filled.small Action]]
 
-#align(bottom)[
-#text(size: 15pt)[*Linus Weber*]
-]
 ]
 
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
@@ -49,7 +47,7 @@ Writing, Layout and Design by Linus Weber. Copyediting by xxx.
 
 Thank you to xxx and xxx for your extensive feedback, and to all of the groups I've play-tested this with for your interest and patience.
 
-Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Koloman Moser, John Tenniel, Hubert Robert, Alphonse de Neuville, and Émile Beau.
+Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Koloman Moser, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
 
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
@@ -388,11 +386,11 @@ Investigators are confronted with life-threatening violence and mind-breaking re
 
 #pagebreak()
 
-#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi left.png", fit: "cover", width: 100%), numbering: none)[
+#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_left_color.png", fit: "cover", width: 100%), numbering: none)[
 #pagebreak()
 ]
 
-#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi right.png", fit: "cover", width: 100%), numbering: none)[
+#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_right_color.png", fit: "cover", width: 100%), numbering: none)[
 #pagebreak()
 ]
 
@@ -677,7 +675,7 @@ The Warden answers truthfully, but should make sure that characters receive info
 
 #pagebreak()
 
-#page(background: image("images/Hubert Robert - The Old Temple_cropped.png", fit: "stretch"), numbering: none)[
+#page(background: image("images/Hubert Robert - The Old Temple_cropped_color.png", fit: "stretch"), numbering: none)[
 
 #pagebreak()
 ]
