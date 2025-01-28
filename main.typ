@@ -217,7 +217,7 @@ Roll on the *Bonds Table* to determine the four most significant things that tie
   columns: (auto, auto, auto, auto, auto, auto, auto, auto),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Bonds (d20)]
@@ -237,7 +237,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, auto, auto, auto, auto, auto, auto, auto),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Motivation Ideas (d12)]
@@ -253,7 +253,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Female Names (d20)]
@@ -269,7 +269,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Male Names (d20)]
@@ -285,7 +285,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Surnames (d20)]
@@ -301,7 +301,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
       === Occupation (d20)]
@@ -319,7 +319,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     //[*d100*], [*Item*], [*d100*], [*Item*]
     table.cell(colspan: 4, align: center)[#set text(fill: white, weight: "bold")
@@ -358,7 +358,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   columns: (2fr, auto, auto, 3fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     //[*Weapon*], [*Damage*], [*Shots*], [*Special*]
     table.cell(colspan: 4, align: center)[#set text(fill: white, weight: "bold")
@@ -548,7 +548,7 @@ There are a number of possibilities to remove Broken notches.
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Panic Effect Ideas (d12)]
@@ -598,7 +598,7 @@ However, if you fail the second save without starting over, the spell is cast, b
   columns: (auto, 1fr, 1fr),
   align: horizon,
   stroke: none,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
     //[*d8*], [*Lesser spells*], [*Greater spells*]
     table.cell(colspan: 3, align: center)[#set text(fill: white, weight: "bold")
@@ -626,7 +626,7 @@ When the PCs encounter an NPC whose *reaction* to the party is not obvious, the 
 #table(
   columns: (5 * (1fr,)),
   align: center,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   stroke: none,
   table.header(
     table.cell(colspan: 5)[#set text(fill: white, weight: "bold") 
@@ -803,7 +803,7 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 #table(
   columns: (auto, auto, 1fr),
   align: horizon,
-  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(230,230,240) },
+  fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   stroke: none,
   table.header(
     table.cell(colspan: 3, align: center)[#set text(fill: white, weight: "bold")
