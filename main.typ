@@ -955,7 +955,7 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 ]
 
 #page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%), numbering: none)[
-    #place(bottom + center, dy: -35pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
+    #place(bottom + center, dy: -35pt)[#rect(fill: rgb("#eaeaef"), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
     #par(justify: false)[#text(size: 15pt)[An Adventure Game where players act as curious investigators of the strange and unexplained. 
     
     They will run from delusional cultists, hide from stalking shadows and face terrifying monstrosities.
