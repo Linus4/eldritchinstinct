@@ -4,8 +4,6 @@
   columns: 1,
 )
 
-// #set page(margin: (inside: 2.5cm, outside: 2cm, y: 1.75cm))
-
 #set text(
   //font: "Libertinus Serif",
   font: "Vollkorn",
@@ -43,7 +41,7 @@ The Mythos is a collection of stories, entities, characters and places conceived
 
 Written by Linus Weber. The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
 
-Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
+Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, Gustave Doré, Sidney Paget, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
 
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
@@ -67,7 +65,6 @@ Eldritch Instinct was written with the following design philosophies in mind:
 
 #grid(
   columns: (auto, auto),
-  //rows: 
   inset: 3pt,
   gutter: 8pt,
   [=== External Interaction], [Players interact with the game world directly through questions and descriptions instead of mechanics. Questions are gameplay.],
@@ -197,6 +194,13 @@ All PCs begin with two items from the *Gear Table* (p. #pageref(<gear_table>)) a
 
 The PC with the lowest ability score total also starts with a source of light.
 
+#place(center, dx: -30pt)[
+    #image("images/clovis-dardentor-by-leon-benett-44-f55373_cut.png", width: 50%)
+]
+#place(right, dx: -81pt, dy: +0pt)[
+  #image("images/holmes-revolver-1600-sidney-paget_cut.png", width: 10%)
+]
+
 #pagebreak()
 
 === Background and Relationships
@@ -315,7 +319,6 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   stroke: none,
   fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { rgb(225,225,245) },
   table.header(
-    //[*d100*], [*Item*], [*d100*], [*Item*]
     table.cell(colspan: 4, align: center)[#set text(fill: white, weight: "bold")
       === Gear (d100)]
   ),
@@ -552,6 +555,8 @@ There are a number of possibilities to remove Broken notches.
   [*3*], [Freeze], [*6*], [Hide], [*9*], [Faint], [*12*], [Surrender]
 )
 
+#align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 66%))
+
 #pagebreak()
 
 == Mythos Knowledge
@@ -782,8 +787,8 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 #pagebreak()
 
-#page(background: image("images/victim-feather-1600_alphonse_de_neuville.jpg", fit: "cover", width: 105%), numbering: none)[
-
+#page(background: image("images/victim-feather-1600_alphonse_de_neuville_cut.png", fit: "cover", width: 97%), numbering: none)[
+  
 #pagebreak()
 ]
 
@@ -955,6 +960,10 @@ Language, Mythos Rating (between 3 and 10)
 - Appearance and condition
 - Summary of its content
 - Suggestion for spells
+
+#place(center, dx: 105pt, dy: -80pt)[
+  #image("images/book-candle-tailpiece-1600-unknown_cut.png", width: 35%)
+]
 
 *Book of Eibon*\
 Old English, Mythos Rating 8
