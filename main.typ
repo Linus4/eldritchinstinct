@@ -43,7 +43,7 @@ The Mythos is a collection of stories, entities, characters and places conceived
 
 Written by Linus Weber. The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
 
-Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Koloman Moser, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
+Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
 
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
@@ -151,11 +151,13 @@ Eldritch Instinct was written with the following design philosophies in mind:
 
 == Character Creation
 
-=== Name, Occupation & Personality
+=== Name & Occupation
 
 First, choose or roll a *name* for your character, then their *occupation*, which informs their knowledge and potential skills (see tables on p. #pageref(<chargen_tables>)). Note however, that investigators do not hold positions of power.
 
-To make your character a bit more interesting, think about their speciality, their area of expertise in their occupation. Next, roll a d4 for each of your character’s *personality* factors and think of one detail about your investigator’s face and clothes.
+=== Specialty, Appearance & Age
+
+Elaborate on your character's _specialty_: this could be a workplace or their area of expertise. Next, make up one detail about your investigator’s face or hair and clothes. Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
 
 === Ability Scores
 
@@ -175,17 +177,9 @@ A PC's Magic Points (MP) start at the PC's WIL score and are used to cast spells
 
 A PC's Mythos Knowledge (MK) starts at 0. It represents how much a character has learned about the Mythos.
 
-=== Languages
-
-Every character understands their own native language and one other language. Choose from current languages (like French, Italian, German etc.) and ancient languages (like Greek, Latin, Arabic, etc.).
-
-=== Age
-
-Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
-
 === Contacts
 
-Every PC knows one person they trust and who helps them with favors such as research, translation or transport. Give them a name, two languages and an occupation.
+Every PC knows one person they trust and who helps them with favors such as research, translation or transport. Give them a name and an occupation.
 
 === Inventory
 
@@ -205,9 +199,9 @@ The PC with the lowest ability score total also starts with a source of light.
 
 #pagebreak()
 
-=== Backgrounds and Relationships
+=== Background and Relationships
 
-First, write a sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third player so that they can expand on the first relationship.
+First, write a short sentence about your character on the back page and pass your character sheet on to the player on your right. They add a sentence linking their character to yours and defining the relationship. Repeat this process one more time, or give your sheet to a third player so that they can expand on the first relationship.
 
 === Bonds
 
@@ -516,7 +510,7 @@ You or the Warden come up with a reaction for your character based on the curren
 
 When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight pip starting at the 4 position going clockwise as you are *Hardened*. 
 
-On a fail, cross out an Insight pip starting at the 12 position going counter-clockwise as you are *Broken* and write down a one word reminder.
+On a fail, cross out an Insight pip starting at the 12 position going counter-clockwise as you are *Broken*.
 
 === Delusions
 
@@ -578,11 +572,11 @@ Remaining Insight is removed at the Warden’s discretion – probably at the en
 
 === Tomes
 
-You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in _foreign languages_ and often provide only a partial or inaccurate understanding of the Mythos. An *Initial Reading* allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s *Mythos Rating*.
+You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in foreign languages and often provide only a partial or inaccurate understanding of the Mythos. An *Initial Reading* allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s *Mythos Rating*.
 
 Further *study* of the tome takes a few days, after which you may increase your MK by the tome’s Mythos rating. Every time, though, you must gain a Broken notch.
 
-#align(center, image("images/butterfly Koloman Moser cropped.png", width: 35%))
+#align(center, image("images/chamber-mystery-1600-hablot-knight-browne_cut.png", width: 60%))
 
 #pagebreak()
 
@@ -640,12 +634,23 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 
 *Stakes*: do the PCs ask for a lot or just a small favor?\
 *Motivation*: does the PC's proposition align with what the NPC wants?\
-*Respect*: does the NPC personally respect the PCs based on their behavior and reputation?\
+*Respect*: does the NPC personally respect the PCs?\
 *Leverage*: do the PCs present anything that forces the NPC's hand?
 
 Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. 
 
 The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
+
+#align(center)[
+  #grid(
+    columns: 2,
+    gutter: -20pt,
+    inset: -8pt,
+    
+    [#move(dy: 8pt)[#image("images/sop-cerberus-1600-george-houseman-thomas_cut.png", width: 70%)]],
+    [#image("images/maiden-magic-wand-1600-arthur-rackham_cut_nowand.png", width: 77%)]
+  )
+]
 
 #pagebreak()
 
@@ -657,7 +662,7 @@ Secondly, they require access to the information and must be able to understand 
 
 The Warden may award only partial information after a certain amount of time and allow the players to spend more time researching. In any case, the Warden should let the players know whether they have learned everything from their source.
 
-#align(center, image("images/fantastic-terrors-1600_john_tenniel.jpg", width: 75%))
+#align(center, image("images/fantastic-terrors-1600-john-tenniel_cut.jpg", width: 75%))
 
 #pagebreak()
 
