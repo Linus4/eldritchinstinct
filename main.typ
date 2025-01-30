@@ -68,7 +68,7 @@ Eldritch Instinct was written with the following design philosophies in mind:
   inset: 3pt,
   gutter: 8pt,
   [=== External Interaction], [Players interact with the game world directly through questions and descriptions instead of mechanics. Questions are gameplay.],
-  [=== Roll-Play], [Mechanics should create tense situations and force players to make tough choices. They are not a simulation.],
+  [=== Roll-Play], [Mechanics should create tense situations, both in and out of the game, and force players to make tough choices. They are not a simulation.],
   [=== Immersion], [The rules, or the absence thereof, help players immerse themselves in the game world and create verisimilitude where it matters.],
   [=== Fail Forward], [Players roll saves to avoid complications in risky situations. Don’t think of success and failure as binary options.],
   [=== Neutrality], [The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.],
@@ -168,11 +168,11 @@ A PC’s ability to avoid damage in combat through skill, stamina and luck is re
 
 === Magic Points
 
-A PC's Magic Points (MP) start at the PC's WIL score and are used to cast spells. You regenerate 1 MP per hour.
+Magic Points (MP) start at the PC's WIL score and are spent to cast spells. You regenerate 1 MP per hour.
 
 === Mythos Knowledge
 
-A PC's Mythos Knowledge (MK) starts at 0. It represents how much a character has learned about the Mythos.
+Every PC begins with 0 Mythos Knowledge (MK) and gains more through encounters with the Mythos and by studying tomes. You may spend 5 MK to re-roll one of your damage rolls or saves, unless it is a critical fail. MK is also used to cast spells.
 
 === Contacts
 
@@ -363,17 +363,17 @@ Investigators are confronted with life-threatening violence and mind-breaking re
   ),
   [*Weapon*], [*Damage*], [*Shots*], [*Special*],
   [Magazine], [n/a], [n/a], [Occupies one inventory slot unless loaded.],
-  [Unarmed], [1d4], [n/a], [Opposed STR save to grapple.],
+  [Unarmed], [1d4], [n/a], [],
   [Knife, Machete, Crowbar], [1d6], [n/a], [],
   [Colt M1911], [1d6], [6], [Spend 2 (or 3) shots to deal d6 + d6 (+ d6) damage.],
   [Stevens 311 Shotgun], [1d6], [2], [Bulky, Blast. Fire both barrels for d8+d8 damage.],
   [Fire Axe, Baseball Bat], [1d8], [n/a], [Bulky.],
-  [Lee-Enfield Mk III], [1d8], [4], [Bulky. d12 when used as a sniper rifle and not under fire.],
+  [Lee-Enfield Mk III], [1d8], [4], [Bulky. Enhanced when used as a sniper rifle and not under fire.],
   [Thompson Submachine Gun], [1d10], [3], [Bulky, spend 3 shots for Blast.],
-  [.30 Browning Machine Gun], [1d12], [4], [Mounted, Blast.],
+  [.30 Browning Machine Gun], [1d12], [4], [Mounted, Very Heavy, Blast.],
+  [Dynamite Stick], [1d6], [1], [Blast.],
+  [Molotov Cocktail], [1d4], [1], [Blast, lasts d4 rounds.],
   [Frag Grenade], [1d10], [1], [Blast.],
-  [Molotov Cocktail], [1d4], [1], [Blast, lasts 3 rounds.],
-  [Dynamite Stick], [1d6], [1], [Blast, explodes at least one round after being lit.],
   [Flamethrower], [1d8], [4], [Bulky, Blast.]
 )
 
@@ -401,13 +401,13 @@ Each of the three abilities are used in different circumstances.
 
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
 
-A 1 is always a *critical success*, and a 20 is always a *critical failure*.
+A 1 is always a *critical success*, and a 20 is always a *critical fail*.
 
 For an *opposed* save, both the PC and their opponent make a save. Whoever rolls the _highest_ number under or equal to their ability score wins the save. If both sides fail, the _highest_ result wins. Add any ability score above 20 to the result.
 
 === Difficulty
 
-When a PC is in a favorable or in a particularly difficult situation and must make a save, don’t use a mechanical solution to make success more or less likely. Rather, limit or increase the risks and possible effects purely in the fictional world.
+When a PC must make a save in a favorable or in a particularly difficult situation, don’t use a mechanical solution to make success more or less likely. Rather, limit or increase the risks and possible effects purely in the game world.
 
 === Healing
 
@@ -425,7 +425,7 @@ You track the passage of time on the Agenda Clock#footnote[Credit goes to Arnold
 
 A complication could be an encounter, an event, a change in the environment or the evil agenda advances.
 
-When a PC does something that takes *time* or attracts unwanted *attention*, roll a d6 (Agenda Die) and subtract the value from the Agenda Clock.
+When a PC does something that takes *time* or attracts unwanted *attention*, roll a d6 (Agenda Die) and subtract its result from the Agenda Clock.
 
 Examples of when you must roll the Agenda Die:
 #grid(
@@ -443,11 +443,11 @@ Examples of when you must roll the Agenda Die:
     - breaking open a door.]
 )
 
-The Agenda Die explodes - meaning every time you roll a 6, you immediately roll an additional Agenda Die and subtract its value from the Agenda Clock as well.
+The Agenda Die explodes - meaning every time you roll a 6, you immediately roll an additional Agenda Die and subtract its result from the Agenda Clock as well.
 
 When the Agenda Clock is reduced to 0 exactly, bump it back up to 3.
 
-When the Agenda Clock is bumped or reduced to 3 exactly, you either see a glimpse of the horror or a foreshadowing event for the next complication.
+When the Agenda Clock is bumped up or reduced to 3 exactly, you either see a glimpse of the horror or a foreshadowing event for the next complication.
 
 It is totally acceptable to delay the complication or foreshadowing for a little while to fit the scenario.
 
@@ -471,9 +471,9 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 
 *Warden:* As you approach the watchman silently, you recognize a treacherous sweet smell – chloroform.
 
-*Arlene:* I'll carefully pry the showcase open with my screwdriver.
+*Arlene:* I'll quickly pry the showcase open with my screwdriver.
 
-*Warden:* Roll the Agenda Die, then. _The Agenda Clock is reduced below 0._ A bell in the corner of the room starts to ring and you hear footsteps coming up the stairs.
+*Warden:* Make a DEX save. _Arlene fails the save._ Right when you crack it open, a bell in the corner of the room starts to ring and you hear footsteps coming up the stairs.
 
 *Arlene:* I put the casket in my bag and run down the corridor.
 
@@ -481,7 +481,7 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 
 *Rosalie:* Let’s hide in one of the rooms, wait for him to run past and then go back the other way.
 
-*Warden:* Sounds like a WIL save to me. _Arlene fails, but Rosalie scores a critical success._ The watchman runs straight past Rosalie, but notices Arlene’s bag sticking out behind the corner just in time. There are a few rows of these queue line dividers between you and the exit. Rosalie, you are already quite far ahead, do you want to help Arlene out?
+*Warden:* Sounds like a WIL save to me. _Arlene fails, but Rosalie scores a critical success._ The watchman runs straight past Rosalie, but just notices Arlene’s bag sticking out behind the corner. There are a few rows of these queue line dividers between you and the exit. Rosalie, you are already quite far ahead, do you want to help Arlene out?
 
 *Rosalie:* Yes, I will hold up the last divider for her.
 
@@ -501,25 +501,19 @@ You gain a certain amount of Insight from seeing the Unnatural, like a corpse, a
 
 Fill in the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
 
-If you gain 5 or more Insight in one go or if you cannot fill enough Insight pips, make an *Insight Save*.
+If you gain 5 or more Insight in one go or if you cannot fill enough Insight pips, make an Insight Save.
 
 === Insight Save
 
-When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight pip or a *Hardened* notch, you keep it together. If it hits a filled-in pip or a *Broken* notch, you panic.
+When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight pip or a Hardened notch, you keep it together. If it hits a filled-in pip or a Broken notch, you panic.
 
-=== Panic
+=== Panic & Notches
 
-You or the Warden come up with a reaction for your character based on the current situation, their background and their experiences. It should be disruptive, last for a few rounds (d4) and have them end up in a tough spot.
+You or the Warden come up with a reaction for your character (see *Panic Effect Ideas*). The reaction should be disruptive, last for a few rounds (d4) and have your character end up in a tough spot.
 
 When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight pip starting at the 4 position going clockwise as you are *Hardened*. 
 
 On a fail, cross out an Insight pip starting at the 12 position going counter-clockwise as you are *Broken*.
-
-=== Delusions
-
-If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality - especially when showing you a glimpse of the horror. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
-
-#pagebreak()
 
 === Broken
 
@@ -529,16 +523,22 @@ When you cross out an Insight pip that is already Hardened, it counts as Broken 
 
 If you gain a Broken notch but cannot cross out another Insight pip, you permanently lose control of your character.
 
+#pagebreak()
+
 === Hardened
 
 PCs start with three Hardened notches. Every three additional Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss.
+
+=== Delusions
+
+If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality - especially when showing you a glimpse of the horror. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
 
 === Getting Better
 
 There are a number of possibilities to remove Broken notches.
 
-*Self-help*: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical failure, lose your bond and gain a Broken notch.\
-*Sanatorium*: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical failure, gain a Broken notch.\
+*Self-help*: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
+*Sanatorium*: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical fail, gain a Broken notch.\
 *Cover traces*: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
 
 #table(
@@ -555,15 +555,15 @@ There are a number of possibilities to remove Broken notches.
   [*3*], [Freeze], [*6*], [Hide], [*9*], [Faint], [*12*], [Surrender]
 )
 
-#align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 66%))
+#align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 80%))
 
 #pagebreak()
 
 == Mythos Knowledge
 
-Mythos Knowledge represents how much your character has learned and internalized from their encounters with and studies of the Mythos.
+Mythos Knowledge (MK) represents how much your character has learned and internalized from their encounters with and studies of the Mythos.
 
-You may spend 5 Mythos Knowledge (MK) to re-roll one of your damage rolls or saves, unless it is a critical failure.
+You may spend 5 MK to re-roll one of your damage rolls or saves, unless it is a critical fail.
 
 === Mythos Knowledge Save
 
@@ -589,7 +589,7 @@ Further *study* of the tome takes a few days, after which you may increase your 
 
 When you cast a spell, which you can learn from studying certain tomes, you must pay its cost and spend the specified casting time. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead.
 
-For the *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may subsequently re-roll.
+For its *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may subsequently re-roll.
 
 However, if you fail the second save without starting over, the spell is cast, but all spell costs are multiplied by d4 and the Warden rolls on the *Miscast Table*.
 
@@ -607,11 +607,11 @@ However, if you fail the second save without starting over, the spell is cast, b
   [*1*], [Small or weak life forms wither and die.], [Mind shattering visions. Gain 6 Broken notches.],
   [*2*], [Unbearable stench.], [Your body and face contort permanently.],
   [*3*], [Moon and stars vanish. Or total solar eclipse.], [Devastating thunderstorm and tides.],
-  [*4*], [Gusts of wind, rumbling, strange lights in the sky.], [Your eyes change as you are possessed.],
+  [*4*], [Gusts of wind, rumbling, strange lights in the sky.], [Your eyes mutate as you are possessed.],
   [*5*], [Loud and horrible screams.], [Large and deep sinkholes form.],
   [*6*], [Your skin rots and forms pustules.], [Large area bursts into flames.],
-  [*7*], [A Mythos creature is summoned.], [A horde of Mythos creatures is summoned.],
-  [*8*], [Foul mist spreads around you.], [Something or someone dear to the caster is annihilated.],
+  [*7*], [A Mythos creature is summoned.], [Gate to another planet opens.],
+  [*8*], [Foul mist spreads around you.], [Everything dear to the caster is annihilated (contacts, bonds).],
 )
 
 #pagebreak()
@@ -642,7 +642,7 @@ When the PCs try to get a favor or information from an NPC, consider the followi
 *Respect*: does the NPC personally respect the PCs?\
 *Leverage*: do the PCs present anything that forces the NPC's hand?
 
-Most social encounters can be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. 
+Social encounters can usually be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. 
 
 The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
 
@@ -661,11 +661,11 @@ The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curi
 
 === Research
 
-A PC can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, they need to state a question they want answered, or a topic they want to explore.
+You can do research by talking to strangers in bars, studying books in a library or scouring through records in an archive. First, you need to state a question you want answered, or a topic you want to explore.
 
-Secondly, they require access to the information and must be able to understand the language. When these conditions are met, the PC only needs time in order to get answers, which is represented by rolling the Agenda Die.
+Secondly, you require access to the information and must be able to understand the language or have someone translate it for you. When these conditions are met, you only need time in order to get answers, which is represented by rolling the Agenda Die.
 
-The Warden may award only partial information after a certain amount of time and allow the players to spend more time researching. In any case, the Warden should let the players know whether they have learned everything from their source.
+The Warden may award only partial information after a certain amount of time and allow you to spend more time researching. In any case, the Warden should let you know whether you have learned everything from your source.
 
 #align(center, image("images/fantastic-terrors-1600-john-tenniel_cut.jpg", width: 75%))
 
@@ -794,7 +794,7 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 == Chases
 
-During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical failure yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or 2 points to catch their opponent.
+During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical fail yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or 2 points to catch a fugitive.
 
 === Helping others escape
 
@@ -858,21 +858,21 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 
 In Eldritch Instinct, players get ahead by using their environment, the game world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting _on their own_. Allow the players to _get in over their heads_, then put the screws on them.
 
-Stealth and deception is a complex area of play: what is the player trying to do? Does their character have occupational training that would help? How does the environment look like? Are the opponents on alert?
-
 Simple situations can usually be resolved with the Agenda Die, with a save or just within the fiction. In more complex situations, however, you should zoom in and draw out the decision whether a PC is detected or remains hidden.
 
-Two concepts you should always have in mind when adjudicating actions in hazardous situations are risk and effect. When the PC has everything under control and the stakes are low, they may be able to back out of their attempt on a fail or deal with a minor complication in order to remain undetected.
+Two concepts you should always have in mind are risk and effect. When the PC has everything under control and the stakes are low, they may be able to back out of their attempt on a fail or deal with a minor complication in order to remain undetected.
 
-Usually though, a PC should already be much more committed and face greater risks when you ask for a roll as they must deal with an unexpected obstacle. Failure in such a situation does not necessarily mean that the PC is detected outright, but they might find themselves in a seriously desperate position.
+Usually though, a PC should already be much more committed when you put an unexpected obstacle before them. Failure in such a situation does not necessarily mean that the PC is detected outright, but they might find themselves in a seriously desperate position.
 
 Again: allow the players to get in over their heads, then put the screws on them. How long are the investigators able to remain hidden before a fight breaks out or they have to run away? Players should feel vulnerable, it should be a pressure cooker, but they should also expect to be able to get reasonably far with a stealthy or deceptive approach.
 
+#pagebreak()
+
 === Illustrative Situations
 
-1. The investigators move through a forest as they notice a cultist patrol that is looking for them. The players decide to hide behind the trees and stay quiet. The PCs are in a great position, as the environment offers places to hide in, the players noticed the cultists early and the cultists are not aware of the investigators’ presence. Every player makes a DEX save, and on a critical failure, that player is detected or there is a major compromise. (*Don’t roll a 20!*)
-2. The investigators must get through a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. The best case outcome is that shortly after passing the checkpoint, a couple of cultists become aware of them and order them to halt. In order to improve their odds, they could go looking for drying clothes in the neighborhood to disguise themselves, rolling the Agenda Die and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
-3. The investigator carrying an ancient artifact is being pursued by an unnatural creature and has just turned the corner into another room. The Warden could offer a number of choices: leave the artifact behind and escape safely; hide in the wardrobe with an 80 % probability, but on a fail the creature is right in front of you; or hide behind the door with a 40 % probability, but on a fail the creature is almost out of the other door before it notices you. (*Offer decisions*)
+1. The investigators break into a warehouse as the criminal proprietors return. The players decide to hide behind the crates and stay quiet. There are plenty of places to hide and the criminals will just quickly drop something off. Every player makes a DEX save, and on a critical fail, their PC is detected or there is a major compromise. (*Don’t roll a 20!*)
+2. The investigators must pass a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. In order to improve their odds, they go looking for drying clothes in the neighborhood to disguise themselves, rolling the Agenda Die and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
+3. The investigator carrying an ancient artifact is being pursued by an undead mummy and has just turned the corner into another room. The Warden could offer a number of alternatives to running away: leave the artifact behind and escape safely; hide in a big urn with a 5-in-6 chance, but on a fail you are trapped; or hide behind a statue with a 3-in-6 chance, but on a fail the mummy stands between you and the exit, forcing you back into the pyramid. (*Offer choices*)
 4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in regardless and peek through the windows. Failing a DEX save, an approaching patrol forces them deeper into the compound on their own. (*Raise the stakes*)
 
 #pagebreak()
@@ -994,7 +994,7 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 Linus Weber
 
 *Editing*\
-xxx
+Carl Apostle | CrlBox
 
 *Copyediting*\
 xxx
