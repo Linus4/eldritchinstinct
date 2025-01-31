@@ -12,7 +12,7 @@
 
 #show link: underline
 
-#show heading.where(level: 1): set text(size: 38pt, font: "New Computer Modern Uncial")
+#show heading.where(level: 1): set text(size: 58pt, font: "New Computer Modern Uncial")
 #show heading.where(level: 2): set text(size: 16pt, font: "New Computer Modern Uncial")
 
 #let pageref(label) = context {
@@ -25,10 +25,10 @@
   //background: image("images/cover_arthur_rackham.jpg", fit: "cover", width: 101%)
   background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%)
 )[
-#place(top + center, dy: +20pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
-#heading(level: 1, outlined: false)[Eldritch Instinct]]]
-#place(top+center, dy: +63pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
-Cosmic Horror & Pulp Action]]
+#place(top + center, dy: +30pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
+#par(leading: 0.2em)[#heading(level: 1, outlined: false)[Eldritch Instinct]]]]
+#place(top+center, dy: +138pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
+#text(size: 14pt)[Cosmic Horror & Pulp Action]]]
 ]
 
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
