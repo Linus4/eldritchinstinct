@@ -25,11 +25,10 @@
   //background: image("images/cover_arthur_rackham.jpg", fit: "cover", width: 101%)
   background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%)
 )[
-#place(top + center, dy: +20pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
+#place(top + center, dy: +20pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
 #heading(level: 1, outlined: false)[Eldritch Instinct]]]
-#place(top+center, dy: +63pt)[#rect(fill: /*rgb(240,240,240)*/ rgb("#eaeaef"), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
-Mythos #sym.circle.filled.small Investigation #sym.circle.filled.small Action]]
-
+#place(top+center, dy: +63pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
+Cosmic Horror & Pulp Action]]
 ]
 
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
@@ -68,7 +67,7 @@ Eldritch Instinct was written with the following design philosophies in mind:
   inset: 3pt,
   gutter: 8pt,
   [=== External Interaction], [Players interact with the game world directly through questions and descriptions instead of mechanics. Questions are gameplay.],
-  [=== Roll-Play], [Mechanics should create tense situations, both in and out of the game, and force players to make tough choices. They are not a simulation.],
+  [=== Roll-Play], [Mechanics should create exciting situations, both in and out of the game, and force players to make tough choices. They are not a simulation.],
   [=== Immersion], [The rules, or the absence thereof, help players immerse themselves in the game world and create verisimilitude where it matters.],
   [=== Fail Forward], [Players roll saves to avoid complications in risky situations. Don’t think of success and failure as binary options.],
   [=== Neutrality], [The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.],
@@ -90,7 +89,7 @@ Eldritch Instinct was written with the following design philosophies in mind:
 
 === Atmosphere
 - Prepare to die; combat is extremely quick and violent. Make your last moments count and revel in your investigator's tragic demise.
-- Describe your actions in a colorful way and riff off of your investigator’s occupation in the way you approach situations and describe your actions.
+- Riff off of your investigator's occupation in the way you approach situations and describe your actions.
 
 === Planning
 - Think of ways to avoid your obstacles and to stack the odds in your favor through reconnaissance, subtlety, and fact-finding.
@@ -140,7 +139,7 @@ Eldritch Instinct was written with the following design philosophies in mind:
 - Make sure to leave space for interaction between investigators.
 
 === Expectations
-- Before playing, establish shared expectations with your players using Patrick O'Leary’s #link("https://200wordrpg.github.io/2016/supplement/2016/04/12/CATS.html")[CATS method]. Concept: Pitch this game and show them the principles. Aim: Explain what the players are trying to accomplish. Tone: Come to a consensus on what the group wants. Subject Matter: Is there something that could make anyone uncomfortable? Discuss what boundaries need to be set, if any.
+- Before playing, establish shared expectations with your players using P. R. O'Leary's #link("https://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual")[CATS method] which stands for Concept, Aim, Tone and Subject Matter. At only 200 words, the article is well worth reading.
 - Prepare a strong introduction for your session in order to create the right mood, pull your players into the game world and serve as an example for the players.
 - Your goal is not to explicitly scare your players, but to create an immersive, eerie atmosphere and to build tension.
 
@@ -728,7 +727,7 @@ If fighting from a position of advantage (such as against a helpless foe or thro
 
 === Blast
 
-Attacks with the Blast quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to a mass of writhing tentacles.
+Attacks with the Blast quality hit all targets in the affected area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to a mass of writhing tentacles.
 
 === Ranged Attacks
 
@@ -858,22 +857,25 @@ Similar to characters, vehicles have HP and Armor, but use a different set of ab
 
 In Eldritch Instinct, players get ahead by using their environment, the game world or their gear to their advantage. They find creative solutions to obstacles, using critical thinking and making difficult decisions. Furthermore, assume that investigators are fundamentally capable of disguising themselves and remaining hidden as long as they are acting _on their own_. Allow the players to _get in over their heads_, then put the screws on them.
 
-Simple situations can usually be resolved with the Agenda Die, with a save or just within the fiction. In more complex situations, however, you should zoom in and draw out the decision whether a PC is detected or remains hidden.
+Simple situations can usually be resolved with a save, with the Agenda Die or just within the fiction. In more complex situations, however, you should zoom in and draw out the decision whether a PC is detected or remains hidden.
 
-Two concepts you should always have in mind are risk and effect. When the PC has everything under control and the stakes are low, they may be able to back out of their attempt on a fail or deal with a minor complication in order to remain undetected.
+Two concepts you should always have in mind are risk and effect. For example, when the PC has everything under control and the stakes are low, they may be able to back out of an attempt or deal with a minor complication in order to remain hidden. Otherwise, players might be detected outright or find themselves in a seriously desperate situation.
 
-Usually though, a PC should already be much more committed when you put an unexpected obstacle before them. Failure in such a situation does not necessarily mean that the PC is detected outright, but they might find themselves in a seriously desperate position.
+You don't want to ask for a save at the beginning of a stealthy action, but first allow them to proceed until they reach a critical point. Then, you put an (unexpected) obstacle in front of them which they usually overcome with a save or a more creative solution.
 
-Again: allow the players to get in over their heads, then put the screws on them. How long are the investigators able to remain hidden before a fight breaks out or they have to run away? Players should feel vulnerable, it should be a pressure cooker, but they should also expect to be able to get reasonably far with a stealthy or deceptive approach.
+How long are the investigators able to remain hidden before a fight breaks out or they have to run away? Players should feel vulnerable, it should be a pressure cooker, but they should also expect to get reasonably far with a stealthy or deceptive approach.
 
 #pagebreak()
 
 === Illustrative Situations
 
-1. The investigators break into a warehouse as the criminal proprietors return. The players decide to hide behind the crates and stay quiet. There are plenty of places to hide and the criminals will just quickly drop something off. Every player makes a DEX save, and on a critical fail, their PC is detected or there is a major compromise. (*Don’t roll a 20!*)
-2. The investigators must pass a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists would surely recognize strangers. In order to improve their odds, they go looking for drying clothes in the neighborhood to disguise themselves, rolling the Agenda Die and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
-3. The investigator carrying an ancient artifact is being pursued by an undead mummy and has just turned the corner into another room. The Warden could offer a number of alternatives to running away: leave the artifact behind and escape safely; hide in a big urn with a 5-in-6 chance, but on a fail you are trapped; or hide behind a statue with a 3-in-6 chance, but on a fail the mummy stands between you and the exit, forcing you back into the pyramid. (*Offer choices*)
-4. The investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in regardless and peek through the windows. Failing a DEX save, an approaching patrol forces them deeper into the compound on their own. (*Raise the stakes*)
+1. The investigators are breaking into a warehouse as the criminal proprietors return. The players decide to hide behind stacks of crates and stay quiet. There are plenty of places to hide and the criminals will just quickly drop something off. Every player makes a DEX save, and on a critical fail, their PC is detected or there is a major compromise. (*Don’t roll a 20!*)
+
+2. The investigators must pass a cultist checkpoint to leave the village before they are caught and used as human sacrifice. Just going through the checkpoint hoping for the best would be extremely risky as the cultists surely recognize strangers. In order to improve their odds, they go looking for drying clothes in the neighborhood to disguise themselves, rolling the Agenda Die and possibly dealing with other minor obstacles along the way. (*Multi-stage plan*)
+
+3. An investigator carrying an ancient artifact is being pursued by an undead mummy and has just turned the corner into another room. Quickly scanning the room, they identify a number alternatives to running away: leave the artifact behind and escape safely; hide in a big urn with a 4-in-6 chance, but on a fail they are trapped inside; or hide behind a statue with a 2-in-6 chance, but on a fail the mummy stands between them and the exit, forcing the investigator back into the pyramid. (*Offer choices*)
+
+4. An investigator is scouting out a cult compound on the outskirts of town, but regular patrols make it difficult to gather more valuable intel. They decide to sneak in regardless and peek through the windows. Failing a DEX save, an approaching patrol forces them deeper into the compound on their own. (*Raise the stakes*)
 
 #pagebreak()
 
@@ -917,15 +919,15 @@ When you are playing a series of short and unrelated scenarios, you might want t
 - Some cultists know spells.
 
 *Deep One Youngling*\
-3 HP, 1 Armor, 5 STR, 11 DEX, 4 WIL, bite (d6)
+3 HP, 1 Armor, 5 STR, 11 DEX, 4 WIL, bite (d6), INS 1/1d4
 - *Venomous stinger:* shoots a stinger that deals d20 damage to DEX for 20 minutes.
 
 *Mi-Go Warrior*\
-6 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8 + d8)
+6 HP, 2 Armor, 14 STR, 7 DEX, 8 WIL, claws (d8), INS 1/1d6
 - Can fly and call to summon additional Mi-Go.
 
 *Shoggoth*\
-8 HP, 18 STR, 7 DEX, 5 WIL, tentacles (d6), Massive
+8 HP, 18 STR, 5 DEX, 6 WIL, tentacles (d6), Massive, INS 1d6/1d12
 - *Critical damage:* grapples character, deals d4 damage per round until freed.
 
 === Creating Monsters and NPCs
@@ -933,7 +935,7 @@ When you are playing a series of short and unrelated scenarios, you might want t
 Use the following template to model any more sophisticated monster or NPC:
 
 *Name*\
-X HP, X Armor, X STR, X DEX, X WIL, weapon (dX)
+X HP, X Armor, X STR, X DEX, X WIL, weapon (dX), INS X/X
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
@@ -943,9 +945,9 @@ Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 
 
 Use critical damage to lean into the threat or strangeness of any aggressive NPC. Remember that HP is Hit Protection, not Hit Points. It’s a measure of resilience, luck, and gumption - not health.
 
-If monsters have cool abilities or special effects, they usually just happen. Sometimes though, Wardens might want to telegraph such abilities and give PCs the opportunity to avoid the effects.
+If monsters have cool abilities or special effects, they usually just happen. However, Wardens should telegraph particularly dangerous abilities and give PCs an opportunity to avoid the effects.
 
-Remember that PCs usually have 4 HP and no Armor. Most human opponents deal d6 damage and most monsters deal d8 damage. Give particularly strong opponents multiple attacks, special effects, critical damage or sometimes even d10 or more damage.
+Remember that PCs usually have 4 HP and no Armor. Most human opponents deal d6 damage and most monsters deal d8 damage. Give particularly strong opponents interesting special abilities, critical damage effects, Blast or the Massive quality, but don't go overboard with the damage.
 
 === Converting from other Systems
 
@@ -985,7 +987,7 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 ]
 
 #page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%), numbering: none)[
-    #place(bottom + center, dy: -35pt)[#rect(fill: rgb("#eaeaef"), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
+    #place(bottom + center, dy: -35pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
     #par(justify: false)[#text(size: 15pt)[An Adventure Game where players act as curious investigators of the strange and unexplained. 
     
     They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
