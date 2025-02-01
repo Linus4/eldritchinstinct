@@ -436,10 +436,10 @@ Examples of when you must roll the Agenda Die:
     - travelling to another location,
     - searching for something,
     - resting to restore lost HP,
-    - convincing a reluctant NPC,],
+    - doing research or reading tomes,],
   [
-    - doing research or reading tomes,
     - crafting or preparing a trap,
+    - waiting to let time pass,
     - getting the authorities involved,
     - breaking open a door.]
 )
