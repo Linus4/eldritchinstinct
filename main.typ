@@ -153,9 +153,9 @@ Eldritch Instinct was written with the following design philosophies in mind:
 
 First, choose or roll a *name* for your character, then their *occupation*, which informs their knowledge and potential skills (see tables on p. #pageref(<chargen_tables>)). Note however, that investigators do not hold positions of power.
 
-=== Specialty, Appearance & Age
+=== Speciality, Appearance & Age
 
-Elaborate on your character's _specialty_: this could be a workplace or their area of expertise. Next, make up one detail about your investigator’s face or hair and clothes. Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
+Elaborate on your character's _speciality_: this could be a workplace or their area of expertise. Next, make up one detail about your investigator’s face or hair and clothes. Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
 
 === Ability Scores
 
