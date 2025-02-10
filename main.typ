@@ -178,7 +178,7 @@ Magic Points (MP) start at the PC's WIL score and are spent to cast spells. You 
 
 === Mythos Knowledge
 
-Every PC begins with 0 Mythos Knowledge (MK) and gains more through encounters with the Mythos and by studying tomes. You may spend 5 MK to re-roll one of your damage rolls or saves, unless it is a critical fail. MK is also used to cast spells.
+Every PC begins with 0 Mythos Knowledge (MK) and gains more through encounters with the Mythos and by studying tomes. You may spend 5 MK to re-roll one of your damage rolls or saves, unless it is a critical fail.
 
 === Contacts
 
