@@ -710,7 +710,7 @@ When you are playing a series of short and unrelated scenarios, you might want t
 ## Bestiary
 
 **Cultist**\
-34 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
+3 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
 - Some cultists know spells.
 
 **Deep One Youngling**\
