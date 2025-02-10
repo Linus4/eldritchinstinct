@@ -505,7 +505,7 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 == Insight
 
 This is the pivotal mechanic of the game tracking both your exposure to the Mythos in the short term and long-term changes to your resolve. 
-You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain. _For example, you gain INS 1/1d4+1 when you find a mutilated human corpse._
+You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain. _For example, you gain INS 1 / 1d4+1 (reduced / full) when you find a mutilated human corpse._
 
 #grid(
   columns: (2fr, 1fr),
@@ -562,9 +562,9 @@ If you’ve gained a Broken notch within the last 24 hours, the Warden might pre
 
 There are a number of possibilities to remove Broken notches.
 
-*Self-help*: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
-*Sanatorium*: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical fail, gain a Broken notch.\
-*Cover traces*: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
+*Self-help:* When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
+*Sanatorium:* You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical fail, gain a Broken notch.\
+*Cover traces:* Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
 
 #align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 95%)) // TODO 80%
 
@@ -813,6 +813,7 @@ If a PC has 2 or more points at the start of the third obstacle, they may help a
 If a PC is carrying something heavy such as a critically injured character, they must score an additional point and can only help someone else if they have at least 3 points at the start of the third obstacle.
 
 === Longer Chases
+
 If you want to draw out the chase, do five rounds total and require PCs to score an additional point. In order to help others escape, a PC must have at least 3 points at the start of the fifth obstacle.
 
 === Chases with Vehicles
