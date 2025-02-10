@@ -38,16 +38,21 @@
 *Eldritch Instinct* is an #link("https://questingblog.com/adventure-game-vs-osr/")[adventure game] for one facilitator (the *Warden*) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
-The Mythos is a collection of stories, entities, characters and places conceived by Howard Phillips Lovecraft with contributions from his contemporary authors such as Clark Ashton Smith, Robert E. Howard and Robert Bloch. Since then, many authors, directors, artists and scenario designers have contributed their, often contradictory, ideas to the Mythos.
+Brace yourself for a blend of horrifying cosmic horror and adrenaline pumping action, where the _players_ rather than their characters do the investigating. Uncover mysteries and acquire forbidden knowledge in a quest to foil the sinister Mythos agenda. Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
 
-Written by Linus Weber. The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
+The Mythos is a collection of stories originally conceived by Howard Phillips Lovecraft such as The Dunwich Horror or The Shadow Over Innsmouth. Since then, many authors, directors, artists and scenario designers have contributed their own ideas to the Mythos.
 
-Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, Gustave Doré, Sidney Paget, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.
+#align(center)[#line(length: 65%, stroke: 0.3pt)]
+
+#text(size: 9pt)[
+  Written by Linus Weber. The Eldritch Instinct SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC-BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[Cairn] SRD (cairnrpg.com).
+  
+  Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Featuring public domain art by: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, Gustave Doré, Sidney Paget, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville in order of appearance.]
 
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
 ])
-#align(center)[#text(fill: white)[Version 0.8 #sym.circle.filled.small January 2025]]
+#align(center)[#text(fill: white)[Version 0.8 #sym.circle.filled.small February 2025]]
 
 #pagebreak()
 ]
@@ -455,6 +460,7 @@ It is totally acceptable to delay the complication or foreshadowing for a little
 #pagebreak()
 
 == Example of Play
+<example_of_play>
 
 Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a Mayan artifact at the Miskatonic Prehistorical Museum.
 
@@ -498,49 +504,27 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 
 == Insight
 
-You gain a certain amount of Insight from seeing the Unnatural, like a corpse, a monster, or other horrifying evidence of the Mythos. When you do, make a WIL save to reduce the amount of Insight you gain (denoted by INS X/X, e.g. INS 1/1d4).
+This is the pivotal mechanic of the game tracking both your exposure to the awful truth in the short term and long-term changes to your resolve. 
+You gain Insight from seeing the Unnatural, like a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain (written INS 1/1d4).
 
-Fill in the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
+#grid(
+  columns: (2fr, 1fr),
+  gutter: 4pt,
+  [
+    Cross out the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
 
-If you gain 5 or more Insight in one go or if you cannot fill enough Insight pips, make an Insight Save.
+If you gain 5 or more Insight in one go or if you cannot cross out enough Insight pips, make an *Insight Save*.
+  ],
+  [#image("images/insight-circle.png", width: 80%)]
+)
 
 === Insight Save
 
-When you experience something mind-shatteringly dreadful, roll 1d12. If it hits an empty Insight pip or a Hardened notch, you keep it together. If it hits a filled-in pip or a Broken notch, you panic.
+When you experience something mind-shatteringly dreadful, roll a d12. If it hits an empty Insight pip or a *Hardened* notch, you keep it together. If it hits a crossed-out pip or a *Broken* notch, you panic.
 
-=== Panic & Notches
+=== Panic
 
-You or the Warden come up with a reaction for your character (see *Panic Effect Ideas*). The reaction should be disruptive, last for a few rounds (d4) and have your character end up in a tough spot.
-
-When you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent box around an Insight pip starting at the 4 position going clockwise as you are *Hardened*. 
-
-On a fail, cross out an Insight pip starting at the 12 position going counter-clockwise as you are *Broken*.
-
-=== Broken
-
-Pips with a Broken notch cannot be filled when gaining Insight.
-
-When you cross out an Insight pip that is already Hardened, it counts as Broken until you remove the Broken notch.
-
-If you gain a Broken notch but cannot cross out another Insight pip, you permanently lose control of your character.
-
-#pagebreak()
-
-=== Hardened
-
-PCs start with three Hardened notches. Every three additional Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss.
-
-=== Delusions
-
-If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality - especially when showing you a glimpse of the horror. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
-
-=== Getting Better
-
-There are a number of possibilities to remove Broken notches.
-
-*Self-help*: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
-*Sanatorium*: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical fail, gain a Broken notch.\
-*Cover traces*: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
+You or the Warden come up with a reaction for your character. The reaction should be disruptive and last for d4 rounds or a few minutes.
 
 #table(
   columns: (auto, 1fr, auto, 1fr, auto, 1fr, auto, 1fr),
@@ -556,19 +540,41 @@ There are a number of possibilities to remove Broken notches.
   [*3*], [Freeze], [*6*], [Hide], [*9*], [Faint], [*12*], [Surrender]
 )
 
-#align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 80%))
+After you’ve had a chance to calm down, make a WIL save. On a success, draw a _square_ with a permanent marker around an Insight pip starting at the 4 position going clockwise as your resolve is Hardened. 
+
+On a fail, _fill in_ an Insight pip with a pencil starting at the 12 position going counter-clockwise as your resolve is Broken.
+
+#pagebreak()
+
+=== Broken
+
+Pips with a Broken notch cannot be crossed out when gaining Insight. If you gain a Broken notch but cannot fill in another Insight pip, you permanently lose control of your character.
+
+==== Hardened
+
+PCs start with three Hardened notches. Every three additional Hardened notches, you lose one of your bonds. At a reasonable point in time, narrate a small vignette describing your loss.
+
+=== Delusions
+
+If you’ve gained a Broken notch within the last 24 hours, the Warden might present you a twisted version of reality - especially when showing you a glimpse of the horror. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
+
+=== Getting Better
+
+There are a number of possibilities to remove Broken notches.
+
+*Self-help*: When you spend time with one of your bonds, make a WIL save. On a success, remove a Broken notch. Otherwise, lose your bond. On a critical fail, lose your bond and gain a Broken notch.\
+*Sanatorium*: You may commit yourself to a sanatorium. At the end of each year, make a WIL save. On a success, remove a Broken notch. On a critical fail, gain a Broken notch.\
+*Cover traces*: Once per scenario, if you have personally suppressed knowledge of the Mythos (e.g. burning tomes or dealing with witnesses), remove a Broken notch on a successful WIL save.
+
+#align(center, image("images/water-reptile-1600_gustave_dore_cut_fade.png", width: 95%)) // TODO 80%
 
 #pagebreak()
 
 == Mythos Knowledge
 
-Mythos Knowledge (MK) represents how much your character has learned and internalized from their encounters with and studies of the Mythos.
+Investigators become more capable as they acquire Mythos Knowledge (MK) through encounters with the Mythos or studies of ancient tomes and ungodly scriptures.
 
-You may spend 5 MK to re-roll one of your damage rolls or saves, unless it is a critical fail.
-
-=== Mythos Knowledge Save
-
-Roll a d100 under or equal to your MK score plus your current Insight score.
+You may spend 5 MK to *re-roll* one of your damage rolls or saves, unless it is a critical fail: You were prepared for this kind of situation and might be able to turn your luck around. Keep the new result even if it is worse than the previous one.
 
 === Keeping a Journal
 
@@ -578,21 +584,21 @@ Remaining Insight is removed at the Warden’s discretion – probably at the en
 
 === Tomes
 
-You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in foreign languages and often provide only a partial or inaccurate understanding of the Mythos. An *Initial Reading* allows the reader to get an overview of the knowledge that is contained in the tome. The reader gains Insight equal to the tome’s *Mythos Rating*.
+You can acquire knowledge of the Mythos through the study of ancient tomes, most of which were written in foreign languages and often provide only a partial or inaccurate understanding of the Mythos.
 
-Further *study* of the tome takes a few days, after which you may increase your MK by the tome’s Mythos rating. Every time, though, you must gain a Broken notch.
+When you read a tome during an ongoing scenario, gain Insight equal to the tome's *Mythos Rating*, which is a value between 3 and 10. Further study during Downtime (p. #pageref(<downtime>)) directly increases your MK by the tome's Mythos Rating, but you also gain a Broken notch.
 
-#align(center, image("images/chamber-mystery-1600-hablot-knight-browne_cut.png", width: 60%))
+#place(center+bottom, dy: -15pt)[#image("images/chamber-mystery-1600-hablot-knight-browne_cut.png", width: 75%)]
 
 #pagebreak()
 
 === Spells
 
-When you cast a spell, which you can learn from studying certain tomes, you must pay its cost and spend the specified casting time. If you cast a spell, but do not have sufficient MP, subtract the remainder from your STR instead.
+When you cast a spell, which you can learn from studying certain tomes, you must pay its cost and spend the specified casting time (see p. #pageref(<bestiary_spell>)). If you do not have sufficient Magic Points (MP), subtract the remainder from your STR instead.
 
-For its *First Evocation*, you must also make a MK save that you cannot re-roll by spending MK. On a fail, you must either start over and learn the spell from scratch, or you make a second MK save which you may subsequently re-roll.
+==== First Evocation
 
-However, if you fail the second save without starting over, the spell is cast, but all spell costs are multiplied by d4 and the Warden rolls on the *Miscast Table*.
+The first time you cast a particular spell, you must also make a WIL save. Even on a fail, the spell is cast, but all spell costs are multiplied by d4 and the Warden rolls on the *Miscast Table*.
 
 #table(
   columns: (auto, 1fr, 1fr),
@@ -636,16 +642,17 @@ When the PCs encounter an NPC whose *reaction* to the party is not obvious, the 
   [Hostile], [Wary], [Curious], [Kind], [Helpful]
 )
 
-When the PCs try to get a favor or information from an NPC, consider the following factors:
+When the investigators ask for a favor or information from an NPC, consider the following factors:
 
-*Stakes*: do the PCs ask for a lot or just a small favor?\
-*Motivation*: does the PC's proposition align with what the NPC wants?\
-*Respect*: does the NPC personally respect the PCs?\
-*Leverage*: do the PCs present anything that forces the NPC's hand?
-
-Social encounters can usually be resolved by critical thinking. Sometimes, however, the NPC's reaction is unclear. In this case, the Warden makes another reaction roll and applies a modifier between -4 and +4 to the result, based on the four factors. 
-
-The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curious' (6-8), the NPC can still be convinced given some time or a better offer considering the four factors, but if the result is 'wary' (3-5), it takes a lot more for the NPC to agree.
+#grid(
+  columns: (auto, auto),
+  inset: 3pt,
+  gutter: 8pt,
+  [*Stakes*], [Do the PCs ask for a lot or just a small favor? Could this get the NPC in trouble?],
+  [*Motivation*], [Does the PC's proposition align with what the NPC wants? What will the NPC receive in return?],
+  [*Respect*], [Does the NPC personally respect the PCs? Do they have a good reputation?],
+  [*Leverage*], [Do the PCs present anything that forces the NPC's hand? Are they blackmailing the NPC?],
+)
 
 #align(center)[
   #grid(
@@ -653,8 +660,8 @@ The NPC agrees if the result is 'kind' or 'helpful' (9+). If the result is 'curi
     gutter: -20pt,
     inset: -8pt,
     
-    [#move(dy: 8pt)[#image("images/sop-cerberus-1600-george-houseman-thomas_cut.png", width: 70%)]],
-    [#image("images/maiden-magic-wand-1600-arthur-rackham_cut_nowand.png", width: 77%)]
+    [#move(dy: 8pt)[#image("images/sop-cerberus-1600-george-houseman-thomas_cut.png", width: 80%)]],
+    [#image("images/maiden-magic-wand-1600-arthur-rackham_cut_nowand.png", width: 87%)]
   )
 ]
 
@@ -795,29 +802,29 @@ Running away from a dire situation always requires a successful DEX save, as wel
 
 == Chases
 
-During a chase, the PCs are confronted with three critical obstacles. The PCs make a save for each obstacle. Rolling a critical fail yields -1 point, a fail yields 0 points, a success yields 1 point and critical success yields 2 points. A PC needs 1 point at the end of the chase in order to escape or 2 points to catch a fugitive.
+As a framework, split the chase into three scenes during each of which the PCs are confronted with a critical obstacle. Every PC makes a save for each obstacle to see whether it slows them down or if they gain ground. Rolling a critical fail yields -1 point, a fail yields 0 points, a success yields 1 point and a critical success yields 2 points. At the end of the chase, a PC needs 1 point in order to escape or 2 points to catch a fugitive. For an example of this procedure, refer to page #pageref(<example_of_play>).
 
 === Helping others escape
 
-If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC. The result of their third save is added to the points of the slow PC. If the slow PC does not have the required amount of points at the end, both PCs are caught.
+If a PC has 2 or more points at the start of the third obstacle, they may help a slow PC escape as they are already way ahead. The result of their third save is added to the points of the slow PC. If the slow PC does not have the required amount of points at the end, both PCs are caught.
 
 === Carrying something heavy
 
 If a PC is carrying something heavy such as a critically injured character, they must score an additional point and can only help someone else if they have at least 3 points at the start of the third obstacle.
-
-=== Chase Obstacles
-
-The obstacles that must be overcome should be what is in the path each fugitive chooses in the game world. Alternatively, the Warden may put one or two obstacles in the players’ way. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works.
 
 === Longer Chases
 If you want to draw out the chase, do five rounds total and require PCs to score an additional point. In order to help others escape, a PC must have at least 3 points at the start of the fifth obstacle.
 
 === Chases with Vehicles
 
-Similar to characters, vehicles have HP and Armor, but use a different set of ability scores:  Mayhem represents the vehicle's health and how hard it is to force it off the road, Handling indicates how easy it is to navigate around obstacles, and Engine represents the vehicle’s acceleration and top speed. Crashing into a vehicle reduces its Mayhem score, but PCs may go after Engine and Handling with targeted attacks. A vehicle is disabled when it takes Critical Damage, and is destroyed when its Mayhem score is reduced to 0.
+Similar to characters, vehicles have HP and Armor, but use a different set of ability scores:  Mayhem represents the vehicle's health and how hard it is to force it off the road, Handling indicates how easy it is to navigate around obstacles, and Engine represents the vehicle’s acceleration and top speed.
 
-*Ford Model T:* 10 Mayhem, 8 Handling, 7 Engine, 5 HP, 2 Armor\
+*Ford Model T:* 10 Mayhem, 8 Handling, 7 Engine, 5 HP, 1 Armor\
 *Motorcycle:* 5 Mayhem, 13 Handling, 14 Engine, 3 HP
+
+=== Chase Obstacles
+
+The obstacles that must be overcome should be what is in the path each fugitive chooses in the game world. Alternatively, the Warden may put one or two obstacles in the players’ way. This allows the players to split up and choose their own path, while giving the Warden opportunities to throw a spanner in the works.
 
 #table(
   columns: (auto, auto, 1fr),
@@ -882,11 +889,12 @@ How long are the investigators able to remain hidden before a fight breaks out o
 #pagebreak()
 
 == Downtime
+<downtime>
 
 In the background or between scenarios, you can do a number of things that are summarized at the table. You can:
 #grid(columns: 2, gutter: 5pt,
   [
-    - Read tomes to increase your Mythos Knowledge,
+    - Study tomes to increase your Mythos Knowledge,
     - Spend time with your bonds or form new ones to remove Broken notches,
     - Acquire useful gear,
   ],
@@ -917,7 +925,7 @@ When you are playing a series of short and unrelated scenarios, you might want t
 == Bestiary
 
 *Cultist*\
-4 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
+3 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
 - Some cultists know spells.
 
 *Deep One Youngling*\
@@ -975,6 +983,7 @@ Old English, Mythos Rating 8
 - Accounts of the wizard Eibon from Hyperborea.
 
 === Creating Spells
+<bestiary_spell>
 
 Use the following template to model a spell:
 
@@ -998,7 +1007,8 @@ X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
 Linus Weber
 
 *Editing*\
-Carl Apostle | CrlBox
+Carl Apostle | CrlBox\
+xxx
 
 *Copyediting*\
 xxx
