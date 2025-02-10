@@ -505,7 +505,7 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 == Insight
 
 This is the pivotal mechanic of the game tracking both your exposure to the Mythos in the short term and long-term changes to your resolve. 
-You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain (written for example as INS 1/1d4).
+You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain. _For example, you gain INS 1/1d4+1 when you find a mutilated human corpse._
 
 #grid(
   columns: (2fr, 1fr),
