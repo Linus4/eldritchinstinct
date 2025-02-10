@@ -191,7 +191,7 @@ First, write a short sentence about your character on the back page and pass you
 
 Roll on the **Bonds Table** to determine the four most significant things that tie your PC to this world. Use the results as a starting point and come up with something short and _specific_.
 
-### Bonds Table
+### Bonds
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -205,7 +205,7 @@ Roll on the **Bonds Table** to determine the four most significant things that t
 
 Investigators are confronted with life-threatening violence and mind-breaking revelations. _During play_, conceive and adapt the reason why your character would push on despite all of this. See **Motivation Ideas** to help you develop your PC's motivation.
 
-### Motivation Inspiration Table (d12)
+### Motivation Ideas (d12)
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -258,7 +258,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
 | 4 | Police | 9 | Bureaucrat | 14 | Author | 19 | Antiquarian |
 | 5 | Doctor | 10 | Ranger | 15 | Farmer | 20 | Mechanic |
 
-### Gear Table
+### Gear
 
 | d100 | Item | d100 | Item | d100 | Item | d100 | Item |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -276,7 +276,7 @@ Investigators are confronted with life-threatening violence and mind-breaking re
 | 22-23 | Sack | 48-49 | Gloves | 74-75 | Camera | | |
 | 24-25 | Candles | 50-51 | Oil (flask) | 76-77 | Lock Pick | | |
 
-### Weapons Table
+### Weapons
 
 | Weapon | Damage | Shots | Special |
 | --- | --- | --- | --- |
@@ -416,7 +416,7 @@ When you experience something mind-shatteringly dreadful, roll a d12. If it hits
 
 You or the Warden come up with a reaction for your character. The reaction should be disruptive and last for d4 rounds or a few minutes.
 
-### Panic Inspiration Table (d12)
+### Panic Effect Ideas (d12)
 
 |||||||||
 |---|---|---|---|---|---|---|---|
@@ -599,7 +599,7 @@ Attacks against Massive creatures by individuals are Impaired (excluding Blast d
 
 Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
 
-### Wounds Table
+### Wounds
 
 | d100 | Effect | d10 | Area |
 | --- | --- | --- | --- |
