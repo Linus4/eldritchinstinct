@@ -744,6 +744,8 @@ If monsters have cool abilities or special effects, they usually just happen. Ho
 
 Remember that PCs usually have 4 HP and no Armor. Most human opponents deal d6 damage and most monsters deal d8 damage. Give particularly strong opponents interesting special abilities, critical damage effects, Blast or the Massive quality, but don't go overboard with the damage.
 
+1 to 1d4 is a good amount to slowly rack up the PCs' Insight with omens and awfulness, but if you intend a chance of panic, use 1d6 or more.
+
 ### Converting from other Systems
 
 This is a horror game - you do not need to be exact when you convert monsters or spells. Use the Bestiary and General Principles as a baseline and focus on making each monster unique and interesting.
