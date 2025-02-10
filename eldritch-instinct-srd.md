@@ -401,8 +401,8 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 
 ## Insight
 
-This is the pivotal mechanic of the game tracking both your exposure to the awful truth in the short term and long-term changes to your resolve. 
-You gain Insight from seeing the Unnatural, like a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain (written INS 1/1d4).
+This is the pivotal mechanic of the game tracking both your exposure to the Mythos in the short term and long-term changes to your resolve. 
+You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain (written for example as INS 1/1d4).
 
 Cross out the corresponding number of pips on your character sheet beginning at the 1 position (1 o’clock) going clockwise.
 
