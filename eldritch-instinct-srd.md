@@ -146,7 +146,7 @@ Roll 3d6 for each of your character’s attributes, in order. You may then swap 
 
 ### Hit Protection
 
-A PC’s ability to avoid damage in combat through skill, stamina and luck is reflected by their **Hit Protection (HP)**. Every PC starts with 4 HP.
+A PC’s ability to avoid damage in combat through skill, stamina and luck is reflected by their **Hit Protection (HP)**. Every PC starts with 5 HP.
 
 ### Magic Points
 
@@ -539,7 +539,7 @@ The Warden answers truthfully, but should make sure that characters receive info
 
 A round is roughly ten seconds of in-game time and proceeds with each side taking turns. Each round starts with all PCs that are able to act, followed by their opponents. _The results of each side’s actions occur simultaneously._
 
-If there is a chance that a PC is surprised at the start of combat, they have to make a DEX save in order to act in the first round.
+At the start of combat, each PC must make a DEX save in order to act in the first round, unless they are attacking from ambush.
 
 ### Round Order
 
@@ -710,7 +710,7 @@ When you are playing a series of short and unrelated scenarios, you might want t
 ## Bestiary
 
 **Cultist**\
-3 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
+4 HP, 8 STR, 10 DEX, 13 WIL, dagger or pistol (d6)
 - Some cultists know spells.
 
 **Deep One Youngling**\
@@ -742,7 +742,7 @@ Use critical damage to lean into the threat or strangeness of any aggressive NPC
 
 If monsters have cool abilities or special effects, they usually just happen. However, Wardens should telegraph particularly dangerous abilities and give PCs an opportunity to avoid the effects.
 
-Remember that PCs usually have 4 HP and no Armor. Most human opponents deal d6 damage and most monsters deal d8 damage. Give particularly strong opponents interesting special abilities, critical damage effects, Blast or the Massive quality, but don't go overboard with the damage.
+Remember that PCs usually have 5 HP and no Armor. Most human opponents deal d6 damage and most monsters deal d8 damage. Give particularly strong opponents interesting special abilities, critical damage effects, Blast or the Massive quality, but don't go overboard with the damage.
 
 1 to 1d4 is a good amount to slowly rack up the PCs' Insight with omens and awfulness, but if you intend a chance of panic, use 1d6 or more.
 
