@@ -138,6 +138,8 @@ Eldritch Instinct was written with the following design philosophies in mind:
 === Questions
 - Ask the investigators questions like: What is going on in your head? How does that make you feel? How do you respond? What are you doing? What should be done about this?
 - Employ Jason Cordova's #link("https://www.gauntlet-rpg.com/blog/paint-the-scene")[Paint The Scene] technique: "if there is an idea, theme, or visual motif that is particularly important for an encounter or scene, ask the players what their characters observe in the scene that reinforces that idea, theme, or motif."
+- Conclude scenarios with an epilog where each player gets to frame a short scene about their investigator after the recent events.
+- At the end of each session, ask everyone at the table to recount a memorable moment in the game or commend another player for a cool idea or great roleplaying (see Lu Quade's #link("https://www.gauntlet-rpg.com/blog/stars-and-wishes")[Stars and Wishes]).
 
 === Pacing
 - Know how to escalate a scenario if the players are taking too long to solve a situation, based on the monster's or NPCs' motivations.
