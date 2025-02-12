@@ -162,7 +162,7 @@ First, choose or roll a *name* for your character, then their *occupation*, whic
 
 Elaborate on your character's _speciality_: this could be a workplace or their area of expertise. Next, make up one detail about your investigator’s face or hair and clothes. Decide how old your character is, or roll a d4 representing the tens digit, a d10 for the single digit and add 7.
 
-=== Ability Scores
+=== Attributes
 
 Player Characters (PCs) have three attributes: *Strength (STR)*, *Dexterity (DEX)*, and *Willpower (WIL)*. 
 
@@ -174,7 +174,7 @@ A PC’s ability to avoid damage in combat through skill, stamina and luck is re
 
 === Magic Points
 
-Magic Points (MP) start at the PC's WIL score and are spent to cast spells. You regenerate 1 MP per hour.
+Magic Points (MP) start at the PC's WIL score and are spent to cast spells. You regenerate 1 MP per hour in the game world.
 
 === Mythos Knowledge
 
@@ -198,7 +198,7 @@ If you have a gun, divide the circle labeled *Magazine* into a number of section
 
 All PCs begin with two items from the *Gear Table* (p. #pageref(<gear_table>)) and any other items as the Warden sees fit depending on the occupation and the scenario.
 
-The PC with the lowest ability score total also starts with a source of light.
+Additionally, the PC with the lowest attribute starts with a source of light.
 
 #place(center, dx: -30pt)[
     #image("images/clovis-dardentor-by-leon-benett-44-f55373_cut.png", width: 50%)
@@ -405,11 +405,11 @@ Each of the three abilities are used in different circumstances.
 
 === Saves
 
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail.
 
 A 1 is always a *critical success*, and a 20 is always a *critical fail*.
 
-For an *opposed* save, both the PC and their opponent make a save. Whoever rolls the _highest_ number under or equal to their ability score wins the save. If both sides fail, the _highest_ result wins. Add any ability score above 20 to the result.
+For an *opposed* save, both the PC and their opponent make a save. Whoever rolls the _highest_ number under or equal to their attribute wins the save. If both sides fail, the _highest_ result wins. Add any attribute points above 20 to the result.
 
 === Difficulty
 
@@ -417,9 +417,9 @@ When a PC must make a save in a favorable or in a particularly difficult situati
 
 === Healing
 
-Resting for a few moments and having a drink of water restores lost HP. Ability loss can usually be restored with a couple of weeks’ rest in a safe place.
+Resting for a few moments and having a drink of water restores lost HP. Attribute loss can usually be restored with a couple of weeks’ rest in a safe place.
 
-A PC *deprived* of a crucial need (such as food or rest) is unable to recover HP or ability scores.
+A PC *deprived* of a crucial need such as food or rest is unable to recover HP or attributes.
 
 === Die of Fate
 
@@ -505,7 +505,7 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 == Insight
 
 This is the pivotal mechanic of the game tracking both your exposure to the Mythos in the short term and long-term changes to your resolve. 
-You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain. _For example, you gain INS 1 / 1d4+1 (reduced / full) when you find a mutilated human corpse._
+You gain Insight from seeing a monster or other horrifying evidence of the Mythos, pushing you to the brink of panic. When you do, make a WIL save to reduce the amount of Insight you gain. _For example, you might gain INS 1 / 1d4+1 (reduced / full) when you find a mutilated human corpse._
 
 #grid(
   columns: (2fr, 1fr),
@@ -750,7 +750,7 @@ Additionally, some enemies have special abilities or effects that are triggered 
 
 A PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If left untreated, they die within the hour. If given aid (such as bandages), they will stabilize: roll a d100 on the *Wounds Table* (p. #pageref(<wounds_table>)).
 
-=== Ability Score Loss
+=== Attribute Loss
 
 If a PC’s STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious.
 
@@ -818,7 +818,7 @@ If you want to draw out the chase, do five rounds total and require PCs to score
 
 === Chases with Vehicles
 
-Similar to characters, vehicles have HP and Armor, but use a different set of ability scores:  Mayhem represents the vehicle's health and how hard it is to force it off the road, Handling indicates how easy it is to navigate around obstacles, and Engine represents the vehicle’s acceleration and top speed.
+Similar to characters, vehicles have HP and Armor, but use a different set of attributes:  Mayhem represents the vehicle's health and how hard it is to force it off the road, Handling indicates how easy it is to navigate around obstacles, and Engine represents the vehicle’s acceleration and top speed.
 
 *Ford Model T:* 10 Mayhem, 8 Handling, 7 Engine, 5 HP, 1 Armor\
 *Motorcycle:* 5 Mayhem, 13 Handling, 14 Engine, 3 HP
@@ -909,7 +909,7 @@ In the background or between scenarios, you can do a number of things that are s
   ]
 )
 
-This can translate into gaining HP or ability score, upgrading inventory space or damage with a particular weapon, but also learning cool skills, gaining the ability to handle specific situations with ease or promoting a contact so that they can be more helpful.
+This can translate into improving attributes, upgrading inventory space or damage with a particular weapon, but also learning cool skills, gaining the ability to handle specific situations with ease or promoting a contact so that they can be more helpful.
 
 This is an opportunity to hack the game and adjust it to your liking. Ask yourself: What would you like to be capable of? What would you like to see? Then, work with the Warden to determine the effects and the amount of time that must be spent in accordance with the tone of the game that the group agreed upon.
 
@@ -952,7 +952,7 @@ X HP, X Armor, X STR, X DEX, X WIL, weapon (dX), INS X/X
 
 === General Principles
 
-Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary. Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP. Use flavor and style to help them stand out.
+Attributes: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary. Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP. Use flavor and style to help them stand out.
 
 Use critical damage to lean into the threat or strangeness of any aggressive NPC. Remember that HP is Hit Protection, not Hit Points. It’s a measure of resilience, luck, and gumption - not health.
 
