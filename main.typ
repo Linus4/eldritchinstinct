@@ -38,7 +38,7 @@
 *Eldritch Instinct* is an #link("https://questingblog.com/adventure-game-vs-osr/")[adventure game] for one facilitator (the *Warden*) and at least one other player.
 Players act as curious investigators of the strange and unexplained. They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
-Brace yourself for a blend of horrifying cosmic horror and adrenaline pumping action, where the _players_ rather than their characters do the investigating. Uncover mysteries and acquire forbidden knowledge in a quest to foil the sinister Mythos agenda. Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
+Brace yourself for a blend of dreadful cosmic horror and adrenaline pumping action, where the _players_ rather than their characters do the investigating. Uncover mysteries and acquire forbidden knowledge in a quest to foil the sinister Mythos agenda. Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
 
 The Mythos is a collection of stories originally conceived by Howard Phillips Lovecraft such as The Dunwich Horror or The Shadow Over Innsmouth. Since then, many authors, directors, artists and scenario designers have contributed their own ideas to the Mythos.
 
@@ -1013,7 +1013,7 @@ Linus Weber
 
 *Editing*\
 Carl Apostle | CrlBox\
-xxx
+Markus | DerTaurus
 
 *Copyediting*\
 xxx
