@@ -73,7 +73,7 @@ The following principles informed the design of _Eldritch Instinct_:
   [=== Assumed Competence], [Player characters are capable investigators able to stand up to servants of the Mythos.],
   [=== External Interaction], [You interact with the game world not through abstract mechanics, but by asking what your investigator can perceive and describing your investigator's actions.],
   [=== Immersion], [The rules, or the absence thereof, should help players immerse themselves in the game world and create verisimilitude where it matters.],
-  [=== Roll-Play], [Mechanics should create tense and exciting situations both in and out of the game and force players to make tough choices. /* They are not meant to simulate reality. */],
+  [=== Roll-Play], [Mechanics should create tense and exciting situations both in and out of the game and force players to make tough choices. They are not meant to simulate reality.],
   [=== Fail Forward], [Players roll saves to avoid complications in risky situations. A complication does not necessarily mean you do not succeed.],
   [=== Neutrality], [The Warden’s role is to act as a neutral arbiter and portray the game's rules, world and non-player characters (NPCs) clearly.],
   [=== Rulings], [This book is a set of tools to experiment and play with, not authoritative rules for how you must play your game.],
@@ -185,7 +185,7 @@ You start with 0 *Mythos Knowledge (MK)*. You can gain more through encounters w
 
 Characters have 9 inventory slots.
 + Most items, such as a magazine or a flashlight, take up one slot; small items can be bundled together.
-+ *Bulky* items take up 2 slots and tend to be awkward to carry. Bulky weapons must be wielded in two hands unless otherwise noted.
++ *Bulky* items take up 2 slots and tend to be awkward to carry. Bulky weapons must be wielded in two hands.
 + *Very Heavy* items fill your entire inventory. // TODO
 
 Anyone carrying a full inventory (that is, filling all 9 slots) is reduced to 0 HP. A character cannot carry more items than their inventory allows.
@@ -209,14 +209,14 @@ All PCs begin with two items from the *Gear Table* (p. #pageref(<gear_table>)) a
 
 === Background and Relationships
 
-First, write a short sentence about your character on the back of your character sheet. Then, pass it to the player on your right, who must add a sentence that defines their character's relationship to yours. Add a final sentence yourself or give your sheet to a third player to add one last detail or complication to the relationship. // TODO
+First, write a short sentence about your character on the back of your character sheet. Then, pass it to the player on your right, who must add a sentence that defines their character's relationship to yours.
 
 === Bonds
 
 Roll on the *Bonds* table four times to determine the four most significant things that tie your PC to this world. Use the results as a starting point to come up with a short and _specific_ sentence.
 
 #table(
-  columns: (auto, auto, auto, auto, auto, auto, auto, auto), // TODO
+  columns: (auto, auto, auto, auto, auto, auto, auto, 1fr),
   align: horizon,
   stroke: none,
   fill: (_, y) => if y == 0 { rgb(60,60,60) } else if calc.even(y) { stripe_color },
@@ -231,7 +231,7 @@ Roll on the *Bonds* table four times to determine the four most significant thin
   [*5*], [Literature], [*10*], [Art], [*15*], [Self-Care], [*20*], [Gardening]
 )
 
-// I'm not sure what "14. Contemplate" and "16. Interest" are supposed to mean.
+// TODO I'm not sure what "14. Contemplate" and "16. Interest" are supposed to mean.
 
 === Motivation
 
@@ -408,7 +408,7 @@ A save is a roll to avoid a complication that might result from a risky choice o
 
 A 1 is always a *critical success*, and a 20 is always a *critical fail*.
 
-If two opponents are trying to overcome each other, both of them make a save. Whoever rolls the _highest_ number under or equal to their attribute wins the save. If both sides fail, the _highest_ result wins. /* Add any attribute points above 20 to the result. <- I don't understand what this means. */
+If two opponents are trying to overcome each other, both of them make a save. Whoever rolls the _highest_ number under or equal to their attribute wins the save. If both sides fail, the _highest_ result wins.
 
 === Difficulty
 
@@ -425,6 +425,7 @@ A PC *deprived* of a crucial need such as food or rest is unable to recover HP o
 Occasionally you will want an element of randomness (for example, to determine the weather or if an item is available). In these situations, roll 1d6. A roll of 4 or more generally favors the players. A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 === Agenda Clock
+<agenda_clock>
 
 Track the passage of time on the *Agenda Clock*#footnote[The Agenda Clock is based on the #link("https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html")[Underclock] by Arnold K. of Goblin Punch.], represented using a d20. It starts at 20 and a complication occurs when it is reduced _below_ 0. Reset it to 20 after the complication is resolved.
 
@@ -536,9 +537,9 @@ You or the Warden come up with a reaction for your character. The reaction shoul
   [*3*], [Freeze], [*6*], [Hide], [*9*], [Faint], [*12*], [Surrender]
 )
 
-After you’ve had a chance to calm down, make a WIL save. On a success, draw a _square_ around an Insight pip starting at the 4 o'clock position going clockwise as your resolve is Hardened. // TODO
+After you’ve had a chance to calm down, make a WIL save. On a success, draw a permanent _square_ around an Insight pip starting at the 4 o'clock position going clockwise as your resolve is Hardened.
 
-On a fail, _fill in_ an Insight pip starting at the 12 o'clock position going counter-clockwise as your resolve is Broken. // TODO
+On a fail, _fill in_ an Insight pip starting at the 12 o'clock position going counter-clockwise as your resolve is Broken.
 
 #pagebreak()
 
@@ -552,7 +553,7 @@ PCs start with three Hardened notches from 1 to 3 o'clock. For every three Harde
 
 === Delusions
 
-If you’ve gained a Broken notch within the last 24 hours, the Warden might present you with a twisted version of reality, especially when you witness something horrifying. You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch. // TODO
+If you’ve gained a Broken notch within the last 24 hours, the Warden might present you with a twisted version of reality, especially when you see a glimpse of the horror (see p. #pageref(<agenda_clock>)). You may attempt to see through what you believe to be delusions with a WIL save. On a success, the delusions stop. On a fail, they persist and you gain a Broken notch.
 
 === Getting Better
 
@@ -590,7 +591,7 @@ When you read a tome during an ongoing scenario, you gain Insight equal to the t
 
 === Spells
 
-When you cast a spell, which you can learn from studying certain tomes, you must pay its cost in Magic Points (MP) and spend the specified casting time (see p. #pageref(<bestiary_spell>)). If you do not have sufficient MP, subtract the remaining cost from your STR instead. // TODO
+When you cast a spell, which you can learn from studying certain tomes, you must pay its cost in Magic Points (MP) and spend the specified casting time. If you do not have sufficient MP, subtract the remaining cost from your STR instead. Additionally, you gain Insight or Broken notches from casting certain spells.
 
 ==== First Evocation
 
@@ -682,7 +683,7 @@ Consider three kinds of information #footnote[Credit goes to Anne from #link("ht
 + *Hidden information* can only be learned if players specifically ask for it or uncover it in the game world. It often comes at a cost.
   + _Time_. It might take time to examine something. Looking in the right place yields instant results, but a general search of a room takes about 15 minutes, which triggers a roll of the Agenda Die.
   + _Risk_. You might expose yourself to risk when you investigate a dangerous object, especially if you get too close to it.
-+ *Secret information* always comes at a cost, and there is a chance that the players fail to learn the information. Information should almost never be secret; when players interact with the game world, they should almost always get answers. // TODO
++ *Secret information* always comes at a cost, and there is a chance that the players fail to learn the information. Information should almost never be secret; when players interact with the game world, they should get answers.
 
 Finding clues should not be a challenge for players. When introducing a new location, the Warden sets the mood and presents landmark information, which often functions as threads that the players can pull on for more information. The players can then ask questions and describe their PCs' actions in order to uncover hidden information.
 
@@ -699,7 +700,7 @@ The Warden should always answer truthfully, but should also make sure that chara
 
 === Rounds
 
-A round is roughly ten seconds of in-game time and proceeds with each side taking turns. In each round, first all PCs who are able to act get a turn, then all their opponents who are able to act get a turn. // TODO
+A round is roughly ten seconds of in-game time and proceeds with each side taking turns. In each round, first all PCs who are able to act get a turn, then all their opponents.
 
 At the start of combat, each PC must make a DEX save in order to act in the first round, unless the PCs are attacking from ambush.
 
@@ -990,7 +991,6 @@ Use the following template to model a tome:
 Language, Mythos Rating (between 3 and 10)
 - Appearance and condition
 - Summary of its content
-- Suggestion for spells
 
 #place(center, dx: 105pt, dy: -80pt)[
   #image("images/book-candle-tailpiece-1600-unknown_cut.png", width: 35%)
@@ -1007,10 +1007,11 @@ Old English, Mythos Rating 8
 Use the following template to model a spell:
 
 *Name*\
-X MP, X WIL, dX Insight, X Broken notches, (opposed), X Casting Time
+X MP, X Insight, X Broken notches
+- Casting Time
 - Description of effects
 
-// The spell template is confusing and could use an example.
+//The spell template is confusing and could use an example.
 
 #pagebreak()
 
