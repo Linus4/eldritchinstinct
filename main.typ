@@ -49,7 +49,7 @@ The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" an
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
 ])
-#align(center)[#text(fill: white)[Version 0.8 #sym.circle.filled.small February 2025]]
+#align(center)[#text(fill: white)[Version 0.8 #sym.circle.filled.small March 2025]]
 
 #pagebreak()
 ]
@@ -186,7 +186,7 @@ You start with 0 *Mythos Knowledge (MK)*. You can gain more through encounters w
 Characters have 9 inventory slots.
 + Most items, such as a magazine or a flashlight, take up one slot; small items can be bundled together.
 + *Bulky* items take up 2 slots and tend to be awkward to carry. Bulky weapons must be wielded in two hands.
-+ *Very Heavy* items fill your entire inventory. // TODO
++ *Very Heavy* objects such as an injured character fill all your remaining inventory slots.
 
 Anyone carrying a full inventory (that is, filling all 9 slots) is reduced to 0 HP. A character cannot carry more items than their inventory allows.
 
@@ -224,14 +224,12 @@ Roll on the *Bonds* table four times to determine the four most significant thin
     table.cell(colspan: 8, align: center)[#set text(fill: white, weight: "bold")
     === Bonds (d20)]
   ),
-  [*1*], [Family], [*6*], [Sports], [*11*], [Music], [*16*], [Interest],
+  [*1*], [Family], [*6*], [Sports], [*11*], [Music], [*16*], [Self-care],
   [*2*], [Work], [*7*], [Friend], [*12*], [Faith], [*17*], [Activism],
   [*3*], [Pet], [*8*], [Outdoors], [*13*], [Community], [*18*], [Going out],
-  [*4*], [Partner], [*9*], [Travel], [*14*], [Contemplate], [*19*], [Home],
-  [*5*], [Literature], [*10*], [Art], [*15*], [Self-Care], [*20*], [Gardening]
+  [*4*], [Partner], [*9*], [Travel], [*14*], [Daydreaming], [*19*], [Home],
+  [*5*], [Literature], [*10*], [Art], [*15*], [Niche interest], [*20*], [Gardening]
 )
-
-// TODO I'm not sure what "14. Contemplate" and "16. Interest" are supposed to mean.
 
 === Motivation
 
@@ -545,7 +543,7 @@ On a fail, _fill in_ an Insight pip starting at the 12 o'clock position going co
 
 === Broken
 
-Pips with a Broken notch cannot be crossed out when gaining Insight. If you gain a Broken notch but you cannot fill in another Insight pip, you permanently lose control of your character.
+Pips with a Broken notch cannot be crossed out when gaining Insight. If you gain a Broken notch but you cannot fill in another Insight pip, you permanently lose control of your character. 
 
 ==== Hardened
 
@@ -577,7 +575,7 @@ Your Mythos Knowledge can prepare you to turn your luck around in risky circumst
 
 Once per scenario, you may turn up to 2d6 Insight into MK if you write a journal entry and get a good night’s rest.
 
-Remaining Insight is removed at the Warden’s discretion, probably at the end of a scenario.
+When your Insight is removed in this way, clear the corresponding number of Insight pips, but keep your Hardened and Broken notches. Remaining Insight is removed at the Warden’s discretion, probably at the end of a scenario.
 
 === Tomes
 
@@ -585,7 +583,7 @@ You can acquire knowledge of the Mythos through the study of ancient tomes, most
 
 When you read a tome during an ongoing scenario, you gain Insight equal to the tome's *Mythos Rating*, which is a value between 3 and 10. Further study during Downtime (p. #pageref(<downtime>)) directly increases your MK by the tome's Mythos Rating, but you also gain a Broken notch.
 
-#place(center+bottom, dy: -15pt)[#image("images/chamber-mystery-1600-hablot-knight-browne_cut.png", width: 75%)]
+#place(center+bottom, dy: -0pt)[#image("images/chamber-mystery-1600-hablot-knight-browne_cut.png", width: 75%)]
 
 #pagebreak()
 
@@ -801,9 +799,9 @@ Chases are split into three scenes. In each scene, the PCs are confronted with a
 
 If a PC has 2 or more points at the start of the third obstacle, they may help another PC escape. Add the result in points of the former PC's third save to the points of the latter PC. If the latter PC does not have the required amount of points at the end, both PCs are caught.
 
-=== Carrying something heavy
+=== Overloaded
 
-If a PC is carrying something heavy, such as an injured character, they must score an additional point and can only help someone else if they have at least 3 points at the start of the third obstacle.
+Anyone carrying a full inventory must score an additional point and can only help someone else if they have at least 3 points at the start of the third obstacle.
 
 === Longer Chases
 
