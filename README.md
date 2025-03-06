@@ -5,10 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
-**Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one facilitator (the **Warden**) and at least one other player.
-Players act as curious investigators of the strange and unexplained. They will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
+**Eldritch Instinct** is an [adventure game](https://questingblog.com/adventure-game-vs-osr/) for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
-Brace yourself for a blend of dreadful cosmic horror and adrenaline pumping action, where the _players_ rather than their characters do the investigating. Uncover mysteries and acquire forbidden knowledge in a quest to foil the sinister Mythos agenda. Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
+Brace yourself for a blend of cosmic horror and adrenaline-pumping action in which _you_ do the investigating, not your character. Hunt down forbidden knowledge in your quest to foil the sinister Mythos agenda.
 
 Download the PDF with from
 [here](https://drive.google.com/file/d/1LwJnYOLhiDtaLIK4KTcaRg-FhSVIx8Dj/view?usp=sharing).

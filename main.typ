@@ -49,7 +49,7 @@ The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" an
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
 ])
-#align(center)[#text(fill: white)[Version 0.8 #sym.circle.filled.small March 2025]]
+#align(center)[#text(fill: white)[Version 0.9 #sym.circle.filled.small March 2025]]
 
 #pagebreak()
 ]
@@ -154,7 +154,7 @@ The following principles informed the design of _Eldritch Instinct_:
 
 === Name & Occupation
 
-Choose or roll for your investigator's name and occupation (see tables on p. #pageref(<chargen_tables>)). Your occupation informs your knowledge and potential skills . Note that investigators do not hold positions of power.
+Choose or roll for your investigator's name and occupation (see tables on p. #pageref(<chargen_tables>)). Your occupation informs your knowledge and potential skills. Note that investigators do not hold positions of power.
 
 === Invent Details
 
@@ -1008,8 +1008,6 @@ Use the following template to model a spell:
 X MP, X Insight, X Broken notches
 - Casting Time
 - Description of effects
-
-//The spell template is confusing and could use an example.
 
 #pagebreak()
 
