@@ -155,11 +155,11 @@ A PC’s ability to avoid damage in combat through skill, stamina and luck is re
 
 ### Magic Points
 
-You start with **Magic Points (MP)** equal to your WIL. You can spend MP to cast spells. You regenerate 1 MP per hour in the game world.
+You start with **Magic Points (MP)** equal to your WIL and regenerate 1 MP per hour in the game world. You can spend MP to cast spells.
 
 ### Mythos Knowledge
 
-You start with 0 **Mythos Knowledge (MK)**. You can gain more through encounters with the Mythos and by studying tomes. You can spend 5 MK to re-roll a damage roll or save (unless it is a critical fail).
+Each PC starts with 0 **Mythos Knowledge (MK)** and gains more through encounters with the Mythos and by studying tomes. You can spend 5 MK to re-roll a damage roll or save (unless it is a critical fail).
 
 ### Inventory
 
@@ -328,6 +328,8 @@ A PC **deprived** of a crucial need such as food or rest is unable to recover HP
 Occasionally you will want an element of randomness (for example, to determine the weather or if an item is available). In these situations, roll 1d6. A roll of 4 or more generally favors the players. A roll of 3 or under tends to mean bad luck for the PCs or their allies.
 
 ### Agenda Clock
+
+Track the passage of time on the **Agenda Clock** (based on the [Underclock](https://goblinpunch.blogspot.com/2023/04/the-underclock-fixing-random-encounter.html) by Arnold K. of Goblin Punch), represented using a d20. It starts at 20 and a complication occurs when it is reduced _below_ 0. Reset it to 20 after the complication is resolved.
 
 A complication could be an encounter, an event, an environmental change or an advance in the evil agenda of the Mythos.
 

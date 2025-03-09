@@ -175,11 +175,11 @@ A PC’s ability to avoid damage in combat through skill, stamina and luck is re
 
 === Magic Points
 
-You start with *Magic Points (MP)* equal to your WIL. You can spend MP to cast spells. You regenerate 1 MP per hour in the game world.
+You start with *Magic Points (MP)* equal to your WIL and regenerate 1 MP per hour in the game world. You can spend MP to cast spells.
 
 === Mythos Knowledge
 
-You start with 0 *Mythos Knowledge (MK)*. You can gain more through encounters with the Mythos and by studying tomes. You can spend 5 MK to re-roll a damage roll or save (unless it is a critical fail).
+Each PC starts with 0 *Mythos Knowledge (MK)* and gains more through encounters with the Mythos and by studying tomes. You can spend 5 MK to re-roll a damage roll or save (unless it is a critical fail).
 
 === Inventory
 
