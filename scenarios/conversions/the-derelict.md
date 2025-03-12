@@ -19,7 +19,7 @@ d6 and d4 each following round until extinguished, ignores armor
 4 HP, 10 STR, 14 DEX, 9 WIL
 
 #### The Sciapod
-15 HP, 3 Armor, 30 STR, 14 DEX, 8 WIL, crush (d12) or bow (d10)
+15 HP, 3 Armor, 18 STR, 14 DEX, 8 WIL, crush (d12) or bow (d10)
 
 #### Ashley May Bethell
 4 HP, 9 STR, 13 DEX, 11 WIL, knife (d6), pistol (d6)

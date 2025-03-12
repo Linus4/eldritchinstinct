@@ -25,6 +25,6 @@ title: Genius Loci
 4 HP, 16 HP, 11 DEX, 7 WIL
 
 #### The Lloigor
-13 HP, 3 Armor in reptilian form, 40 STR, 10 DEX, 14 WIL, detachment, claws (d6) or (d20) in reptilian form
+13 HP, 3 Armor in reptilian form, 18 STR, 10 DEX, 14 WIL, Massive, claws (d6) or (d20) in reptilian form
 - Vortex Attack: d100 damage in 10 m diameter.
 - Immune to damage in spectral form.

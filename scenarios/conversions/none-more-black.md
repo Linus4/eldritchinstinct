@@ -16,16 +16,16 @@ title: None More Black
 English, Mythos Rating 2
 
 #### Blackheads
-3 HP, 10 STR, 10 DEX, 8 WIL, various weapons (d4-d8)
+3 HP, 10 STR, 10 DEX, 8 WIL, Various weapons (d4-d8)
 
 #### Paul Rodgers
-4 HP, 10 STR, 13 DEX, 13 WIL, switchblade (d6)
+4 HP, 10 STR, 13 DEX, 13 WIL, Switchblade (d6)
 
 #### Willis Carter
-6 HP, 16 STR, 14 DEX, 8 WIL, revolver (d6)
+6 HP, 16 STR, 14 DEX, 8 WIL, Revolver (d6)
 
 #### Jacob Dover
-4 HP, 12 STR, 13 DEX, 17 WIL, revolver (d6)
+4 HP, 12 STR, 13 DEX, 17 WIL, Revolver (d6)
 
 #### Nightgaunt Minion
 4 HP, 1 Armor, 10 STR, 14 DEX, 10 WIL, claws (d4)
@@ -34,6 +34,6 @@ English, Mythos Rating 2
 - Critical Damage: Nightgaunt picks up victim and flies away.
 
 #### Raw Head and Black Bones
-10 HP, 19 STR, 7 DEX, 14 WIL, malformed appendages (d10 blast)
+10 HP, 18 STR, 7 DEX, 14 WIL, malformed appendages (d10 blast)
 - Immune to all forms of damage.
 - Running water does d12 damage per round.
