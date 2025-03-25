@@ -11,7 +11,7 @@ nav_order: 3
 
 Brace yourself for a blend of cosmic horror and adrenaline-pumping action in which _you_ do the investigating, not your character. Hunt down forbidden knowledge in your quest to foil the sinister Mythos agenda.
 
-The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" and "The Shadow Over Innsmouth," originally conceived by H.P. Lovecraft circa the 1920s. Since then, many authors, directors, artists and scenario designers have contributed to the Mythos.
+The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" and "The Shadow Over Innsmouth," originally conceived by H.P. Lovecraft in the 1920s. Since then, many authors, directors, artists and scenario designers have contributed to the Mythos.
 
 Download the PDF from
 [here](https://drive.google.com/file/d/1LwJnYOLhiDtaLIK4KTcaRg-FhSVIx8Dj/view?usp=sharing).

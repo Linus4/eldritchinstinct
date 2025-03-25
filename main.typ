@@ -37,7 +37,7 @@ _Eldritch Instinct_ is an #link("https://questingblog.com/adventure-game-vs-osr/
 
 Brace yourself for a blend of cosmic horror and adrenaline-pumping action in which _you_ do the investigating, not your character. Hunt down forbidden knowledge in your quest to foil the sinister Mythos agenda. //Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
 
-The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" and "The Shadow Over Innsmouth," originally conceived by H.P. Lovecraft circa the 1920s. Since then, many authors, directors, artists and scenario designers have contributed to the Mythos.
+The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" and "The Shadow Over Innsmouth," originally conceived by H.P. Lovecraft in the 1920s. Since then, many authors, directors, artists and scenario designers have contributed to the Mythos.
 
 #align(center)[#line(length: 65%, stroke: 0.3pt)]
 
