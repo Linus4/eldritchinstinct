@@ -24,6 +24,7 @@ github_username: linus4
 permalink: pretty
 encoding: UTF-8
 description: "Adventure game for investigating the strange and unexplained."
+nav_external_links_new_tab: true
 
 back_to_top: true
 back_to_top_text: "Back to top"
