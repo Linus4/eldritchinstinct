@@ -26,6 +26,17 @@ encoding: UTF-8
 description: "Adventure game for investigating the strange and unexplained."
 nav_external_links_new_tab: true
 
+# External navigation links
+nav_external_links:
+  - title: Game Files
+    url: https://drive.google.com/drive/folders/1mE1GCJsjl6Q6qaK43JOZDyfX0ZXLPHYl?usp=sharing
+  - title: Discord Server
+    url: https://discord.gg/Z2vQmreVtt
+  - title: Reddit
+    url: https://www.reddit.com/r/EldritchInstinct/
+  - title: Eldritch Archives
+    url: https://docs.google.com/spreadsheets/d/1TzDe6x5TRpJevprYeh6xxdNXU5Wk40Q1GU30AKIrgAM/edit?usp=sharing
+
 back_to_top: true
 back_to_top_text: "Back to top"
 
