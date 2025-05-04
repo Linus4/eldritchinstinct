@@ -399,15 +399,15 @@ Arlene Snow the Antiquarian and Rosalie Buck, a lookout for the mob, seek out a 
 
 ## Insight
 
-When you witness a monster or other horrifying evidence of the Mythos that pushes you to the brink of panic, make a WIL save. Monsters have an **INS** statistic that determines how much Insight you gain if you succeed (before the slash) or if you fail (after the slash); for example, the baseline INS for witnessing anything horrifying is 1/1d4.
-
-When you gain Insight, cross out the corresponding number of pips on your character sheet beginning at the 1 o’clock position and going clockwise. If you gain 5 or more Insight at once or if you cannot cross out enough Insight pips, make an **Insight Save**.
-
 ### Insight Saves
 
-When you experience something mind-shatteringly dreadful, roll a d12. If the result corresponds to an empty Insight pip or a **Hardened** notch, you keep it together. If the result corresponds to a crossed-out pip or a **Broken** notch, you panic.
+When you witness a monster or other horrifying evidence of the Mythos that pushes you to the brink of panic, make a WIL save. Monsters have an **INS** statistic that determines how much Insight you gain if you succeed (before the slash) or if you fail (after the slash); for example, the baseline INS for witnessing anything horrifying is 1/1d4.
 
-### Panic
+When you gain Insight, cross out the corresponding number of pips on your character sheet beginning at the 1 o’clock position and going clockwise. If you gain 5 or more Insight at once or if you cannot cross out enough Insight pips, make a **Panic Save**.
+
+### Panic Saves
+
+When you experience something mind-shatteringly dreadful, roll a d12. If the result corresponds to an empty Insight pip or a **Hardened** notch, you keep it together. If the result corresponds to a crossed-out pip or a **Broken** notch, you panic.
 
 You or the Warden come up with a reaction for your character. The reaction should be disruptive and last for d4 rounds or a few minutes.
 
