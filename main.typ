@@ -11,8 +11,10 @@
 
 #show link: underline
 
-#show heading.where(level: 1): set text(size: 58pt, font: "New Computer Modern Uncial")
-#show heading.where(level: 2): set text(size: 16pt, font: "New Computer Modern Uncial")
+//#show heading.where(level: 1): set text(size: 58pt, font: "New Computer Modern Uncial")
+//#show heading.where(level: 2): set text(size: 16pt, font: "New Computer Modern Uncial")
+#show heading.where(level: 1): set text(size: 38pt, font: "Metal Mania")
+#show heading.where(level: 2): set text(size: 17pt, font: "Metal Mania")
 
 #let pageref(label) = context {
   let loc = locate(label)
@@ -23,12 +25,13 @@
 #let stripe_color = rgb(215,215,235)
 
 #page(
-  background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%)
+  background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 108%)
 )[
-#place(top + center, dy: +30pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 0.8em, radius: 0.3em)[
-#par(leading: 1.1em)[#text(size: 58pt, font: "New Computer Modern Uncial", weight: "bold")[Eldritch Instinct]]]]
-#place(top+center, dy: +138pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
-#text(size: 14pt)[Cosmic Horror & Pulp Action]]]
+#place(top + center, dy: +30pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 1em, radius: 0.3em)[
+//#par(leading: 1.1em)[#text(size: 58pt, font: "New Computer Modern Uncial", weight: "bold")[Eldritch Instinct]]]]
+#par(leading: 0.1em)[#text(size: 68pt, font: "Metal Mania", weight: "bold")[Eldritch Instinct]]]]
+#place(top+center, dy: +162pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
+#text(size: 14pt, font: "Metal Mania")[Cosmic Horror & Pulp Action]]]
 ]
 
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
@@ -1015,7 +1018,7 @@ X MP, X Insight, X Broken notches
   #pagebreak()
 ]
 
-#page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 107%), numbering: none)[
+#page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 108%), numbering: none)[
     #place(bottom + center, dy: -35pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
     #text(size: 15pt)[An adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained.
 
