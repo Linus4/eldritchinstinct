@@ -1,8 +1,15 @@
 #set page(
   paper: "a5",
+  //width: 15.1175cm, height: 21.635cm,
   margin: (x: 1.4cm),
+  //margin: (top: 2.0175cm, bottom: 2.0175cm, inside: 1.4cm, outside: 1.7175cm),
   columns: 1,
+  binding: left
+  // bleed: 8th inch top bottom outside, NOT inside
 )
+
+// 4th inch = 0.635 cm
+// 8th inch = 0.3175 cm
 
 #set text(
   font: "Vollkorn",
@@ -34,7 +41,7 @@
 #text(size: 14pt, font: "Metal Mania")[Cosmic Horror & Pulp Action]]]
 ]
 
-#page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 100%))[
+#page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 101%))[
 
 _Eldritch Instinct_ is an #link("https://questingblog.com/adventure-game-vs-osr/")[adventure game] for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
@@ -52,12 +59,12 @@ The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" an
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
 ])
-#align(center)[#text(fill: white)[Version 0.9 #sym.circle.filled.small March 2025]]
+#align(center)[#text(fill: white)[Version 0.10 #sym.circle.filled.small May 2025]]
 
 #pagebreak()
 ]
 
-#page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains right.png", fit: "stretch", width: 100%))[
+#page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains right.png", fit: "stretch", width: 101%))[
 
 #outline(depth: 2, indent: auto)
 ]
@@ -385,11 +392,11 @@ Investigators are confronted with life-threatening violence and mind-breaking re
 
 #pagebreak()
 
-#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_left_color.png", fit: "cover", width: 100%), numbering: none)[
+#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_left_color.png", fit: "cover", width: 101%), numbering: none)[
 #pagebreak()
 ]
 
-#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_right_color.png", fit: "cover", width: 100%), numbering: none)[
+#page(background: image("images/Frederic Edwin Church  - View of Cotopaxi_right_color.png", fit: "cover", width: 101%), numbering: none)[
 #pagebreak()
 ]
 
@@ -692,7 +699,7 @@ The Warden should always answer truthfully, but should also make sure that chara
 
 #pagebreak()
 
-#page(background: image("images/Hubert Robert - The Old Temple_cropped_color.png", fit: "stretch"), numbering: none)[
+#page(background: image("images/Hubert Robert - The Old Temple_cropped_color.png", fit: "stretch", width: 101%), numbering: none)[
 
 #pagebreak()
 ]
@@ -1035,6 +1042,6 @@ Markus | DerTaurus
 Tim B. | congas.blog
 
 *Character Sheet*\
-xxx
+Francesco Zanieri | Licopeoart
   ]]]
 ]
