@@ -12,4 +12,4 @@ _Adjust to fit your needs._
 
 **Tone:** For the most part, we'll try to create an immersive and tense atmosphere. Some comic relief outside of the game is appreciated, but your Investigators should take the situation seriously. Your Investigators and the scenario in general can be a bit over the top and larger than life.
 
-**Subject Matter:** This scenario features theme1, theme2 and theme3. If at any point during the session you're feeling uncomfortable in a bad way, let me know and we'll roll it back. Is there anything we should definitely avoid in our game, or are there certain themes we should treat with some discretion?
+**Subject Matter:** This scenario features body horror, loss of faith, illness and some harm to animals. If at any point during the session you're feeling uncomfortable in a bad way, please let me know so we can roll it back and understand what we need to change. Is there anything we should definitely avoid in our game, or are there certain themes we should treat with some discretion?
