@@ -4,6 +4,8 @@ title: CATS example
 parent: Resources
 ---
 
+# CATS Example
+
 _Adjust to fit your needs._
 
 **Concept:** Eldritch Instinct is an adventure game that blends cosmic horror with pulp action. You slip into the roles of everyday people who come face to face with the unspeakable horrors of the Mythos. To investigate, you interact with the world directly through questions, and encounters with characters in the game world are resolved purely through roleplay. _You_ do the investigating, not your character.
