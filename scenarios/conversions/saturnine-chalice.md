@@ -10,7 +10,7 @@ title: Saturnine Chalice
 - Conversion done by [Linus Weber](https://linuz.itch.io)
 
 #### Evangeline Weyland
-3 HP, X STR, X DEX, X WIL, unarmed (d4), INS 1/1d3
+3 HP, X STR, X DEX, X WIL, claws (d6), INS 1/1d3
 
 #### Shapeless One
 n/a STR, 18 DEX, 18 WIL
