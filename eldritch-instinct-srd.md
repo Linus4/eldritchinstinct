@@ -13,11 +13,6 @@ Brace yourself for a blend of cosmic horror and adrenaline-pumping action in whi
 
 The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" and "The Shadow Over Innsmouth," originally conceived by H.P. Lovecraft in the 1920s. Since then, many authors, directors, artists and scenario designers have contributed to the Mythos.
 
-Download the PDF from
-[here](https://drive.google.com/file/d/1LwJnYOLhiDtaLIK4KTcaRg-FhSVIx8Dj/view?usp=sharing).
-Print the PDF using the 'booklet' setting and staple-bind the pages to craft your 
-own A5 sized booklet as shown in [this video](https://www.youtube.com/watch?v=gFbk3Ypb5CY).
-
 The **Eldritch Instinct SRD** is written by Linus Weber and licensed under [CC-BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from
 Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
