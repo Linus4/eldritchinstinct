@@ -22,7 +22,7 @@ title: Eldritch Instinct
 url: "https://eldritchinstinct.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: linus4
 permalink: pretty
-#logo: "/img/logo.svg"
+logo: "/img/logo_1_line.svg"
 encoding: UTF-8
 description: "Adventure game for investigating the strange and unexplained."
 color_scheme: dark
