@@ -9,7 +9,22 @@ parent: Scenarios
 
 ## Originals
 
-Send me a message on Discord (linus7017) with a link where your scenario can be accessed. I'll be happy to include it in the list.
+You are allowed and encouraged to publish your own scenarios or other assets for Eldritch Instinct commercially or for free without my express permission as long as you adhere to the restrictions listed below.
+
+Send me a message on Discord (linus7017) with a link where your product can be accessed and a PDF version of the finished product. I'll be happy to include it in the list and other collections if it adheres to the following restrictions.
+
+### Restrictions
+
+- You may not state or imply that your work is an **official** Eldritch Instinct product.
+- You may not use AI generated content such as images or text in your products.
+
+## Compatibility Logo
+
+You can use [this logo](https://drive.google.com/file/d/1CVwK67pTm_y7IEDsBzobNCj2qnV0GPqS/view?usp=sharing) to indicate that your scenario can be used with Eldritch Instinct. It's okay if you change the color of the logo.
+
+## Eldritch Archives
+
+The Eldritch Archives are a repository for community-created assets created for published scenarios and settings such as maps, handouts, soundfiles and guides. Send me a message on Discord (linus7017) with a link. The restrictions for original scenarios apply to assets and settings as well.
 
 ## Conversions
 
