@@ -4,9 +4,9 @@ title: Player Aid
 parent: Resources
 ---
 
-A PDF version is available [here](https://drive.google.com/file/d/1pDlzchB6JxCpiyCWfIY1naYfXx8l-sdH/view?usp=sharing).
-
 # Player Aid
+
+A PDF version is available [here](https://drive.google.com/file/d/1pDlzchB6JxCpiyCWfIY1naYfXx8l-sdH/view?usp=sharing).
 
 ## Principles for Players
 
