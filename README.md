@@ -17,6 +17,6 @@ Eldritch Instinct features:
 - Character sheet by [Francesco Zanieri / Licopeoart](https://www.instagram.com/licopeoart/).
 - Copyediting by [Tim B. / congas.blog](https://congas.blog/).
 
-This is a game that values community contributions! Please join the [Discord Server](https://eldritchinstinct.com/discord-server/) and the [Subreddit](https://reddit.com/r/EldritchInstinct) to talk about scenarios, discuss rules hacks and share play reports. If you have published assets like maps, handouts or audio files, I'd be happy to include them in the [Eldritch Archives](https://docs.google.com/spreadsheets/d/1TzDe6x5TRpJevprYeh6xxdNXU5Wk40Q1GU30AKIrgAM/edit?usp=sharing).
+This is a game that values community contributions! Please join the [Discord Server](https://eldritchinstinct.com/discord-server/) and the [Subreddit](https://eldritchinstinct.com/reddit) to talk about scenarios, discuss rules hacks and share play reports. If you have published assets like maps, handouts or audio files, I'd be happy to include them in the [Eldritch Archives](https://eldritch-instinct.com/eldritch-archives).
 
 ![Eldritch Instinct logo.](/img/eldritchinstinct.png)
