@@ -4,14 +4,14 @@ title: CATS example
 parent: Resources
 ---
 
-# CATS Example
+# C.A.T.S. Example
 
 _Adjust to fit your needs._
 
-**Concept:** Eldritch Instinct is an adventure game that blends cosmic horror with pulp action. You slip into the roles of everyday people who come face to face with the unspeakable horrors of the Mythos. To investigate, you interact with the world directly through questions, and encounters with characters in the game world are resolved purely through roleplay. _You_ do the investigating, not your character.
+**Concept:** _Eldritch Instinct_ is an adventure game that blends cosmic horror with pulp action. You slip into the roles of everyday people who come face to face with the unspeakable horrors of the Mythos. You investigate mysteries by describing your actions in the game world, not by interacting with game mechanics; in other words, _you_ do the investigating, not your character!
+    
+**Aim:** As a player, your goal is to survive the scenario and find out what's really going on. Your actions should be influenced by who your character is, but at the same time, you should push your character to new extremes. The fun is in finding out what happens to your characters and how your decisions affect the world.
 
-**Aim:** As players, your goal is to survive the scenario and find out what's really going on. Your actions should be influenced by who your characters are, but at the same time you should push your characters to places they usually wouldn't go. The fun is in seeing what happens to your characters and how your decisions affect the game world.
+**Tone:** This scenario deals with some serious themes. It lends itself to an immersive and tense atmosphere, and it can be a bit over the top and larger than life. Some comic relief outside of the game is appreciated, but your Investigators should take the situation seriously.
 
-**Tone:** For the most part, we'll try to create an immersive and tense atmosphere. Some comic relief outside of the game is appreciated, but your Investigators should take the situation seriously. Your Investigators and the scenario in general can be a bit over the top and larger than life.
-
-**Subject Matter:** This scenario features theme1, theme2 and theme3. If at any point during the session you're feeling uncomfortable in a bad way, please let me know so we can roll it back and understand what we need to change. Is there anything we should definitely avoid in our game, or are there certain themes we should treat with some discretion?
+**Subject Matter:** This scenario features theme1, theme2 and theme3. At any time during the game, you can ask me and the rest of the group to roll back certain events or avoid certain subject matter going forward. Is there anything we should definitely avoid in our game, or are there certain themes we should treat with some discretion?
