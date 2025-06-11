@@ -9,22 +9,17 @@ parent: Scenarios
 
 ## Originals
 
-You are allowed and encouraged to publish your own scenarios or other assets for Eldritch Instinct commercially or for free without my express permission as long as you adhere to the restrictions listed below.
+You are allowed and encouraged to publish your own scenarios and other products for Eldritch Instinct commercially or for free without my express permission. The Eldritch Instinct SRD is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Please do not use AI generated content such as images or text in your products.
 
-Send me a message on Discord (linus7017) with a link where your product can be accessed and a PDF version of the finished product. I'll be happy to include it in the list and other collections if it adheres to the following restrictions.
-
-### Restrictions
-
-- You may not state or imply that your work is an **official** Eldritch Instinct product.
-- You may not use AI generated content such as images or text in your products.
+Send me a message on Discord with a link where your product can be accessed and I'll be happy to include it in the list of original scenarios and in other collections.
 
 ## Compatibility Logo
 
-You can use [this logo](https://drive.google.com/file/d/1CVwK67pTm_y7IEDsBzobNCj2qnV0GPqS/view?usp=sharing) to indicate that your scenario can be used with Eldritch Instinct. It's okay if you change the color of the logo.
+You can use [this logo](https://drive.google.com/file/d/1CVwK67pTm_y7IEDsBzobNCj2qnV0GPqS/view?usp=sharing) to indicate that your scenario can be used with Eldritch Instinct.
 
 ## Eldritch Archives
 
-The Eldritch Archives are a repository for community-created assets created for published scenarios and settings such as maps, handouts, soundfiles and guides. Send me a message on Discord (linus7017) with a link. The restrictions for original scenarios apply to assets and settings as well.
+The Eldritch Archives are a repository for community-created assets created for published scenarios and settings such as maps, handouts, soundfiles and guides. Send me a message on Discord with a link. The restrictions for original scenarios apply to assets and settings as well.
 
 ## Conversions
 
