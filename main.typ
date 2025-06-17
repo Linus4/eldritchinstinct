@@ -520,7 +520,7 @@ When you witness a monster or other horrifying evidence of the Mythos that pushe
   [
     When you gain Insight, cross out the corresponding number of pips on your character sheet beginning at the 1 o’clock position and going clockwise. If you gain 5 or more Insight at once or if you cannot cross out enough Insight pips, make a *Panic Save*.
   ],
-  [#image("images/insight-circle.png", width: 80%)]
+  [#image("images/insight-circle-4.PNG", width: 76%)]
 )
 
 === Panic Saves
