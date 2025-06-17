@@ -52,7 +52,7 @@ The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" an
 #text(size: 9pt)[
   Written by Linus Weber. The _Eldritch Instinct_ SRD is licensed under #link("https://creativecommons.org/licenses/by-sa/4.0/")[CC BY-SA 4.0] and is derived from Yochai Gal’s #link("https://cairnrpg.com")[_Cairn_] SRD (cairnrpg.com).
   
-  Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Artists in order of appearance: Émile Beau, Arthur Rackham, Caspar David, Frederic Edwin Church, Frederick Catherwood, Hablot Knight Browne, Gustave Doré, Sidney Paget, George Houseman Thomas, Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville.]
+  Images from #link("https://www.oldbookillustrations.com/")[oldbookillustrations.com]. Artists in order of appearance: Émile Beau, Caspar David, Léon Benett & Sidney Paget, Frederic Edwin Church, Frederick Catherwood, Gustave Doré, Hablot Knight Browne, George Houseman Thomas & Arthur Rackham, John Tenniel, Hubert Robert and Alphonse de Neuville.]
 
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
