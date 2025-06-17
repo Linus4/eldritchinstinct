@@ -6,6 +6,7 @@
   columns: 1,
   binding: left
   // bleed: 8th inch top bottom outside, NOT inside
+  // 5.827" x 8.268" TRIM size on DTRPG
 )
 
 // 4th inch = 0.635 cm
@@ -29,21 +30,18 @@
   link(loc, numbering(loc.page-numbering(), ..nums))
 }
 
-#let stripe_color = rgb(215,215,235)
+#let stripe_color = rgb(210,210,255)
 
 #page(
   background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 108%)
 )[
-#place(top + center, dy: +30pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 1em, radius: 0.3em)[
-//#par(leading: 1.1em)[#text(size: 58pt, font: "New Computer Modern Uncial", weight: "bold")[Eldritch Instinct]]]]
-#par(leading: 0.1em)[#text(size: 68pt, font: "Metal Mania", weight: "bold")[Eldritch Instinct]]]]
-#place(top+center, dy: +162pt)[#rect(fill: rgb(234, 234, 239), stroke: 2pt + black, inset: 0.8em, radius: 0.2em)[
-#text(size: 14pt, font: "Metal Mania")[Cosmic Horror & Pulp Action]]]
-]
+#place(top + center, dy: +27pt)[
+  #image("images/cover_logo.svg", width: 75%)
+]]
 
 #page(background: image("images/Caspar David Friedrich - Statue of the Madonna in the Mountains left.png", fit: "stretch", width: 101%))[
 
-_Eldritch Instinct_ is an #link("https://questingblog.com/adventure-game-vs-osr/")[adventure game] for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
+_Eldritch Instinct_ is an adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 
 Brace yourself for a blend of cosmic horror and adrenaline-pumping action in which _you_ do the investigating, not your character. Hunt down forbidden knowledge in your quest to foil the sinister Mythos agenda. //Some mechanics take full effect in longer campaigns, but serve one-shots just as well.
 
@@ -59,7 +57,7 @@ The Cthulhu Mythos is a collection of stories, including "The Dunwich Horror" an
 #align(center+bottom, link("https://eldritchinstinct.com")[
 #text(fill: white)[*eldritchinstinct.com*]
 ])
-#align(center)[#text(fill: white)[Version 0.10 #sym.circle.filled.small May 2025]]
+#align(center)[#text(fill: white)[Version 1.0 #sym.circle.filled.small June 2025]]
 
 #pagebreak()
 ]
@@ -1021,13 +1019,13 @@ X MP, X Insight, X Broken notches
 
 #pagebreak()
 
-#page(background: image("eldritch_instinct_charsheet.png", fit: "cover"), numbering: none)[
+#page(background: image("images/ei_charsheet.jpg", fit: "cover"), numbering: none)[
   #pagebreak()
 ]
 
 #page(background: image("images/Émile Beau design-shroud-1600.jpg", fit: "cover", width: 108%), numbering: none)[
-    #place(bottom + center, dy: -35pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 2em, radius: 0.3em)[
-    #text(size: 15pt)[An adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained.
+    #place(bottom + center, dy: -64pt)[#rect(fill: rgb(234, 234, 239), stroke: 3pt + black, inset: 1.4em, radius: 0.3em)[
+    #text(size: 12pt)[An adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained.
 
     Take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
 

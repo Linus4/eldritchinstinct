@@ -4,7 +4,7 @@ title: SRD
 nav_order: 3
 ---
 
-# Eldritch Instinct System Reference Document (v0.9)
+# Eldritch Instinct System Reference Document (v1.0)
 {: .no_toc }
 
 **Eldritch Instinct** is an adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
