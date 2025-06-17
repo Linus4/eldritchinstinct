@@ -17,7 +17,7 @@ The **Eldritch Instinct SRD** is written by Linus Weber and licensed under [CC-B
 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is is derived from
 Yochai Gal’s [Cairn](https://cairnrpg.com) SRD (cairnrpg.com).
 
-<details close markdown="block">
+<details open markdown="block">
   <summary id="index">
     Table of contents
   </summary>
