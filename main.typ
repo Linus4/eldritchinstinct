@@ -1019,7 +1019,7 @@ X MP, X Insight, X Broken notches
 
 #pagebreak()
 
-#page(background: image("images/ei_charsheet.jpg", fit: "cover"), numbering: none)[
+#page(background: image("images/ei_charsheet.png", fit: "cover"), numbering: none)[
   #pagebreak()
 ]
 
