@@ -42,7 +42,7 @@ nav_external_links_new_tab: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a>"
+footer_content: "The text on this page is licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC-BY-SA 4.0.</a> - <a href=\"https://eldritchinstinct.com/imprint\">Imprint</a> - <a href=\"https://eldritchinstinct.com/privacy-policy\">Privacy Policy</a>"
 
 # Build settings
 remote_theme: "pmarsceill/just-the-docs"
