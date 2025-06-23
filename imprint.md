@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /imprint/
+title: Imprint
+nav_exclude: true
 ---
 
 # Imprint

@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /privacy-policy/
+title: Privacy Policy
+nav_exclude: true
 ---
 
 # Privacy Policy
@@ -8,6 +9,8 @@ permalink: /privacy-policy/
 ## Introduction
 
 Welcome to our website. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle any data related to your visit to our website.
+
+The person responsible (GDPR) is Linus Weber (Linus Weber - Eldritch Instinct, c/o Autorenglück #33879, Albert-Einstein-Str. 47, 02977 Hoyerswerda, E-Mail: eldritchinstinctrpg@gmail.com).
 
 ## Information We Collect
 
