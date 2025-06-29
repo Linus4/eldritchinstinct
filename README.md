@@ -15,7 +15,7 @@ Eldritch Instinct features:
 - 40 pages in A5 spread layout for convenient reference at the table.
 - Free introductory scenario "Roadhouse Feast" (available separately).
 - Character sheet by [Francesco Zanieri / Licopeoart](https://www.instagram.com/licopeoart/).
-- Copyediting by [Tim B. / congas.blog](https://congas.blog/).
+- Copyediting by [Tim B. / congas.blog](https://congas.blog/) and Editing by [Carl Apostle / CrlBox](https://crlbox.itch.io/) & [Markus / DerTaurus](https://dertaurus.itch.io/).
 
 This is a game that values community contributions! Please join the [Discord Server](https://eldritchinstinct.com/discord) and the [Subreddit](https://eldritchinstinct.com/reddit) to talk about scenarios, discuss rules hacks and share play reports. If you have published assets like maps, handouts or audio files, I'd be happy to include them in the [Eldritch Archives](https://eldritchinstinct.com/eldritch-archives).
 
