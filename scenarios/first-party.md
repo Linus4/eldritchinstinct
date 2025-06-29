@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Conversions
+title: First Party
 parent: Scenarios
-nav_order: 3
+nav_order: 1
 has_children: true
 ---
 
-# Adventure Conversions
+# First Party Scenarios
