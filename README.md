@@ -12,8 +12,8 @@ Brace yourself for a blend of cosmic horror and adrenaline-pumping action in whi
 Eldritch Instinct features:
 - Procedures, tables and advice refined over three years of playtesting to facilitate _immersive_ and _suspenseful_ horror scenarios.
 - Quick character generation with several random tables that includes meaningful relationships with other characters.
-- 40 pages in A5 spread layout for convenient reference at the table available as [Print-On-Demand on DriveThruRPG](https://www.drivethrurpg.com/en/product/526831/eldritch-instinct)​.
-- Free introductory scenario "Roadhouse Feast" ([available separately](https://www.drivethrurpg.com/en/product/526828/roadhouse-feast)).
+- 40 pages in A5 spread layout for convenient reference at the table available as [Print-On-Demand on DriveThruRPG](https://www.drivethrurpg.com/en/product/526831/eldritch-instinct) (as soon as it's approved)​.
+- Free introductory scenario "Roadhouse Feast" ([available separately](https://linuz.itch.io/roadhouse-feast)).
 - Character sheet by [Francesco Zanieri / Licopeoart](https://www.instagram.com/licopeoart/).
 
 Copyediting by [Tim B. / congas.blog](https://congas.blog/) and editing by [Carl Apostle / CrlBox](https://crlbox.itch.io/) & [Markus / DerTaurus](https://dertaurus.itch.io/).
