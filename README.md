@@ -18,6 +18,6 @@ Eldritch Instinct features:
 
 Copyediting by [Tim B. / congas.blog](https://congas.blog/) and editing by [Carl Apostle / CrlBox](https://crlbox.itch.io/) & [Markus / DerTaurus](https://dertaurus.itch.io/).
 
-This is a game that values community contributions! Please join the [Discord Server](https://eldritchinstinct.com/discord) and the [Subreddit](https://eldritchinstinct.com/reddit) to talk about scenarios, discuss rules hacks and share play reports. If you have published assets like maps, handouts or audio files, I'd be happy to include them in the [Eldritch Archives](https://eldritchinstinct.com/eldritch-archives).
+This is a game that values community contributions! Join the [Discord Server](https://eldritchinstinct.com/discord) and the [Subreddit](https://eldritchinstinct.com/reddit) to talk about scenarios, discuss rules hacks and share play reports. If you have published assets like maps, handouts or audio files, I'd be happy to include them in the [Eldritch Archives](https://eldritchinstinct.com/eldritch-archives).
 
 ![Eldritch Instinct logo.](/img/eldritchinstinct.png)
