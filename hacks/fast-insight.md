@@ -20,7 +20,7 @@ This is Work-In-Progress and will have to be playtested in a full campaign. If t
 
 ## Insight
 
-- Characters start with 0 Hardened notches.
+- Characters start with 0 Hardened notches. Find a character sheet with 0 Hardened notches in the [game files](https://eldritchinstinct.com/game-files/).
 - No more Insight Saves.
 - No more rolls to determine amount of rounds panicing.
 - New Insight Dice: d6 and discard 4+ results on each die.
