@@ -23,7 +23,7 @@ This is Work-In-Progress and will have to be playtested in a full campaign, but 
 - Characters start with 0 Hardened notches. Find a character sheet with 0 Hardened notches in the [game files](https://eldritchinstinct.com/game-files/).
 - No more Insight Saves.
 - No more rolls to determine amount of rounds panicing.
-- New Insight Dice: d6 and discard 4+ results on each die.
+- New Insight Dice: d6 and discard 4+ results on each die. Gain that amount of Insight points.
 - Still: Panic save when you gain 5+ Insight at once or cannot cross out enough pips.
 - Roll 1 Insight Die for something Unsettling such as traces of the horror. Roll 2 Insight Dice for something Awful such as a mangled corpse. Roll 3 Insight Dice for something Dreadful such as seeing a monster.
 - Note: Plan with ~8-12 Insight Dice per scenario.
