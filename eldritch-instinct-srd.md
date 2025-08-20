@@ -4,7 +4,7 @@ title: SRD
 nav_order: 3
 ---
 
-# Eldritch Instinct System Reference Document (v1.0)
+# Eldritch Instinct System Reference Document (v1.1)
 {: .no_toc }
 
 **Eldritch Instinct** is an adventure game for one  Warden and one or more players who act as investigators of the strange and unexplained. As a player, you will take on delusional cultists, hide from stalking shadows and face terrifying monstrosities.
@@ -420,7 +420,7 @@ On a fail, _fill in_ an Insight pip starting at the 12 o'clock position going co
 
 ### Broken
 
-Pips with a Broken notch cannot be crossed out when gaining Insight. If you gain a Broken notch but you cannot fill in another Insight pip, you permanently lose control of your character. 
+Pips with a Broken notch cannot be crossed out when gaining Insight. When you gain your 12th Broken notch, you permanently lose control of your character. 
 
 ### Hardened
 
